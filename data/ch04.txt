@@ -1,0 +1,60 @@
+investigate|v.|to carry out research or inquiry|بررسی کردن، تحقیق کردن|Police investigate crimes thoroughly.|Scientists investigate the causes of disease.
+invoke|v.|to cite or appeal to as authority|استناد کردن، به کار بردن|She invoked her right to remain silent.|The ritual invokes ancient traditions.
+isolate|v.|to place apart from others|جداسازی کردن، منزوی کردن|Patients with the virus were isolated.|The village is isolated by mountains.
+item|n.|an individual article or unit|مورد، قلم|Each item on the list must be checked.|The museum displays items from ancient Egypt.
+job|n.|a paid position of regular employment|شغل، کار|She found a job in the tech industry.|Unemployment means having no job.
+journal|n.|a daily record; a scholarly publication|دفتر روزانه؛ مجله|She keeps a journal of her travels.|The article was published in a medical journal.
+justify|v.|to show to be right or reasonable|توجیه کردن|Can you justify this expense?|The ends do not always justify the means.
+layer|n.|a sheet or thickness of material|لایه|Earth's atmosphere has several layers.|Apply a thin layer of paint.
+lecture|n./v.|an educational talk; to give such a talk|سخنرانی؛ سخنرانی کردن|The professor gave a lecture on genetics.|She lectures at the university twice a week.
+legal|adj.|permitted by law|قانونی، حقوقی|It is legal to vote at age eighteen.|She sought legal advice before signing.
+legislate|v.|to make or enact laws|قانون‌گذاری کردن|Parliament legislates on environmental issues.|It is difficult to legislate morality.
+liberal|adj.|open to new ideas; generous|لیبرال، آزاداندیش|She holds liberal views on education.|A liberal education includes arts and sciences.
+license|n./v.|official permission; to grant permission|مجوز؛ مجوز دادن|You need a license to drive a car.|The restaurant is licensed to sell alcohol.
+logic|n.|reasoning conducted according to strict principles|منطق|His argument lacks logic.|Mathematics is based on formal logic.
+maintain|v.|to keep in good condition; to assert|نگهداری کردن؛ ادعا کردن|It is expensive to maintain an old house.|She maintains that she is innocent.
+major|adj./n.|important or serious; a main subject|اصلی، مهم؛ رشته|The major cause of death is heart disease.|She is a history major at university.
+margin|n.|the edge or border; a small difference|حاشیه؛ حاشیه سود|Write notes in the margin of the page.|The team won by a narrow margin.
+mature|adj./v.|fully developed; to reach full development|بالغ؛ بالغ شدن|She is mature beyond her years.|Wine matures in oak barrels.
+maximum|adj./n.|the greatest possible amount|حداکثر|The maximum speed limit is 120 km/h.|Store at a maximum temperature of 25°C.
+mechanism|n.|a system of parts working together|مکانیسم، سازوکار|The mechanism of the clock is intricate.|The body has defence mechanisms against disease.
+media|n.|means of mass communication|رسانه|The media reported the story widely.|Social media influences public opinion.
+mediate|v.|to intervene between disputing parties|میانجی‌گری کردن|A judge mediated the settlement.|Teachers mediate conflicts between students.
+medical|adj.|relating to medicine or treatment of disease|پزشکی، درمانی|She needs urgent medical attention.|Medical research has extended life expectancy.
+mental|adj.|relating to the mind|ذهنی، روانی|Mental health is as important as physical health.|The exam caused considerable mental stress.
+method|n.|a particular way of doing something|روش، متد|The scientific method requires repeatable tests.|There is no single method for learning languages.
+emigrate|v.|to leave one's own country to settle permanently in another|مهاجرت کردن (خروج)|Thousands emigrate seeking better opportunities.|Her family emigrated to Canada in 1990.
+military|adj./n.|relating to armed forces|نظامی|He served in the military for ten years.|The military was deployed to the border.
+minimal|adj.|of the least possible amount|حداقل|The damage to the car was minimal.|We need minimal equipment for the trip.
+minimum|adj./n.|the least or smallest amount|حداقل|The minimum age for voting is eighteen.|Keep noise to a minimum during the exam.
+ministry|n.|a government department|وزارت|The Ministry of Education announced reforms.|He works in the Ministry of Finance.
+minor|adj./n.|lesser in importance; a person under legal age|جزئی؛ minor|There were only minor injuries in the accident.|It is illegal to sell alcohol to a minor.
+mode|n.|a way or manner of doing something|حالت، روش|Public transport is the preferred mode of travel.|The device has several operating modes.
+modify|v.|to make partial changes to something|تغییر دادن، اصلاح کردن|We modified the design based on feedback.|Genes can be modified in the laboratory.
+monitor|v./n.|to observe and check; a display screen|نظارت کردن؛ مانیتور|Doctors monitor the patient's heart rate.|She checked the monitor for updates.
+moral|adj./n.|concerned with right and wrong|اخلاقی|The moral issue divided public opinion.|He is a man of strong moral principles.
+mutual|adj.|experienced or done by each of two or more parties|متقابل، دوطرفه|They have mutual respect for each other.|The agreement benefits both parties mutually.
+network|n./v.|a group of interconnected people or things|شبکه|She built a professional network over the years.|Computers network to share resources.
+neutral|adj.|not supporting either side in a conflict|بی‌طرف|The country remained neutral during the war.|Choose a neutral colour for the walls.
+nevertheless|adv.|in spite of that; however|با این حال|It was raining; nevertheless, we went out.|The task was difficult; nevertheless, she succeeded.
+notion|n.|a conception or belief about something|انگاره، مفهوم|The notion of equality is central to democracy.|She rejected the notion that women are inferior.
+objective|n./adj.|a goal; not influenced by personal feelings|هدف؛ عینی|Our objective is to reduce poverty.|Scientists strive for objective analysis.
+oblige|v.|to require someone to do something by law or duty|ملزم کردن|The law obliges employers to provide safety training.|I am obliged to report the incident.
+obtain|v.|to get or acquire something|به دست آوردن|You can obtain a visa at the embassy.|She obtained a degree in engineering.
+obvious|adj.|easily perceived or understood|واضح، آشکار|It is obvious that he is lying.|The answer seems obvious in hindsight.
+occupation|n.|a job or profession; the act of taking control|شغل؛ اشغال|What is your occupation?|The occupation of the city lasted five years.
+occur|v.|to happen or take place|رخ دادن|Earthquakes occur frequently in this region.|The meeting occurs every Monday at nine.
+odd|adj.|strange or unusual; not divisible by two|عجیب؛ فرد|That is an odd thing to say.|One, three, and five are odd numbers.
+offset|v./n.|to counteract by having an opposite effect|جبران کردن|Planting trees offsets carbon emissions.|Tax credits offset the cost of childcare.
+ongoing|adj.|still in progress; continuing|در حال انجام، مستمر|There is an ongoing investigation.|Ongoing training keeps skills up to date.
+option|n.|a thing that is available as a choice|گزینه، انتخاب|You have several options to consider.|The optional module covers advanced topics.
+orient|v.|to align or adjust to circumstances|همسو کردن، orient کردن|Students orient themselves to campus life.|The building is oriented toward the south.
+outcome|n.|the result or effect of an action|نتیجه، پیامد|The outcome of the election surprised everyone.|We cannot predict the outcome with certainty.
+output|n.|the amount produced; information from a computer|خروجی، تولید|Factory output increased by ten percent.|Print the output of the program.
+overall|adj./adv.|taking everything into account|کلی، در مجموع|The overall cost exceeded the budget.|Overall, the project was a success.
+overlap|v./n.|to extend over and cover partly|همپوشانی|The two schedules overlap on Tuesday.|There is considerable overlap between the courses.
+panel|n.|a group of people gathered for a discussion|پانل، هیئت|A panel of experts reviewed the proposal.|She served on the advisory panel.
+parameter|n.|a measurable factor that defines a system|پارامتر|The experiment varied one parameter at a time.|Stay within the parameters of the agreement.
+participant|n.|a person who takes part in something|شرکت‌کننده|Each participant signed a consent form.|Over 500 participants attended the conference.
+participate|v.|to take part in an activity|شرکت کردن|Students participate in community service.|Everyone is encouraged to participate.
+partner|n./v.|a person who shares an activity; to join as a partner|شریک؛ شریک شدن|She found a business partner online.|The two firms partnered on the project.

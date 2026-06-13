@@ -1,0 +1,60 @@
+passion|n.|strong and barely controllable emotion|شور، اشتیاق|She spoke with passion about human rights.|Music is his greatest passion.
+passive|adj.|accepting without active response|منفعل|Passive learning is less effective than active.|He remained passive during the debate.
+peak|n./v.|the highest point; to reach the highest point|اوج؛ به اوج رسیدن|Tourism reaches its peak in August.|Demand peaked during the holiday season.
+peer|n./v.|a person of the same age or status; to look closely|همسال؛ نگاه دقیق کردن|Peer pressure affects teenagers.|She peered through the window.
+penalty|n.|a punishment for breaking a rule|مجازات، جریمه|The penalty for speeding is a fine.|He received the maximum penalty.
+perceive|v.|to become aware of through the senses|درک کردن، احساس کردن|Children perceive colour differently.|I perceive a change in his attitude.
+period|n.|a length of time|دوره، بازه|The Victorian period lasted sixty years.|Rest during the recovery period.
+persist|v.|to continue firmly despite opposition|پافشاری کردن، ادامه دادن|If symptoms persist, see a doctor.|She persisted until she achieved her goal.
+personnel|n.|people employed in an organization|پرسنل، کارکنان|Personnel records are kept confidential.|The company has over 500 personnel.
+perspective|n.|a particular attitude or point of view|دیدگاه، منظر|The book offers a historical perspective.|Try to see it from my perspective.
+phase|n.|a distinct period in a process|فاز، مرحله|The project is in its final phase.|The moon goes through phases each month.
+phenomenon|n.|a fact or situation that is observed to exist|پدیده|Global warming is a complex phenomenon.|The northern lights are a natural phenomenon.
+philosophy|n.|the study of fundamental nature of knowledge|فلسفه|He studied philosophy at university.|Her philosophy of life is simple: be kind.
+physical|adj.|relating to the body rather than the mind|جسمی، فیزیکی|Regular physical exercise improves health.|There was no physical evidence of a crime.
+policy|n.|a course of action adopted by an organization|سیاست، خط‌مشی|The school has a strict anti-bullying policy.|Government policy affects the economy.
+portion|n.|a part of a whole|بخش، قسمت|A large portion of the budget goes to education.|She ate only a small portion of food.
+pose|v./n.|to present a threat or problem; a position|ایجاد کردن؛ ژست|Pollution poses a threat to health.|The model held a graceful pose.
+positive|adj.|constructive or optimistic|مثبت|Stay positive despite setbacks.|The test result was positive.
+potential|adj./n.|having the capacity to develop; latent ability|بالقوه؛ پتانسیل|She is a potential leader.|The region has enormous economic potential.
+practitioner|n.|a person actively engaged in an profession|متخصص، practicioner|Medical practitioners must be licensed.|She is an experienced legal practitioner.
+precede|v.|to come before in time or order|مقدم بودن، پیش از|The ceremony was preceded by a reception.|A brief introduction preceded the lecture.
+precise|adj.|exact and accurate|دقیق، مشخص|Measurements must be precise.|She gave precise instructions.
+predict|v.|to say what will happen in the future|پیش‌بینی کردن|Experts predict economic growth next year.|It is hard to predict the weather.
+predominant|adj.|having the most influence or power|غالب، مسلط|English is the predominant language of business.|A predominant theme in the novel is loss.
+preliminary|adj.|preceding the main part; preparatory|اولیه، مقدماتی|Preliminary results look encouraging.|A preliminary hearing was held in court.
+presume|v.|to suppose something is true without proof|فرض کردن|I presume you have read the report.|The law presumes innocence until guilt is proven.
+previous|adj.|existing before in time or order|قبلی|Refer to the previous chapter for details.|She had no previous experience in sales.
+primary|adj.|of chief importance; earliest in time|اصلی، اولیه|The primary goal is to reduce costs.|Primary education is compulsory.
+prime|adj./n.|of the best quality; a prime number|برتر؛ اول|The prime minister addressed the nation.|Seven is a prime number.
+principal|adj./n.|first in order of importance; head of a school|اصلی؛ مدیر|The principal reason for failure was poor planning.|The principal welcomed new students.
+principle|n.|a fundamental truth or proposition|اصل، بنیاد|Democracy is based on the principle of equality.|She refused on principle.
+prior|adj.|existing before in time|قبلی، پیشین|Prior experience is preferred.|You need prior approval from management.
+priority|n.|something regarded as more important|اولویت|Education is a top priority.|Safety takes priority over speed.
+procedure|n.|an established way of doing something|روش، رویه|Follow the correct procedure.|The surgical procedure took three hours.
+process|n./v.|a series of actions; to perform operations on|فرایند؛ پردازش کردن|The hiring process takes several weeks.|Computers process data quickly.
+professional|adj./n.|relating to a profession; a qualified person|حرفه‌ای|She maintains a professional attitude.|Consult a legal professional.
+prohibit|v.|to formally forbid by law or rule|ممنوع کردن|Smoking is prohibited in public buildings.|The law prohibits discrimination.
+project|n./v.|a planned undertaking; to estimate future trends|پروژه؛ پیش‌بینی کردن|The construction project will take two years.|Sales are projected to rise next quarter.
+promote|v.|to support or actively encourage|ترویج دادن، ارتقا دادن|Exercise promotes good health.|She was promoted to manager.
+proportion|n.|a part considered in relation to the whole|نسبت، proportion|A large proportion of students pass the exam.|The proportion of women in parliament is rising.
+proposal|n.|a plan or suggestion put forward|پیشنهاد|The committee rejected the proposal.|She submitted a proposal for funding.
+prospect|n.|the possibility of future success|چشم‌انداز، prospect|Career prospects are good in this field.|The prospect of war worried everyone.
+protocol|n.|official procedure or system of rules|پروتکل، آیین|Diplomatic protocol must be followed.|The protocol requires two witnesses.
+psychology|n.|the scientific study of the mind and behaviour|روانشناسی|She has a degree in psychology.|Child psychology interests many researchers.
+publication|n.|the preparation and issuing of a book or journal|انتشار|The publication of the report was delayed.|The article appeared in a leading publication.
+publish|v.|to prepare and issue for public sale|منتشر کردن|She published her first novel at twenty-five.|The journal publishes monthly.
+purchase|n./v.|the act of buying; to buy|خرید؛ خرید کردن|Make your purchase before the sale ends.|They purchased a new home.
+pursue|v.|to follow or chase; to seek to attain|دنبال کردن، پیگیری کردن|She decided to pursue a career in law.|Police pursued the suspect through the streets.
+qualify|v.|to meet the necessary standard|واجد شرایط شدن|You must qualify for the scholarship.|He qualified as a doctor in 2010.
+quality|n.|the standard of something as measured against others|کیفیت|The quality of education varies widely.|Air quality has improved in cities.
+quarter|n.|one of four equal parts; a district|ربع؛ محله|Sales rose in the last quarter.|They live in the old quarter of the city.
+quote|v./n.|to repeat words from a text; a quotation|نقل قول کردن؛ نقل قول|She quoted from Shakespeare.|The quote inspired the team.
+radical|adj.|relating to fundamental change; extreme|رادیکال، اساسی|The reform was too radical for conservatives.|Radical ideas often face resistance.
+range|n./v.|the area of variation; to vary between limits|دامنه؛ در بر داشتن|Prices range from ten to fifty dollars.|The mountain range stretches for miles.
+ratio|n.|the relationship between two amounts|نسبت|The ratio of men to women is equal.|The student-teacher ratio is twenty to one.
+rational|adj.|based on reason or logic|منطقی|Make a rational decision based on facts.|Humans are not always rational actors.
+react|v.|to respond to a stimulus|واکنش نشان دادن|How did she react to the news?|Allergies cause the body to react.
+prototype|n.|a first model from which others are developed|نمونه اولیه|Engineers built a working prototype.|The prototype was tested in the lab.
+psychiatrist|n.|a medical doctor specializing in mental health|روانپزشک|She consulted a psychiatrist.|Psychiatrists can prescribe medication.
+publicise|v.|to make widely known to the public|اعلام عمومی کردن|The event was publicised on social media.|They publicised the findings widely.

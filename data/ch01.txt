@@ -1,0 +1,60 @@
+abundant|adj.|existing in large quantities; plentiful|فراوان، زیاد|The region has abundant natural resources.|Fish are abundant in this lake during spring.
+accumulate|v.|to gradually collect or gather over time|جمع‌آوری کردن، انباشتن|Dust tends to accumulate on unused shelves.|She accumulated years of experience in research.
+arid|adj.|extremely dry with little rainfall|خشک، بی‌باران|The arid desert receives almost no rain.|Farmers struggle to grow crops in arid regions.
+atmosphere|n.|the layer of gases surrounding the Earth|جو، فضای اطراف|The atmosphere protects us from harmful radiation.|Pollution is damaging the upper atmosphere.
+barrier|n.|something that blocks movement or progress|مانع، سد|A coral reef acts as a natural barrier against waves.|Language can be a barrier to communication.
+blizzard|n.|a severe snowstorm with strong winds|کولاک، طوفان برف|A blizzard closed all the mountain roads.|Travelers were stranded during the blizzard.
+breeze|n.|a light gentle wind|نسیم، نسیم ملایم|A cool breeze blew in from the ocean.|We enjoyed a pleasant breeze on the terrace.
+catastrophe|n.|a sudden disaster causing great damage|فاجعه، بلایای طبیعی|The earthquake was a catastrophe for the region.|Failure to act could lead to environmental catastrophe.
+circulation|n.|movement in a circular path; distribution|گردش، توزیع|Blood circulation keeps the body healthy.|The circulation of ocean currents affects climate.
+climate|n.|the typical weather conditions of a region|آب و هوا، اقلیم|The climate in this area is mild and wet.|Climate change is altering global weather patterns.
+coast|n.|the land along the edge of the sea|ساحل، کرانه|Tourists flock to the coast in summer.|Many cities were built along the coast.
+conserve|v.|to protect from harm or waste|حفظ کردن، صرفه‌جویی کردن|We must conserve water during the drought.|The park helps conserve endangered species.
+contaminate|v.|to make impure by adding harmful substances|آلوده کردن|Industrial waste can contaminate rivers.|The spill contaminated the drinking water supply.
+coral|n.|hard skeletons of tiny sea animals forming reefs|مرجان|Coral reefs support diverse marine life.|Rising temperatures are killing coral worldwide.
+crater|n.|a large bowl-shaped hole in the ground|دهانه، گودال|The volcano left a massive crater.|Meteor impacts can create enormous craters.
+cultivate|v.|to prepare land for growing crops|کشت کردن، پرورش دادن|Farmers cultivate rice in flooded fields.|She cultivated a garden of native plants.
+cycle|n./v.|a series of events that repeat; to go through repeatedly|چرخه؛ چرخیدن|The water cycle moves moisture around the globe.|Nutrients cycle through the ecosystem constantly.
+decompose|v.|to break down into simpler parts|تجزیه شدن|Leaves decompose and enrich the soil.|Organic waste decomposes faster in warm weather.
+deforestation|n.|the clearing of forests on a large scale|قطع درختان، جنگل‌زدایی|Deforestation threatens biodiversity in the tropics.|Deforestation contributes to climate change.
+delta|n.|a flat area where a river splits before entering the sea|دلتا|Rich soil in the delta supports agriculture.|The Nile delta is one of the world's largest.
+dense|adj.|closely packed together; thick|متراکم، انبوه|The forest was too dense to walk through.|Dense fog reduced visibility to zero.
+desert|n.|a dry barren area with little vegetation|بیابان، کویر|Camels are well adapted to desert life.|The Sahara is the world's largest hot desert.
+deteriorate|v.|to become progressively worse|بدتر شدن، فاسد شدن|Air quality continues to deteriorate in cities.|The building's condition has deteriorated over time.
+disaster|n.|a sudden event causing great damage|فاجعه، بلایا|The flood was the worst disaster in decades.|Emergency teams responded quickly to the disaster.
+drought|n.|a prolonged period of abnormally low rainfall|خشکسالی|The drought destroyed crops across the region.|Water restrictions were imposed during the drought.
+ecology|n.|the study of organisms and their environment|بوم‌شناسی|Ecology helps us understand ecosystem balance.|She earned a degree in ecology and conservation.
+ecosystem|n.|a community of living things and their environment|اکوسیستم، بوم‌سازگان|Wetlands are fragile ecosystems.|Pollution disrupts the entire ecosystem.
+environment|n.|the natural world or surroundings|محیط زیست|We must protect the environment for future generations.|The work environment affects employee productivity.
+equator|n.|an imaginary line dividing Earth into northern and southern halves|خط استوا|Countries near the equator have tropical climates.|The equator receives the most direct sunlight.
+erosion|n.|the gradual wearing away of soil or rock|فرسایش، سایش|Coastal erosion threatens seaside villages.|Wind and water cause erosion over time.
+evaporate|v.|to change from liquid into vapour|تبخیر شدن|Water evaporates quickly in the desert heat.|The puddle evaporated within hours.
+expanse|n.|a wide continuous area|گستره، وسعت|The expanse of prairie stretched to the horizon.|An expanse of ice covered the Arctic Ocean.
+extinct|adj.|no longer existing as a living species|منقرض|Dinosaurs have been extinct for millions of years.|Several species are at risk of becoming extinct.
+fauna|n.|the animals of a particular region|جانوران|The island's fauna includes rare birds.|Researchers studied the local fauna and flora.
+fertile|adj.|capable of producing abundant crops|حاصلخیز|The fertile valley produces excellent wine.|Rich soil makes this land highly fertile.
+flora|n.|the plants of a particular region|گیاهان|The flora of the rainforest is incredibly diverse.|Botanists catalogued the mountain flora.
+forecast|n./v.|a prediction of future weather|پیش‌بینی|The weather forecast predicts rain tomorrow.|Meteorologists forecast a cold front this week.
+fossil|n.|remains of ancient plants or animals in rock|فسیل|Fossils reveal how life evolved on Earth.|They discovered a dinosaur fossil in the quarry.
+freeze|v.|to turn into ice due to cold|یخ زدن|Lakes freeze over during harsh winters.|Water pipes can freeze and burst.
+geology|n.|the science of Earth's physical structure|زمین‌شناسی|Geology explains how mountains were formed.|She specializes in geology and mineral resources.
+glacier|n.|a slowly moving mass of ice|یخچال طبیعی|Glaciers are melting due to global warming.|The glacier carved a deep valley over millennia.
+habitat|n.|the natural home of an animal or plant|زیستگاه|Wetlands provide habitat for migratory birds.|Urban sprawl destroys wildlife habitat.
+harvest|n./v.|the gathering of crops; to gather crops|برداشت؛ درو کردن|The harvest was the best in ten years.|Farmers harvest wheat in late summer.
+humid|adj.|having a high amount of moisture in the air|مرطوب، شرجی|The climate is hot and humid in summer.|Humid conditions make the heat feel worse.
+hurricane|n.|a violent tropical storm with strong winds|توفند، طوفان|A hurricane devastated the coastal towns.|Residents evacuated before the hurricane arrived.
+iceberg|n.|a large floating mass of ice|کوه یخ|Only a small part of an iceberg is visible above water.|The ship struck an iceberg in the Arctic.
+irrigate|v.|to supply water to land for crops|آبیاری کردن|Farmers irrigate fields using canal systems.|Desert farms rely on irrigated water.
+landscape|n.|all the visible features of an area of land|منظره، چشم‌انداز|The mountain landscape took our breath away.|Urban development is changing the rural landscape.
+latitude|n.|distance north or south of the equator|عرض جغرافیایی|The city lies at a latitude of 35 degrees north.|Latitude affects the length of daylight hours.
+lightning|n.|a flash of bright light during a thunderstorm|رعد و برق|Lightning struck the tree during the storm.|Stay indoors during lightning storms.
+magnitude|n.|great size or importance|بزرگی، شدت|The earthquake reached a magnitude of 7.2.|We did not grasp the magnitude of the problem.
+marsh|n.|soft wet land covered with grass|مرداب، باتلاق|Birds nest in the coastal marsh.|The marsh filters pollutants from the water.
+meteorology|n.|the science of weather and atmosphere|هواشناسی|Meteorology uses satellites to track storms.|Advances in meteorology improve storm warnings.
+migrate|v.|to move from one region to another seasonally|مهاجرت کردن|Birds migrate south for the winter.|Whales migrate thousands of miles each year.
+mineral|n.|a naturally occurring solid substance|معدن، مواد معدنی|The rock contains valuable minerals.|The body needs minerals like iron and calcium.
+moisture|n.|small amounts of water present in the air or ground|رطوبت|Plants absorb moisture from the soil.|High moisture levels promote mould growth.
+monsoon|n.|a seasonal wind bringing heavy rain|موسمی، باران موسمی|The monsoon brings relief after the dry season.|Flooding is common during the monsoon season.
+oasis|n.|a fertile spot in a desert with water|واحه|Travelers rested at an oasis in the desert.|The park was an oasis of green in the city.
+ocean|n.|a very large body of salt water|اقیانوس|The Pacific is the largest ocean on Earth.|Ocean currents regulate global temperatures.
+orbit|n./v.|the curved path of a celestial body; to move in a path|مدار؛ در مدار چرخیدن|The moon's orbit around Earth takes 27 days.|Satellites orbit the planet at high speed.

@@ -1,0 +1,6002 @@
+[
+  {
+    "word": "abundant",
+    "pos": "adj.",
+    "definition": "existing in large quantities; plentiful",
+    "fa": "فراوان، زیاد",
+    "examples": [
+      "The region has abundant natural resources.",
+      "Fish are abundant in this lake during spring."
+    ]
+  },
+  {
+    "word": "accumulate",
+    "pos": "v.",
+    "definition": "to gradually collect or gather over time",
+    "fa": "جمع‌آوری کردن، انباشتن",
+    "examples": [
+      "Dust tends to accumulate on unused shelves.",
+      "She accumulated years of experience in research."
+    ]
+  },
+  {
+    "word": "arid",
+    "pos": "adj.",
+    "definition": "extremely dry with little rainfall",
+    "fa": "خشک، بی‌باران",
+    "examples": [
+      "The arid desert receives almost no rain.",
+      "Farmers struggle to grow crops in arid regions."
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "pos": "n.",
+    "definition": "the layer of gases surrounding the Earth",
+    "fa": "جو، فضای اطراف",
+    "examples": [
+      "The atmosphere protects us from harmful radiation.",
+      "Pollution is damaging the upper atmosphere."
+    ]
+  },
+  {
+    "word": "barrier",
+    "pos": "n.",
+    "definition": "something that blocks movement or progress",
+    "fa": "مانع، سد",
+    "examples": [
+      "A coral reef acts as a natural barrier against waves.",
+      "Language can be a barrier to communication."
+    ]
+  },
+  {
+    "word": "blizzard",
+    "pos": "n.",
+    "definition": "a severe snowstorm with strong winds",
+    "fa": "کولاک، طوفان برف",
+    "examples": [
+      "A blizzard closed all the mountain roads.",
+      "Travelers were stranded during the blizzard."
+    ]
+  },
+  {
+    "word": "breeze",
+    "pos": "n.",
+    "definition": "a light gentle wind",
+    "fa": "نسیم، نسیم ملایم",
+    "examples": [
+      "A cool breeze blew in from the ocean.",
+      "We enjoyed a pleasant breeze on the terrace."
+    ]
+  },
+  {
+    "word": "catastrophe",
+    "pos": "n.",
+    "definition": "a sudden disaster causing great damage",
+    "fa": "فاجعه، بلایای طبیعی",
+    "examples": [
+      "The earthquake was a catastrophe for the region.",
+      "Failure to act could lead to environmental catastrophe."
+    ]
+  },
+  {
+    "word": "circulation",
+    "pos": "n.",
+    "definition": "movement in a circular path; distribution",
+    "fa": "گردش، توزیع",
+    "examples": [
+      "Blood circulation keeps the body healthy.",
+      "The circulation of ocean currents affects climate."
+    ]
+  },
+  {
+    "word": "climate",
+    "pos": "n.",
+    "definition": "the typical weather conditions of a region",
+    "fa": "آب و هوا، اقلیم",
+    "examples": [
+      "The climate in this area is mild and wet.",
+      "Climate change is altering global weather patterns."
+    ]
+  },
+  {
+    "word": "coast",
+    "pos": "n.",
+    "definition": "the land along the edge of the sea",
+    "fa": "ساحل، کرانه",
+    "examples": [
+      "Tourists flock to the coast in summer.",
+      "Many cities were built along the coast."
+    ]
+  },
+  {
+    "word": "conserve",
+    "pos": "v.",
+    "definition": "to protect from harm or waste",
+    "fa": "حفظ کردن، صرفه‌جویی کردن",
+    "examples": [
+      "We must conserve water during the drought.",
+      "The park helps conserve endangered species."
+    ]
+  },
+  {
+    "word": "contaminate",
+    "pos": "v.",
+    "definition": "to make impure by adding harmful substances",
+    "fa": "آلوده کردن",
+    "examples": [
+      "Industrial waste can contaminate rivers.",
+      "The spill contaminated the drinking water supply."
+    ]
+  },
+  {
+    "word": "coral",
+    "pos": "n.",
+    "definition": "hard skeletons of tiny sea animals forming reefs",
+    "fa": "مرجان",
+    "examples": [
+      "Coral reefs support diverse marine life.",
+      "Rising temperatures are killing coral worldwide."
+    ]
+  },
+  {
+    "word": "crater",
+    "pos": "n.",
+    "definition": "a large bowl-shaped hole in the ground",
+    "fa": "دهانه، گودال",
+    "examples": [
+      "The volcano left a massive crater.",
+      "Meteor impacts can create enormous craters."
+    ]
+  },
+  {
+    "word": "cultivate",
+    "pos": "v.",
+    "definition": "to prepare land for growing crops",
+    "fa": "کشت کردن، پرورش دادن",
+    "examples": [
+      "Farmers cultivate rice in flooded fields.",
+      "She cultivated a garden of native plants."
+    ]
+  },
+  {
+    "word": "cycle",
+    "pos": "n./v.",
+    "definition": "a series of events that repeat; to go through repeatedly",
+    "fa": "چرخه؛ چرخیدن",
+    "examples": [
+      "The water cycle moves moisture around the globe.",
+      "Nutrients cycle through the ecosystem constantly."
+    ]
+  },
+  {
+    "word": "decompose",
+    "pos": "v.",
+    "definition": "to break down into simpler parts",
+    "fa": "تجزیه شدن",
+    "examples": [
+      "Leaves decompose and enrich the soil.",
+      "Organic waste decomposes faster in warm weather."
+    ]
+  },
+  {
+    "word": "deforestation",
+    "pos": "n.",
+    "definition": "the clearing of forests on a large scale",
+    "fa": "قطع درختان، جنگل‌زدایی",
+    "examples": [
+      "Deforestation threatens biodiversity in the tropics.",
+      "Deforestation contributes to climate change."
+    ]
+  },
+  {
+    "word": "delta",
+    "pos": "n.",
+    "definition": "a flat area where a river splits before entering the sea",
+    "fa": "دلتا",
+    "examples": [
+      "Rich soil in the delta supports agriculture.",
+      "The Nile delta is one of the world's largest."
+    ]
+  },
+  {
+    "word": "dense",
+    "pos": "adj.",
+    "definition": "closely packed together; thick",
+    "fa": "متراکم، انبوه",
+    "examples": [
+      "The forest was too dense to walk through.",
+      "Dense fog reduced visibility to zero."
+    ]
+  },
+  {
+    "word": "desert",
+    "pos": "n.",
+    "definition": "a dry barren area with little vegetation",
+    "fa": "بیابان، کویر",
+    "examples": [
+      "Camels are well adapted to desert life.",
+      "The Sahara is the world's largest hot desert."
+    ]
+  },
+  {
+    "word": "deteriorate",
+    "pos": "v.",
+    "definition": "to become progressively worse",
+    "fa": "بدتر شدن، فاسد شدن",
+    "examples": [
+      "Air quality continues to deteriorate in cities.",
+      "The building's condition has deteriorated over time."
+    ]
+  },
+  {
+    "word": "disaster",
+    "pos": "n.",
+    "definition": "a sudden event causing great damage",
+    "fa": "فاجعه، بلایا",
+    "examples": [
+      "The flood was the worst disaster in decades.",
+      "Emergency teams responded quickly to the disaster."
+    ]
+  },
+  {
+    "word": "drought",
+    "pos": "n.",
+    "definition": "a prolonged period of abnormally low rainfall",
+    "fa": "خشکسالی",
+    "examples": [
+      "The drought destroyed crops across the region.",
+      "Water restrictions were imposed during the drought."
+    ]
+  },
+  {
+    "word": "ecology",
+    "pos": "n.",
+    "definition": "the study of organisms and their environment",
+    "fa": "بوم‌شناسی",
+    "examples": [
+      "Ecology helps us understand ecosystem balance.",
+      "She earned a degree in ecology and conservation."
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "pos": "n.",
+    "definition": "a community of living things and their environment",
+    "fa": "اکوسیستم، بوم‌سازگان",
+    "examples": [
+      "Wetlands are fragile ecosystems.",
+      "Pollution disrupts the entire ecosystem."
+    ]
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "definition": "the natural world or surroundings",
+    "fa": "محیط زیست",
+    "examples": [
+      "We must protect the environment for future generations.",
+      "The work environment affects employee productivity."
+    ]
+  },
+  {
+    "word": "equator",
+    "pos": "n.",
+    "definition": "an imaginary line dividing Earth into northern and southern halves",
+    "fa": "خط استوا",
+    "examples": [
+      "Countries near the equator have tropical climates.",
+      "The equator receives the most direct sunlight."
+    ]
+  },
+  {
+    "word": "erosion",
+    "pos": "n.",
+    "definition": "the gradual wearing away of soil or rock",
+    "fa": "فرسایش، سایش",
+    "examples": [
+      "Coastal erosion threatens seaside villages.",
+      "Wind and water cause erosion over time."
+    ]
+  },
+  {
+    "word": "evaporate",
+    "pos": "v.",
+    "definition": "to change from liquid into vapour",
+    "fa": "تبخیر شدن",
+    "examples": [
+      "Water evaporates quickly in the desert heat.",
+      "The puddle evaporated within hours."
+    ]
+  },
+  {
+    "word": "expanse",
+    "pos": "n.",
+    "definition": "a wide continuous area",
+    "fa": "گستره، وسعت",
+    "examples": [
+      "The expanse of prairie stretched to the horizon.",
+      "An expanse of ice covered the Arctic Ocean."
+    ]
+  },
+  {
+    "word": "extinct",
+    "pos": "adj.",
+    "definition": "no longer existing as a living species",
+    "fa": "منقرض",
+    "examples": [
+      "Dinosaurs have been extinct for millions of years.",
+      "Several species are at risk of becoming extinct."
+    ]
+  },
+  {
+    "word": "fauna",
+    "pos": "n.",
+    "definition": "the animals of a particular region",
+    "fa": "جانوران",
+    "examples": [
+      "The island's fauna includes rare birds.",
+      "Researchers studied the local fauna and flora."
+    ]
+  },
+  {
+    "word": "fertile",
+    "pos": "adj.",
+    "definition": "capable of producing abundant crops",
+    "fa": "حاصلخیز",
+    "examples": [
+      "The fertile valley produces excellent wine.",
+      "Rich soil makes this land highly fertile."
+    ]
+  },
+  {
+    "word": "flora",
+    "pos": "n.",
+    "definition": "the plants of a particular region",
+    "fa": "گیاهان",
+    "examples": [
+      "The flora of the rainforest is incredibly diverse.",
+      "Botanists catalogued the mountain flora."
+    ]
+  },
+  {
+    "word": "forecast",
+    "pos": "n./v.",
+    "definition": "a prediction of future weather",
+    "fa": "پیش‌بینی",
+    "examples": [
+      "The weather forecast predicts rain tomorrow.",
+      "Meteorologists forecast a cold front this week."
+    ]
+  },
+  {
+    "word": "fossil",
+    "pos": "n.",
+    "definition": "remains of ancient plants or animals in rock",
+    "fa": "فسیل",
+    "examples": [
+      "Fossils reveal how life evolved on Earth.",
+      "They discovered a dinosaur fossil in the quarry."
+    ]
+  },
+  {
+    "word": "freeze",
+    "pos": "v.",
+    "definition": "to turn into ice due to cold",
+    "fa": "یخ زدن",
+    "examples": [
+      "Lakes freeze over during harsh winters.",
+      "Water pipes can freeze and burst."
+    ]
+  },
+  {
+    "word": "geology",
+    "pos": "n.",
+    "definition": "the science of Earth's physical structure",
+    "fa": "زمین‌شناسی",
+    "examples": [
+      "Geology explains how mountains were formed.",
+      "She specializes in geology and mineral resources."
+    ]
+  },
+  {
+    "word": "glacier",
+    "pos": "n.",
+    "definition": "a slowly moving mass of ice",
+    "fa": "یخچال طبیعی",
+    "examples": [
+      "Glaciers are melting due to global warming.",
+      "The glacier carved a deep valley over millennia."
+    ]
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "definition": "the natural home of an animal or plant",
+    "fa": "زیستگاه",
+    "examples": [
+      "Wetlands provide habitat for migratory birds.",
+      "Urban sprawl destroys wildlife habitat."
+    ]
+  },
+  {
+    "word": "harvest",
+    "pos": "n./v.",
+    "definition": "the gathering of crops; to gather crops",
+    "fa": "برداشت؛ درو کردن",
+    "examples": [
+      "The harvest was the best in ten years.",
+      "Farmers harvest wheat in late summer."
+    ]
+  },
+  {
+    "word": "humid",
+    "pos": "adj.",
+    "definition": "having a high amount of moisture in the air",
+    "fa": "مرطوب، شرجی",
+    "examples": [
+      "The climate is hot and humid in summer.",
+      "Humid conditions make the heat feel worse."
+    ]
+  },
+  {
+    "word": "hurricane",
+    "pos": "n.",
+    "definition": "a violent tropical storm with strong winds",
+    "fa": "توفند، طوفان",
+    "examples": [
+      "A hurricane devastated the coastal towns.",
+      "Residents evacuated before the hurricane arrived."
+    ]
+  },
+  {
+    "word": "iceberg",
+    "pos": "n.",
+    "definition": "a large floating mass of ice",
+    "fa": "کوه یخ",
+    "examples": [
+      "Only a small part of an iceberg is visible above water.",
+      "The ship struck an iceberg in the Arctic."
+    ]
+  },
+  {
+    "word": "irrigate",
+    "pos": "v.",
+    "definition": "to supply water to land for crops",
+    "fa": "آبیاری کردن",
+    "examples": [
+      "Farmers irrigate fields using canal systems.",
+      "Desert farms rely on irrigated water."
+    ]
+  },
+  {
+    "word": "landscape",
+    "pos": "n.",
+    "definition": "all the visible features of an area of land",
+    "fa": "منظره، چشم‌انداز",
+    "examples": [
+      "The mountain landscape took our breath away.",
+      "Urban development is changing the rural landscape."
+    ]
+  },
+  {
+    "word": "latitude",
+    "pos": "n.",
+    "definition": "distance north or south of the equator",
+    "fa": "عرض جغرافیایی",
+    "examples": [
+      "The city lies at a latitude of 35 degrees north.",
+      "Latitude affects the length of daylight hours."
+    ]
+  },
+  {
+    "word": "lightning",
+    "pos": "n.",
+    "definition": "a flash of bright light during a thunderstorm",
+    "fa": "رعد و برق",
+    "examples": [
+      "Lightning struck the tree during the storm.",
+      "Stay indoors during lightning storms."
+    ]
+  },
+  {
+    "word": "magnitude",
+    "pos": "n.",
+    "definition": "great size or importance",
+    "fa": "بزرگی، شدت",
+    "examples": [
+      "The earthquake reached a magnitude of 7.2.",
+      "We did not grasp the magnitude of the problem."
+    ]
+  },
+  {
+    "word": "marsh",
+    "pos": "n.",
+    "definition": "soft wet land covered with grass",
+    "fa": "مرداب، باتلاق",
+    "examples": [
+      "Birds nest in the coastal marsh.",
+      "The marsh filters pollutants from the water."
+    ]
+  },
+  {
+    "word": "meteorology",
+    "pos": "n.",
+    "definition": "the science of weather and atmosphere",
+    "fa": "هواشناسی",
+    "examples": [
+      "Meteorology uses satellites to track storms.",
+      "Advances in meteorology improve storm warnings."
+    ]
+  },
+  {
+    "word": "migrate",
+    "pos": "v.",
+    "definition": "to move from one region to another seasonally",
+    "fa": "مهاجرت کردن",
+    "examples": [
+      "Birds migrate south for the winter.",
+      "Whales migrate thousands of miles each year."
+    ]
+  },
+  {
+    "word": "mineral",
+    "pos": "n.",
+    "definition": "a naturally occurring solid substance",
+    "fa": "معدن، مواد معدنی",
+    "examples": [
+      "The rock contains valuable minerals.",
+      "The body needs minerals like iron and calcium."
+    ]
+  },
+  {
+    "word": "moisture",
+    "pos": "n.",
+    "definition": "small amounts of water present in the air or ground",
+    "fa": "رطوبت",
+    "examples": [
+      "Plants absorb moisture from the soil.",
+      "High moisture levels promote mould growth."
+    ]
+  },
+  {
+    "word": "monsoon",
+    "pos": "n.",
+    "definition": "a seasonal wind bringing heavy rain",
+    "fa": "موسمی، باران موسمی",
+    "examples": [
+      "The monsoon brings relief after the dry season.",
+      "Flooding is common during the monsoon season."
+    ]
+  },
+  {
+    "word": "oasis",
+    "pos": "n.",
+    "definition": "a fertile spot in a desert with water",
+    "fa": "واحه",
+    "examples": [
+      "Travelers rested at an oasis in the desert.",
+      "The park was an oasis of green in the city."
+    ]
+  },
+  {
+    "word": "ocean",
+    "pos": "n.",
+    "definition": "a very large body of salt water",
+    "fa": "اقیانوس",
+    "examples": [
+      "The Pacific is the largest ocean on Earth.",
+      "Ocean currents regulate global temperatures."
+    ]
+  },
+  {
+    "word": "orbit",
+    "pos": "n./v.",
+    "definition": "the curved path of a celestial body; to move in a path",
+    "fa": "مدار؛ در مدار چرخیدن",
+    "examples": [
+      "The moon's orbit around Earth takes 27 days.",
+      "Satellites orbit the planet at high speed."
+    ]
+  },
+  {
+    "word": "oxygen",
+    "pos": "n.",
+    "definition": "a gas essential for breathing",
+    "fa": "اکسیژن",
+    "examples": [
+      "Plants produce oxygen through photosynthesis.",
+      "Divers carry tanks of compressed oxygen."
+    ]
+  },
+  {
+    "word": "ozone",
+    "pos": "n.",
+    "definition": "a form of oxygen that protects Earth from UV rays",
+    "fa": "ازن",
+    "examples": [
+      "The ozone layer shields us from harmful radiation.",
+      "Chemicals have damaged the ozone layer."
+    ]
+  },
+  {
+    "word": "peninsula",
+    "pos": "n.",
+    "definition": "a piece of land almost surrounded by water",
+    "fa": "شبه‌جزیره",
+    "examples": [
+      "Korea is located on a peninsula.",
+      "The peninsula juts out into the Mediterranean."
+    ]
+  },
+  {
+    "word": "photosynthesis",
+    "pos": "n.",
+    "definition": "the process by which plants make food using sunlight",
+    "fa": "فتوسنتز، سنتز نوری",
+    "examples": [
+      "Photosynthesis converts carbon dioxide into oxygen.",
+      "Without photosynthesis, life on Earth would not exist."
+    ]
+  },
+  {
+    "word": "plateau",
+    "pos": "n.",
+    "definition": "a flat elevated area of land",
+    "fa": "فلات، تپه‌زار",
+    "examples": [
+      "The Tibetan Plateau is called the roof of the world.",
+      "The city sits on a high plateau."
+    ]
+  },
+  {
+    "word": "pollute",
+    "pos": "v.",
+    "definition": "to make air, water, or land dirty and harmful",
+    "fa": "آلوده کردن",
+    "examples": [
+      "Factories pollute rivers with chemical waste.",
+      "Car exhaust pollutes the air in cities."
+    ]
+  },
+  {
+    "word": "precipitation",
+    "pos": "n.",
+    "definition": "rain, snow, or other water falling from the sky",
+    "fa": "بارش",
+    "examples": [
+      "Annual precipitation in this region exceeds 100 cm.",
+      "Heavy precipitation caused flooding in the valley."
+    ]
+  },
+  {
+    "word": "preserve",
+    "pos": "v.",
+    "definition": "to keep something in its original state",
+    "fa": "حفظ کردن، نگهداری",
+    "examples": [
+      "National parks preserve wilderness areas.",
+      "We must preserve biodiversity for future generations."
+    ]
+  },
+  {
+    "word": "rainforest",
+    "pos": "n.",
+    "definition": "a dense forest with heavy rainfall",
+    "fa": "جنگل بارانی",
+    "examples": [
+      "The Amazon rainforest produces much of the world's oxygen.",
+      "Rainforest destruction threatens countless species."
+    ]
+  },
+  {
+    "word": "renewable",
+    "pos": "adj.",
+    "definition": "able to be replaced naturally and not depleted",
+    "fa": "تجدیدپذیر",
+    "examples": [
+      "Solar and wind are renewable energy sources.",
+      "Renewable resources include timber and freshwater."
+    ]
+  },
+  {
+    "word": "reservoir",
+    "pos": "n.",
+    "definition": "a large natural or artificial lake for storing water",
+    "fa": "مخزن، سد",
+    "examples": [
+      "A reservoir supplies water to the entire city.",
+      "The reservoir was built to prevent flooding."
+    ]
+  },
+  {
+    "word": "resource",
+    "pos": "n.",
+    "definition": "a supply of something useful",
+    "fa": "منبع، ذخیره",
+    "examples": [
+      "Water is our most precious natural resource.",
+      "The country exports mineral resources abroad."
+    ]
+  },
+  {
+    "word": "rural",
+    "pos": "adj.",
+    "definition": "relating to the countryside rather than the city",
+    "fa": "روستایی، برون‌شهری",
+    "examples": [
+      "Rural communities depend on agriculture.",
+      "Many young people leave rural areas for cities."
+    ]
+  },
+  {
+    "word": "savanna",
+    "pos": "n.",
+    "definition": "a grassy plain in tropical regions",
+    "fa": "سavana، دشت",
+    "examples": [
+      "Lions hunt on the African savanna.",
+      "The savanna has a wet and dry season."
+    ]
+  },
+  {
+    "word": "season",
+    "pos": "n.",
+    "definition": "one of the four divisions of the year",
+    "fa": "فصل",
+    "examples": [
+      "Spring is my favourite season.",
+      "Each season brings different weather patterns."
+    ]
+  },
+  {
+    "word": "sediment",
+    "pos": "n.",
+    "definition": "matter that settles at the bottom of liquid",
+    "fa": "رسوب، لای",
+    "examples": [
+      "Rivers carry sediment to the ocean.",
+      "Geologists study sediment to learn about past climates."
+    ]
+  },
+  {
+    "word": "seismic",
+    "pos": "adj.",
+    "definition": "relating to earthquakes or earth vibrations",
+    "fa": "لرزه‌ای، زلزله‌ای",
+    "examples": [
+      "Seismic activity increased before the eruption.",
+      "Engineers design buildings to withstand seismic forces."
+    ]
+  },
+  {
+    "word": "solar",
+    "pos": "adj.",
+    "definition": "relating to the sun",
+    "fa": "خورشیدی",
+    "examples": [
+      "Solar panels convert sunlight into electricity.",
+      "Solar energy is clean and abundant."
+    ]
+  },
+  {
+    "word": "species",
+    "pos": "n.",
+    "definition": "a group of similar organisms that can reproduce",
+    "fa": "گونه",
+    "examples": [
+      "Over a thousand species live in this forest.",
+      "Many species face extinction due to habitat loss."
+    ]
+  },
+  {
+    "word": "storm",
+    "pos": "n.",
+    "definition": "violent weather with strong wind and rain",
+    "fa": "طوفان، ابرطوفان",
+    "examples": [
+      "A powerful storm knocked down trees.",
+      "The storm caused widespread power outages."
+    ]
+  },
+  {
+    "word": "substance",
+    "pos": "n.",
+    "definition": "a particular type of material with uniform properties",
+    "fa": "ماده، substance",
+    "examples": [
+      "Water is the most common substance on Earth.",
+      "The chemist identified an unknown substance."
+    ]
+  },
+  {
+    "word": "survive",
+    "pos": "v.",
+    "definition": "to continue to live despite difficult conditions",
+    "fa": "زنده ماندن، دوام آوردن",
+    "examples": [
+      "Only the hardiest plants survive in the desert.",
+      "Few businesses survived the economic crisis."
+    ]
+  },
+  {
+    "word": "sustain",
+    "pos": "v.",
+    "definition": "to keep something going over time",
+    "fa": "حفظ کردن، تأمین",
+    "examples": [
+      "We need policies that sustain economic growth.",
+      "Forests sustain countless species of wildlife."
+    ]
+  },
+  {
+    "word": "swamp",
+    "pos": "n.",
+    "definition": "wetland permanently saturated with water",
+    "fa": "باتلاق، مرداب",
+    "examples": [
+      "Alligators live in the Florida swamp.",
+      "The swamp teems with insects and birds."
+    ]
+  },
+  {
+    "word": "temperature",
+    "pos": "n.",
+    "definition": "the degree of heat or cold",
+    "fa": "دما",
+    "examples": [
+      "Temperatures drop sharply at night.",
+      "Global temperatures have risen over the past century."
+    ]
+  },
+  {
+    "word": "terrain",
+    "pos": "n.",
+    "definition": "a stretch of land with particular physical features",
+    "fa": "زمین، عوارض جغرافیایی",
+    "examples": [
+      "The terrain was too rugged for vehicles.",
+      "Soldiers trained on mountainous terrain."
+    ]
+  },
+  {
+    "word": "thaw",
+    "pos": "v.",
+    "definition": "to melt ice or frozen food; to become less cold",
+    "fa": "ذوب شدن، گرم شدن",
+    "examples": [
+      "The sun thawed the frozen ground.",
+      "Relations between the countries began to thaw."
+    ]
+  },
+  {
+    "word": "tide",
+    "pos": "n.",
+    "definition": "the regular rise and fall of sea level",
+    "fa": "جزر و مد",
+    "examples": [
+      "The tide comes in twice a day.",
+      "Fishermen check the tide before going out."
+    ]
+  },
+  {
+    "word": "tornado",
+    "pos": "n.",
+    "definition": "a violently rotating column of air",
+    "fa": "گردباد",
+    "examples": [
+      "A tornado destroyed several homes.",
+      "Tornado warnings were issued across the state."
+    ]
+  },
+  {
+    "word": "toxic",
+    "pos": "adj.",
+    "definition": "poisonous or harmful to living things",
+    "fa": "سمی، زهرآگین",
+    "examples": [
+      "Toxic chemicals leaked from the factory.",
+      "Some mushrooms are toxic if eaten."
+    ]
+  },
+  {
+    "word": "tropical",
+    "pos": "adj.",
+    "definition": "relating to the hot humid regions near the equator",
+    "fa": "استوایی",
+    "examples": [
+      "Tropical rainforests are rich in biodiversity.",
+      "The island has a tropical climate year-round."
+    ]
+  },
+  {
+    "word": "tsunami",
+    "pos": "n.",
+    "definition": "an enormous ocean wave caused by an earthquake",
+    "fa": "سونامی",
+    "examples": [
+      "A tsunami struck the coast after the earthquake.",
+      "Early warning systems help detect tsunamis."
+    ]
+  },
+  {
+    "word": "tundra",
+    "pos": "n.",
+    "definition": "a vast treeless Arctic region",
+    "fa": "توندرا",
+    "examples": [
+      "Reindeer graze on the Arctic tundra.",
+      "The tundra remains frozen for most of the year."
+    ]
+  },
+  {
+    "word": "typhoon",
+    "pos": "n.",
+    "definition": "a tropical cyclone in the northwest Pacific",
+    "fa": "توفند",
+    "examples": [
+      "A typhoon battered the Philippines.",
+      "Residents boarded up windows before the typhoon."
+    ]
+  },
+  {
+    "word": "valley",
+    "pos": "n.",
+    "definition": "a low area between hills or mountains",
+    "fa": "دره",
+    "examples": [
+      "The valley was filled with wildflowers.",
+      "A river runs through the fertile valley."
+    ]
+  },
+  {
+    "word": "vegetation",
+    "pos": "n.",
+    "definition": "plants in a particular area",
+    "fa": "پوشش گیاهی",
+    "examples": [
+      "Dense vegetation covers the hillside.",
+      "Fire destroyed miles of vegetation."
+    ]
+  },
+  {
+    "word": "volcano",
+    "pos": "n.",
+    "definition": "a mountain that erupts lava and ash",
+    "fa": "آتشفشان",
+    "examples": [
+      "The volcano erupted after decades of dormancy.",
+      "Ancient civilizations built cities near volcanoes."
+    ]
+  },
+  {
+    "word": "waterfall",
+    "pos": "n.",
+    "definition": "a cascade of water falling from a height",
+    "fa": "آبشار",
+    "examples": [
+      "We hiked to a spectacular waterfall.",
+      "The waterfall plunges over 100 metres."
+    ]
+  },
+  {
+    "word": "watershed",
+    "pos": "n.",
+    "definition": "an area of land that drains into a river",
+    "fa": "حوضه آبریز",
+    "examples": [
+      "The entire watershed was protected as a reserve.",
+      "Pollution upstream affects the whole watershed."
+    ]
+  },
+  {
+    "word": "wilderness",
+    "pos": "n.",
+    "definition": "an uncultivated uninhabited region",
+    "fa": "بیابان، طبیعت بکر",
+    "examples": [
+      "They camped deep in the wilderness.",
+      "The law protects wilderness areas from development."
+    ]
+  },
+  {
+    "word": "wildlife",
+    "pos": "n.",
+    "definition": "wild animals and plants",
+    "fa": "حیات وحش",
+    "examples": [
+      "Wildlife populations have declined sharply.",
+      "The reserve is home to diverse wildlife."
+    ]
+  },
+  {
+    "word": "wind",
+    "pos": "n.",
+    "definition": "moving air, especially outdoors",
+    "fa": "باد",
+    "examples": [
+      "Strong wind knocked over the fence.",
+      "Wind turbines generate electricity from wind."
+    ]
+  },
+  {
+    "word": "abstract",
+    "pos": "adj.",
+    "definition": "existing in thought rather than physical form",
+    "fa": "انتزاعی، غیرملموس",
+    "examples": [
+      "Justice is an abstract concept.",
+      "The painting features abstract shapes and colours."
+    ]
+  },
+  {
+    "word": "analysis",
+    "pos": "n.",
+    "definition": "detailed examination of elements or structure",
+    "fa": "تحلیل، آنالیز",
+    "examples": [
+      "Statistical analysis revealed a clear trend.",
+      "The report includes a thorough analysis of the data."
+    ]
+  },
+  {
+    "word": "anomaly",
+    "pos": "n.",
+    "definition": "something that deviates from what is standard",
+    "fa": "ناهنجاری، استثنا",
+    "examples": [
+      "The temperature reading was an anomaly.",
+      "Scientists investigated the anomaly in the results."
+    ]
+  },
+  {
+    "word": "apparatus",
+    "pos": "n.",
+    "definition": "equipment designed for a particular purpose",
+    "fa": "دستگاه، وسیله",
+    "examples": [
+      "The laboratory has modern scientific apparatus.",
+      "Firefighters use breathing apparatus in smoke."
+    ]
+  },
+  {
+    "word": "assumption",
+    "pos": "n.",
+    "definition": "something accepted as true without proof",
+    "fa": "فرض، گمان",
+    "examples": [
+      "His argument is based on a false assumption.",
+      "We should question our basic assumptions."
+    ]
+  },
+  {
+    "word": "atom",
+    "pos": "n.",
+    "definition": "the smallest unit of a chemical element",
+    "fa": "اتم",
+    "examples": [
+      "Everything is made up of atoms.",
+      "Scientists split the atom in the twentieth century."
+    ]
+  },
+  {
+    "word": "attribute",
+    "pos": "n./v.",
+    "definition": "a quality or characteristic; to regard as caused by",
+    "fa": "ویژگی؛ نسبت دادن",
+    "examples": [
+      "Curiosity is an important attribute in research.",
+      "She attributed the error to faulty equipment."
+    ]
+  },
+  {
+    "word": "bias",
+    "pos": "n.",
+    "definition": "an unfair preference for or against something",
+    "fa": "تعصب، جانبداری",
+    "examples": [
+      "Confirmation bias affects scientific judgement.",
+      "The study was designed to reduce researcher bias."
+    ]
+  },
+  {
+    "word": "calculation",
+    "pos": "n.",
+    "definition": "a mathematical determination of an amount",
+    "fa": "محاسبه",
+    "examples": [
+      "A simple calculation shows the answer is wrong.",
+      "Complex calculations require powerful computers."
+    ]
+  },
+  {
+    "word": "carbon",
+    "pos": "n.",
+    "definition": "a chemical element found in all living things",
+    "fa": "کربن",
+    "examples": [
+      "Carbon dioxide is a greenhouse gas.",
+      "Diamonds are made of pure carbon."
+    ]
+  },
+  {
+    "word": "catalyst",
+    "pos": "n.",
+    "definition": "a substance that speeds up a chemical reaction",
+    "fa": "کatalizور، محرک",
+    "examples": [
+      "The enzyme acts as a catalyst in digestion.",
+      "Her speech was a catalyst for social change."
+    ]
+  },
+  {
+    "word": "cell",
+    "pos": "n.",
+    "definition": "the smallest structural unit of a living organism",
+    "fa": "سلول",
+    "examples": [
+      "Every cell contains genetic material.",
+      "Red blood cells carry oxygen through the body."
+    ]
+  },
+  {
+    "word": "chamber",
+    "pos": "n.",
+    "definition": "an enclosed space or room",
+    "fa": "اتاق، محفظه",
+    "examples": [
+      "The combustion chamber ignites the fuel.",
+      "The heart has four chambers."
+    ]
+  },
+  {
+    "word": "chemical",
+    "pos": "adj./n.",
+    "definition": "relating to chemistry; a substance produced by a chemical process",
+    "fa": "شیمیایی؛ ماده شیمیایی",
+    "examples": [
+      "Chemical reactions release energy.",
+      "Household chemicals should be stored safely."
+    ]
+  },
+  {
+    "word": "compound",
+    "pos": "n.",
+    "definition": "a substance formed from two or more elements",
+    "fa": "ترکیب، compound",
+    "examples": [
+      "Water is a compound of hydrogen and oxygen.",
+      "The scientist synthesised a new compound."
+    ]
+  },
+  {
+    "word": "concept",
+    "pos": "n.",
+    "definition": "an abstract idea or general notion",
+    "fa": "مفهوم، ایده",
+    "examples": [
+      "The concept of gravity was revolutionary.",
+      "She explained the concept clearly to students."
+    ]
+  },
+  {
+    "word": "conclusion",
+    "pos": "n.",
+    "definition": "a judgement reached after consideration",
+    "fa": "نتیجه‌گیری",
+    "examples": [
+      "The study's conclusion supports our hypothesis.",
+      "We drew the conclusion that the method works."
+    ]
+  },
+  {
+    "word": "conduct",
+    "pos": "v./n.",
+    "definition": "to carry out; to allow heat or electricity to pass through",
+    "fa": "انجام دادن؛ هدایت کردن",
+    "examples": [
+      "Scientists conduct experiments to test theories.",
+      "Metals conduct electricity efficiently."
+    ]
+  },
+  {
+    "word": "conventional",
+    "pos": "adj.",
+    "definition": "based on what is generally accepted",
+    "fa": "متعارف، سنتی",
+    "examples": [
+      "Conventional medicine treats symptoms with drugs.",
+      "They chose a conventional wedding ceremony."
+    ]
+  },
+  {
+    "word": "criteria",
+    "pos": "n.",
+    "definition": "standards used to judge or decide something",
+    "fa": "معیارها",
+    "examples": [
+      "The criteria for admission include test scores.",
+      "Candidates must meet strict selection criteria."
+    ]
+  },
+  {
+    "word": "crucial",
+    "pos": "adj.",
+    "definition": "extremely important or essential",
+    "fa": "حیاتی، بسیار مهم",
+    "examples": [
+      "Timing is crucial to the success of the experiment.",
+      "Good communication is crucial in teamwork."
+    ]
+  },
+  {
+    "word": "data",
+    "pos": "n.",
+    "definition": "facts and statistics collected for analysis",
+    "fa": "داده، اطلاعات",
+    "examples": [
+      "Researchers analysed the data carefully.",
+      "The data supports our original hypothesis."
+    ]
+  },
+  {
+    "word": "deduce",
+    "pos": "v.",
+    "definition": "to reach a conclusion by reasoning",
+    "fa": "استنتاج کردن",
+    "examples": [
+      "From the evidence, we can deduce the cause.",
+      "Detectives deduced the suspect's motive."
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "pos": "v.",
+    "definition": "to show clearly; to prove by evidence",
+    "fa": "نشان دادن، اثبات کردن",
+    "examples": [
+      "The experiment demonstrates how heat transfers.",
+      "She demonstrated the technique to the class."
+    ]
+  },
+  {
+    "word": "derive",
+    "pos": "v.",
+    "definition": "to obtain from a source; to come from",
+    "fa": "استخراج کردن؛ ناشی شدن",
+    "examples": [
+      "The word derives from Latin.",
+      "Many medicines derive from plants."
+    ]
+  },
+  {
+    "word": "detect",
+    "pos": "v.",
+    "definition": "to discover or notice something",
+    "fa": "کشف کردن، تشخیص دادن",
+    "examples": [
+      "Sensors detect movement in the room.",
+      "The test can detect the virus early."
+    ]
+  },
+  {
+    "word": "devise",
+    "pos": "v.",
+    "definition": "to plan or invent by careful thought",
+    "fa": "طراحی کردن، اختراع کردن",
+    "examples": [
+      "Engineers devised a new filtration system.",
+      "She devised a strategy to win the contract."
+    ]
+  },
+  {
+    "word": "dimension",
+    "pos": "n.",
+    "definition": "a measurable extent such as length or width",
+    "fa": "بُعد، اندازه",
+    "examples": [
+      "The problem has a social as well as economic dimension.",
+      "The sculpture has three dimensions."
+    ]
+  },
+  {
+    "word": "discriminate",
+    "pos": "v.",
+    "definition": "to recognize a difference; to treat unfairly",
+    "fa": "تمایز قائل شدن؛ تبعیض",
+    "examples": [
+      "The device can discriminate between signals.",
+      "It is illegal to discriminate on grounds of race."
+    ]
+  },
+  {
+    "word": "displace",
+    "pos": "v.",
+    "definition": "to move from the usual place; to replace",
+    "fa": "جابجا کردن، جایگزین کردن",
+    "examples": [
+      "Flooding displaced thousands of residents.",
+      "New technology displaces older methods."
+    ]
+  },
+  {
+    "word": "distinct",
+    "pos": "adj.",
+    "definition": "clearly different or separate",
+    "fa": "متمایز، جدا",
+    "examples": [
+      "The two species are genetically distinct.",
+      "There is a distinct smell of smoke."
+    ]
+  },
+  {
+    "word": "distort",
+    "pos": "v.",
+    "definition": "to pull or twist out of shape; to misrepresent",
+    "fa": "تحریف کردن، وارونه کردن",
+    "examples": [
+      "The mirror distorts your reflection.",
+      "Media can distort the facts of an event."
+    ]
+  },
+  {
+    "word": "distribution",
+    "pos": "n.",
+    "definition": "the way something is spread over an area",
+    "fa": "توزیع، پخش",
+    "examples": [
+      "The distribution of rainfall varies by region.",
+      "We studied the distribution of income in society."
+    ]
+  },
+  {
+    "word": "diverse",
+    "pos": "adj.",
+    "definition": "showing a great deal of variety",
+    "fa": "متنوع، گوناگون",
+    "examples": [
+      "The city has a diverse population.",
+      "Students from diverse backgrounds attend the university."
+    ]
+  },
+  {
+    "word": "domain",
+    "pos": "n.",
+    "definition": "an area of knowledge or activity",
+    "fa": "حوزه، دامنه",
+    "examples": [
+      "Genetics falls within the domain of biology.",
+      "The dispute is outside the court's domain."
+    ]
+  },
+  {
+    "word": "dynamic",
+    "pos": "adj.",
+    "definition": "characterized by constant change and activity",
+    "fa": "پویا، فعال",
+    "examples": [
+      "The market is highly dynamic.",
+      "She has a dynamic personality."
+    ]
+  },
+  {
+    "word": "eliminate",
+    "pos": "v.",
+    "definition": "to completely remove or get rid of",
+    "fa": "حذف کردن",
+    "examples": [
+      "The filter eliminates harmful bacteria.",
+      "We must eliminate errors from the report."
+    ]
+  },
+  {
+    "word": "empirical",
+    "pos": "adj.",
+    "definition": "based on observation or experiment rather than theory",
+    "fa": "تجربی، empiric",
+    "examples": [
+      "Empirical evidence supports the theory.",
+      "The study provides empirical data on learning."
+    ]
+  },
+  {
+    "word": "energy",
+    "pos": "n.",
+    "definition": "power derived from physical or chemical resources",
+    "fa": "انرژی",
+    "examples": [
+      "Solar energy is renewable and clean.",
+      "The athlete conserved her energy for the final lap."
+    ]
+  },
+  {
+    "word": "enhance",
+    "pos": "v.",
+    "definition": "to improve the quality or value of something",
+    "fa": "بهبود بخشیدن",
+    "examples": [
+      "Technology enhances productivity in the workplace.",
+      "Good lighting enhances the appearance of a room."
+    ]
+  },
+  {
+    "word": "entity",
+    "pos": "n.",
+    "definition": "something that exists as a single unit",
+    "fa": "نهاد، موجودیت",
+    "examples": [
+      "The company is a separate legal entity.",
+      "Each department operates as an independent entity."
+    ]
+  },
+  {
+    "word": "equivalent",
+    "pos": "n./adj.",
+    "definition": "equal in value or function",
+    "fa": "معادل",
+    "examples": [
+      "The two amounts are equivalent.",
+      "One kilometre is equivalent to 0.62 miles."
+    ]
+  },
+  {
+    "word": "establish",
+    "pos": "v.",
+    "definition": "to set up on a permanent basis; to prove",
+    "fa": "تأسیس کردن؛ اثبات کردن",
+    "examples": [
+      "The university was established in 1890.",
+      "Research established a link between diet and health."
+    ]
+  },
+  {
+    "word": "estimate",
+    "pos": "v./n.",
+    "definition": "to roughly calculate; an approximate calculation",
+    "fa": "تخمین زدن؛ برآورد",
+    "examples": [
+      "Experts estimate the cost at two million dollars.",
+      "The estimate proved to be accurate."
+    ]
+  },
+  {
+    "word": "evident",
+    "pos": "adj.",
+    "definition": "clearly seen or understood; obvious",
+    "fa": "آشکار، واضح",
+    "examples": [
+      "It was evident that she was tired.",
+      "The benefits of exercise are evident."
+    ]
+  },
+  {
+    "word": "evolve",
+    "pos": "v.",
+    "definition": "to develop gradually over time",
+    "fa": "تکامل یافتن",
+    "examples": [
+      "Languages evolve over centuries.",
+      "The company evolved from a small startup."
+    ]
+  },
+  {
+    "word": "exceed",
+    "pos": "v.",
+    "definition": "to be greater than a particular amount",
+    "fa": "فراتر رفتن، بیشتر بودن",
+    "examples": [
+      "Sales exceeded expectations this quarter.",
+      "Do not exceed the recommended dosage."
+    ]
+  },
+  {
+    "word": "exclude",
+    "pos": "v.",
+    "definition": "to deliberately leave out",
+    "fa": "مستثنی کردن، حذف کردن",
+    "examples": [
+      "The price excludes tax and shipping.",
+      "Women were excluded from the club for decades."
+    ]
+  },
+  {
+    "word": "explicit",
+    "pos": "adj.",
+    "definition": "stated clearly and in detail",
+    "fa": "صریح، آشکار",
+    "examples": [
+      "The contract contains explicit terms.",
+      "She gave explicit instructions to the team."
+    ]
+  },
+  {
+    "word": "exploit",
+    "pos": "v./n.",
+    "definition": "to use for benefit; a bold act",
+    "fa": "بهره بردن؛ سوءاستفاده",
+    "examples": [
+      "Companies exploit natural resources for profit.",
+      "The discovery was quickly exploited commercially."
+    ]
+  },
+  {
+    "word": "extract",
+    "pos": "v./n.",
+    "definition": "to remove or take out; a short passage",
+    "fa": "استخراج کردن؛ گزیده",
+    "examples": [
+      "Oil is extracted from underground deposits.",
+      "The book includes extracts from her diary."
+    ]
+  },
+  {
+    "word": "factor",
+    "pos": "n.",
+    "definition": "a circumstance that contributes to a result",
+    "fa": "عامل، فاکتور",
+    "examples": [
+      "Age is an important factor in recovery.",
+      "Several factors influenced the decision."
+    ]
+  },
+  {
+    "word": "finite",
+    "pos": "adj.",
+    "definition": "having limits or bounds",
+    "fa": "محدود، متناهی",
+    "examples": [
+      "Earth's resources are finite.",
+      "We have a finite amount of time to act."
+    ]
+  },
+  {
+    "word": "formula",
+    "pos": "n.",
+    "definition": "a mathematical rule or method",
+    "fa": "فرمول، دستور",
+    "examples": [
+      "The formula calculates compound interest.",
+      "There is no simple formula for success."
+    ]
+  },
+  {
+    "word": "foundation",
+    "pos": "n.",
+    "definition": "the basis on which something is built",
+    "fa": "بنیاد، پایه",
+    "examples": [
+      "Trust is the foundation of any relationship.",
+      "The foundation of the building cracked during the quake."
+    ]
+  },
+  {
+    "word": "framework",
+    "pos": "n.",
+    "definition": "a basic structure underlying a system",
+    "fa": "چارچوب، ساختار",
+    "examples": [
+      "The report provides a framework for reform.",
+      "We need a legal framework for data protection."
+    ]
+  },
+  {
+    "word": "function",
+    "pos": "n./v.",
+    "definition": "the purpose of something; to work properly",
+    "fa": "عملکرد؛ کار کردن",
+    "examples": [
+      "The main function of the heart is to pump blood.",
+      "The machine functions perfectly after repair."
+    ]
+  },
+  {
+    "word": "fundamental",
+    "pos": "adj.",
+    "definition": "forming a necessary base or core",
+    "fa": "اساسی، بنیادی",
+    "examples": [
+      "Freedom of speech is a fundamental right.",
+      "There is a fundamental difference between the two theories."
+    ]
+  },
+  {
+    "word": "generate",
+    "pos": "v.",
+    "definition": "to produce or create something",
+    "fa": "تولید کردن",
+    "examples": [
+      "The turbine generates electricity.",
+      "The discussion generated many new ideas."
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "pos": "n.",
+    "definition": "a proposed explanation to be tested",
+    "fa": "فرضیه",
+    "examples": [
+      "The hypothesis was confirmed by the experiment.",
+      "Scientists form a hypothesis before testing."
+    ]
+  },
+  {
+    "word": "identify",
+    "pos": "v.",
+    "definition": "to recognize or establish what something is",
+    "fa": "شناسایی کردن",
+    "examples": [
+      "Researchers identified the gene responsible.",
+      "Can you identify the person in this photo?"
+    ]
+  },
+  {
+    "word": "immense",
+    "pos": "adj.",
+    "definition": "extremely large or great",
+    "fa": "عظیم، بسیار بزرگ",
+    "examples": [
+      "The project required immense effort.",
+      "She felt immense relief after the exam."
+    ]
+  },
+  {
+    "word": "impact",
+    "pos": "n./v.",
+    "definition": "a strong effect; to have a strong effect on",
+    "fa": "تأثیر",
+    "examples": [
+      "The policy had a major impact on employment.",
+      "Technology impacts every aspect of daily life."
+    ]
+  },
+  {
+    "word": "implicit",
+    "pos": "adj.",
+    "definition": "implied though not directly expressed",
+    "fa": "ضمنی، نهفته",
+    "examples": [
+      "There was an implicit agreement between them.",
+      "The rules contain an implicit warning."
+    ]
+  },
+  {
+    "word": "imply",
+    "pos": "v.",
+    "definition": "to suggest something without stating it directly",
+    "fa": "مفهوم دادن، اشاره کردن",
+    "examples": [
+      "His tone implied that he was unhappy.",
+      "Are you implying that I am wrong?"
+    ]
+  },
+  {
+    "word": "indicate",
+    "pos": "v.",
+    "definition": "to point out or show",
+    "fa": "نشان دادن، دلالت کردن",
+    "examples": [
+      "Symptoms indicate a possible infection.",
+      "The arrow indicates the direction of flow."
+    ]
+  },
+  {
+    "word": "individual",
+    "pos": "n./adj.",
+    "definition": "a single person; separate and distinct",
+    "fa": "فرد؛ فردی",
+    "examples": [
+      "Each individual has unique talents.",
+      "Individual rights must be protected."
+    ]
+  },
+  {
+    "word": "induce",
+    "pos": "v.",
+    "definition": "to bring about or give rise to",
+    "fa": "موجب شدن، القا کردن",
+    "examples": [
+      "Stress can induce headaches.",
+      "The drug induces sleep within minutes."
+    ]
+  },
+  {
+    "word": "infer",
+    "pos": "v.",
+    "definition": "to deduce from evidence and reasoning",
+    "fa": "استنباط کردن",
+    "examples": [
+      "From her smile, I inferred she was pleased.",
+      "We cannot infer causation from correlation alone."
+    ]
+  },
+  {
+    "word": "inhibit",
+    "pos": "v.",
+    "definition": "to hinder or restrain an action or process",
+    "fa": "مهار کردن، بازداشتن",
+    "examples": [
+      "Fear can inhibit creative thinking.",
+      "The drug inhibits the growth of bacteria."
+    ]
+  },
+  {
+    "word": "initial",
+    "pos": "adj./n.",
+    "definition": "existing at the beginning; the first letter",
+    "fa": "اولیه؛ حرف اول",
+    "examples": [
+      "The initial results look promising.",
+      "Her initials are J.K."
+    ]
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "definition": "a new method, idea, or product",
+    "fa": "نوآوری",
+    "examples": [
+      "Innovation drives economic growth.",
+      "The smartphone was a major innovation."
+    ]
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "definition": "an accurate deep understanding",
+    "fa": "بینش، درک عمیق",
+    "examples": [
+      "The book offers insight into human behaviour.",
+      "Her research provided new insight into the disease."
+    ]
+  },
+  {
+    "word": "integrate",
+    "pos": "v.",
+    "definition": "to combine parts into a whole",
+    "fa": "ادغام کردن، یکپارچه کردن",
+    "examples": [
+      "Schools integrate technology into teaching.",
+      "Immigrants integrate into the local community."
+    ]
+  },
+  {
+    "word": "interact",
+    "pos": "v.",
+    "definition": "to act in a way that affects another",
+    "fa": "تعامل داشتن",
+    "examples": [
+      "Children learn by interacting with others.",
+      "The two chemicals interact to produce heat."
+    ]
+  },
+  {
+    "word": "intermediate",
+    "pos": "adj.",
+    "definition": "coming between two stages or levels",
+    "fa": "میانی، واسط",
+    "examples": [
+      "This course is for intermediate learners.",
+      "An intermediate step is required before completion."
+    ]
+  },
+  {
+    "word": "interpret",
+    "pos": "v.",
+    "definition": "to explain the meaning of something",
+    "fa": "تفسیر کردن",
+    "examples": [
+      "How do you interpret these results?",
+      "The poem can be interpreted in many ways."
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "pos": "n.",
+    "definition": "the basic physical systems of a country or organization",
+    "fa": "زیرساخت",
+    "examples": [
+      "Roads and bridges are essential infrastructure.",
+      "The city invested in digital infrastructure."
+    ]
+  },
+  {
+    "word": "investigate",
+    "pos": "v.",
+    "definition": "to carry out research or inquiry",
+    "fa": "بررسی کردن، تحقیق کردن",
+    "examples": [
+      "Police investigate crimes thoroughly.",
+      "Scientists investigate the causes of disease."
+    ]
+  },
+  {
+    "word": "invoke",
+    "pos": "v.",
+    "definition": "to cite or appeal to as authority",
+    "fa": "استناد کردن، به کار بردن",
+    "examples": [
+      "She invoked her right to remain silent.",
+      "The ritual invokes ancient traditions."
+    ]
+  },
+  {
+    "word": "isolate",
+    "pos": "v.",
+    "definition": "to place apart from others",
+    "fa": "جداسازی کردن، منزوی کردن",
+    "examples": [
+      "Patients with the virus were isolated.",
+      "The village is isolated by mountains."
+    ]
+  },
+  {
+    "word": "item",
+    "pos": "n.",
+    "definition": "an individual article or unit",
+    "fa": "مورد، قلم",
+    "examples": [
+      "Each item on the list must be checked.",
+      "The museum displays items from ancient Egypt."
+    ]
+  },
+  {
+    "word": "job",
+    "pos": "n.",
+    "definition": "a paid position of regular employment",
+    "fa": "شغل، کار",
+    "examples": [
+      "She found a job in the tech industry.",
+      "Unemployment means having no job."
+    ]
+  },
+  {
+    "word": "journal",
+    "pos": "n.",
+    "definition": "a daily record; a scholarly publication",
+    "fa": "دفتر روزانه؛ مجله",
+    "examples": [
+      "She keeps a journal of her travels.",
+      "The article was published in a medical journal."
+    ]
+  },
+  {
+    "word": "justify",
+    "pos": "v.",
+    "definition": "to show to be right or reasonable",
+    "fa": "توجیه کردن",
+    "examples": [
+      "Can you justify this expense?",
+      "The ends do not always justify the means."
+    ]
+  },
+  {
+    "word": "layer",
+    "pos": "n.",
+    "definition": "a sheet or thickness of material",
+    "fa": "لایه",
+    "examples": [
+      "Earth's atmosphere has several layers.",
+      "Apply a thin layer of paint."
+    ]
+  },
+  {
+    "word": "lecture",
+    "pos": "n./v.",
+    "definition": "an educational talk; to give such a talk",
+    "fa": "سخنرانی؛ سخنرانی کردن",
+    "examples": [
+      "The professor gave a lecture on genetics.",
+      "She lectures at the university twice a week."
+    ]
+  },
+  {
+    "word": "legal",
+    "pos": "adj.",
+    "definition": "permitted by law",
+    "fa": "قانونی، حقوقی",
+    "examples": [
+      "It is legal to vote at age eighteen.",
+      "She sought legal advice before signing."
+    ]
+  },
+  {
+    "word": "legislate",
+    "pos": "v.",
+    "definition": "to make or enact laws",
+    "fa": "قانون‌گذاری کردن",
+    "examples": [
+      "Parliament legislates on environmental issues.",
+      "It is difficult to legislate morality."
+    ]
+  },
+  {
+    "word": "liberal",
+    "pos": "adj.",
+    "definition": "open to new ideas; generous",
+    "fa": "لیبرال، آزاداندیش",
+    "examples": [
+      "She holds liberal views on education.",
+      "A liberal education includes arts and sciences."
+    ]
+  },
+  {
+    "word": "license",
+    "pos": "n./v.",
+    "definition": "official permission; to grant permission",
+    "fa": "مجوز؛ مجوز دادن",
+    "examples": [
+      "You need a license to drive a car.",
+      "The restaurant is licensed to sell alcohol."
+    ]
+  },
+  {
+    "word": "logic",
+    "pos": "n.",
+    "definition": "reasoning conducted according to strict principles",
+    "fa": "منطق",
+    "examples": [
+      "His argument lacks logic.",
+      "Mathematics is based on formal logic."
+    ]
+  },
+  {
+    "word": "maintain",
+    "pos": "v.",
+    "definition": "to keep in good condition; to assert",
+    "fa": "نگهداری کردن؛ ادعا کردن",
+    "examples": [
+      "It is expensive to maintain an old house.",
+      "She maintains that she is innocent."
+    ]
+  },
+  {
+    "word": "major",
+    "pos": "adj./n.",
+    "definition": "important or serious; a main subject",
+    "fa": "اصلی، مهم؛ رشته",
+    "examples": [
+      "The major cause of death is heart disease.",
+      "She is a history major at university."
+    ]
+  },
+  {
+    "word": "margin",
+    "pos": "n.",
+    "definition": "the edge or border; a small difference",
+    "fa": "حاشیه؛ حاشیه سود",
+    "examples": [
+      "Write notes in the margin of the page.",
+      "The team won by a narrow margin."
+    ]
+  },
+  {
+    "word": "mature",
+    "pos": "adj./v.",
+    "definition": "fully developed; to reach full development",
+    "fa": "بالغ؛ بالغ شدن",
+    "examples": [
+      "She is mature beyond her years.",
+      "Wine matures in oak barrels."
+    ]
+  },
+  {
+    "word": "maximum",
+    "pos": "adj./n.",
+    "definition": "the greatest possible amount",
+    "fa": "حداکثر",
+    "examples": [
+      "The maximum speed limit is 120 km/h.",
+      "Store at a maximum temperature of 25°C."
+    ]
+  },
+  {
+    "word": "mechanism",
+    "pos": "n.",
+    "definition": "a system of parts working together",
+    "fa": "مکانیسم، سازوکار",
+    "examples": [
+      "The mechanism of the clock is intricate.",
+      "The body has defence mechanisms against disease."
+    ]
+  },
+  {
+    "word": "media",
+    "pos": "n.",
+    "definition": "means of mass communication",
+    "fa": "رسانه",
+    "examples": [
+      "The media reported the story widely.",
+      "Social media influences public opinion."
+    ]
+  },
+  {
+    "word": "mediate",
+    "pos": "v.",
+    "definition": "to intervene between disputing parties",
+    "fa": "میانجی‌گری کردن",
+    "examples": [
+      "A judge mediated the settlement.",
+      "Teachers mediate conflicts between students."
+    ]
+  },
+  {
+    "word": "medical",
+    "pos": "adj.",
+    "definition": "relating to medicine or treatment of disease",
+    "fa": "پزشکی، درمانی",
+    "examples": [
+      "She needs urgent medical attention.",
+      "Medical research has extended life expectancy."
+    ]
+  },
+  {
+    "word": "mental",
+    "pos": "adj.",
+    "definition": "relating to the mind",
+    "fa": "ذهنی، روانی",
+    "examples": [
+      "Mental health is as important as physical health.",
+      "The exam caused considerable mental stress."
+    ]
+  },
+  {
+    "word": "method",
+    "pos": "n.",
+    "definition": "a particular way of doing something",
+    "fa": "روش، متد",
+    "examples": [
+      "The scientific method requires repeatable tests.",
+      "There is no single method for learning languages."
+    ]
+  },
+  {
+    "word": "emigrate",
+    "pos": "v.",
+    "definition": "to leave one's own country to settle permanently in another",
+    "fa": "مهاجرت کردن (خروج)",
+    "examples": [
+      "Thousands emigrate seeking better opportunities.",
+      "Her family emigrated to Canada in 1990."
+    ]
+  },
+  {
+    "word": "military",
+    "pos": "adj./n.",
+    "definition": "relating to armed forces",
+    "fa": "نظامی",
+    "examples": [
+      "He served in the military for ten years.",
+      "The military was deployed to the border."
+    ]
+  },
+  {
+    "word": "minimal",
+    "pos": "adj.",
+    "definition": "of the least possible amount",
+    "fa": "حداقل",
+    "examples": [
+      "The damage to the car was minimal.",
+      "We need minimal equipment for the trip."
+    ]
+  },
+  {
+    "word": "minimum",
+    "pos": "adj./n.",
+    "definition": "the least or smallest amount",
+    "fa": "حداقل",
+    "examples": [
+      "The minimum age for voting is eighteen.",
+      "Keep noise to a minimum during the exam."
+    ]
+  },
+  {
+    "word": "ministry",
+    "pos": "n.",
+    "definition": "a government department",
+    "fa": "وزارت",
+    "examples": [
+      "The Ministry of Education announced reforms.",
+      "He works in the Ministry of Finance."
+    ]
+  },
+  {
+    "word": "minor",
+    "pos": "adj./n.",
+    "definition": "lesser in importance; a person under legal age",
+    "fa": "جزئی؛ minor",
+    "examples": [
+      "There were only minor injuries in the accident.",
+      "It is illegal to sell alcohol to a minor."
+    ]
+  },
+  {
+    "word": "mode",
+    "pos": "n.",
+    "definition": "a way or manner of doing something",
+    "fa": "حالت، روش",
+    "examples": [
+      "Public transport is the preferred mode of travel.",
+      "The device has several operating modes."
+    ]
+  },
+  {
+    "word": "modify",
+    "pos": "v.",
+    "definition": "to make partial changes to something",
+    "fa": "تغییر دادن، اصلاح کردن",
+    "examples": [
+      "We modified the design based on feedback.",
+      "Genes can be modified in the laboratory."
+    ]
+  },
+  {
+    "word": "monitor",
+    "pos": "v./n.",
+    "definition": "to observe and check; a display screen",
+    "fa": "نظارت کردن؛ مانیتور",
+    "examples": [
+      "Doctors monitor the patient's heart rate.",
+      "She checked the monitor for updates."
+    ]
+  },
+  {
+    "word": "moral",
+    "pos": "adj./n.",
+    "definition": "concerned with right and wrong",
+    "fa": "اخلاقی",
+    "examples": [
+      "The moral issue divided public opinion.",
+      "He is a man of strong moral principles."
+    ]
+  },
+  {
+    "word": "mutual",
+    "pos": "adj.",
+    "definition": "experienced or done by each of two or more parties",
+    "fa": "متقابل، دوطرفه",
+    "examples": [
+      "They have mutual respect for each other.",
+      "The agreement benefits both parties mutually."
+    ]
+  },
+  {
+    "word": "network",
+    "pos": "n./v.",
+    "definition": "a group of interconnected people or things",
+    "fa": "شبکه",
+    "examples": [
+      "She built a professional network over the years.",
+      "Computers network to share resources."
+    ]
+  },
+  {
+    "word": "neutral",
+    "pos": "adj.",
+    "definition": "not supporting either side in a conflict",
+    "fa": "بی‌طرف",
+    "examples": [
+      "The country remained neutral during the war.",
+      "Choose a neutral colour for the walls."
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "pos": "adv.",
+    "definition": "in spite of that; however",
+    "fa": "با این حال",
+    "examples": [
+      "It was raining; nevertheless, we went out.",
+      "The task was difficult; nevertheless, she succeeded."
+    ]
+  },
+  {
+    "word": "notion",
+    "pos": "n.",
+    "definition": "a conception or belief about something",
+    "fa": "انگاره، مفهوم",
+    "examples": [
+      "The notion of equality is central to democracy.",
+      "She rejected the notion that women are inferior."
+    ]
+  },
+  {
+    "word": "objective",
+    "pos": "n./adj.",
+    "definition": "a goal; not influenced by personal feelings",
+    "fa": "هدف؛ عینی",
+    "examples": [
+      "Our objective is to reduce poverty.",
+      "Scientists strive for objective analysis."
+    ]
+  },
+  {
+    "word": "oblige",
+    "pos": "v.",
+    "definition": "to require someone to do something by law or duty",
+    "fa": "ملزم کردن",
+    "examples": [
+      "The law obliges employers to provide safety training.",
+      "I am obliged to report the incident."
+    ]
+  },
+  {
+    "word": "obtain",
+    "pos": "v.",
+    "definition": "to get or acquire something",
+    "fa": "به دست آوردن",
+    "examples": [
+      "You can obtain a visa at the embassy.",
+      "She obtained a degree in engineering."
+    ]
+  },
+  {
+    "word": "obvious",
+    "pos": "adj.",
+    "definition": "easily perceived or understood",
+    "fa": "واضح، آشکار",
+    "examples": [
+      "It is obvious that he is lying.",
+      "The answer seems obvious in hindsight."
+    ]
+  },
+  {
+    "word": "occupation",
+    "pos": "n.",
+    "definition": "a job or profession; the act of taking control",
+    "fa": "شغل؛ اشغال",
+    "examples": [
+      "What is your occupation?",
+      "The occupation of the city lasted five years."
+    ]
+  },
+  {
+    "word": "occur",
+    "pos": "v.",
+    "definition": "to happen or take place",
+    "fa": "رخ دادن",
+    "examples": [
+      "Earthquakes occur frequently in this region.",
+      "The meeting occurs every Monday at nine."
+    ]
+  },
+  {
+    "word": "odd",
+    "pos": "adj.",
+    "definition": "strange or unusual; not divisible by two",
+    "fa": "عجیب؛ فرد",
+    "examples": [
+      "That is an odd thing to say.",
+      "One, three, and five are odd numbers."
+    ]
+  },
+  {
+    "word": "offset",
+    "pos": "v./n.",
+    "definition": "to counteract by having an opposite effect",
+    "fa": "جبران کردن",
+    "examples": [
+      "Planting trees offsets carbon emissions.",
+      "Tax credits offset the cost of childcare."
+    ]
+  },
+  {
+    "word": "ongoing",
+    "pos": "adj.",
+    "definition": "still in progress; continuing",
+    "fa": "در حال انجام، مستمر",
+    "examples": [
+      "There is an ongoing investigation.",
+      "Ongoing training keeps skills up to date."
+    ]
+  },
+  {
+    "word": "option",
+    "pos": "n.",
+    "definition": "a thing that is available as a choice",
+    "fa": "گزینه، انتخاب",
+    "examples": [
+      "You have several options to consider.",
+      "The optional module covers advanced topics."
+    ]
+  },
+  {
+    "word": "orient",
+    "pos": "v.",
+    "definition": "to align or adjust to circumstances",
+    "fa": "همسو کردن، orient کردن",
+    "examples": [
+      "Students orient themselves to campus life.",
+      "The building is oriented toward the south."
+    ]
+  },
+  {
+    "word": "outcome",
+    "pos": "n.",
+    "definition": "the result or effect of an action",
+    "fa": "نتیجه، پیامد",
+    "examples": [
+      "The outcome of the election surprised everyone.",
+      "We cannot predict the outcome with certainty."
+    ]
+  },
+  {
+    "word": "output",
+    "pos": "n.",
+    "definition": "the amount produced; information from a computer",
+    "fa": "خروجی، تولید",
+    "examples": [
+      "Factory output increased by ten percent.",
+      "Print the output of the program."
+    ]
+  },
+  {
+    "word": "overall",
+    "pos": "adj./adv.",
+    "definition": "taking everything into account",
+    "fa": "کلی، در مجموع",
+    "examples": [
+      "The overall cost exceeded the budget.",
+      "Overall, the project was a success."
+    ]
+  },
+  {
+    "word": "overlap",
+    "pos": "v./n.",
+    "definition": "to extend over and cover partly",
+    "fa": "همپوشانی",
+    "examples": [
+      "The two schedules overlap on Tuesday.",
+      "There is considerable overlap between the courses."
+    ]
+  },
+  {
+    "word": "panel",
+    "pos": "n.",
+    "definition": "a group of people gathered for a discussion",
+    "fa": "پانل، هیئت",
+    "examples": [
+      "A panel of experts reviewed the proposal.",
+      "She served on the advisory panel."
+    ]
+  },
+  {
+    "word": "parameter",
+    "pos": "n.",
+    "definition": "a measurable factor that defines a system",
+    "fa": "پارامتر",
+    "examples": [
+      "The experiment varied one parameter at a time.",
+      "Stay within the parameters of the agreement."
+    ]
+  },
+  {
+    "word": "participant",
+    "pos": "n.",
+    "definition": "a person who takes part in something",
+    "fa": "شرکت‌کننده",
+    "examples": [
+      "Each participant signed a consent form.",
+      "Over 500 participants attended the conference."
+    ]
+  },
+  {
+    "word": "participate",
+    "pos": "v.",
+    "definition": "to take part in an activity",
+    "fa": "شرکت کردن",
+    "examples": [
+      "Students participate in community service.",
+      "Everyone is encouraged to participate."
+    ]
+  },
+  {
+    "word": "partner",
+    "pos": "n./v.",
+    "definition": "a person who shares an activity; to join as a partner",
+    "fa": "شریک؛ شریک شدن",
+    "examples": [
+      "She found a business partner online.",
+      "The two firms partnered on the project."
+    ]
+  },
+  {
+    "word": "passion",
+    "pos": "n.",
+    "definition": "strong and barely controllable emotion",
+    "fa": "شور، اشتیاق",
+    "examples": [
+      "She spoke with passion about human rights.",
+      "Music is his greatest passion."
+    ]
+  },
+  {
+    "word": "passive",
+    "pos": "adj.",
+    "definition": "accepting without active response",
+    "fa": "منفعل",
+    "examples": [
+      "Passive learning is less effective than active.",
+      "He remained passive during the debate."
+    ]
+  },
+  {
+    "word": "peak",
+    "pos": "n./v.",
+    "definition": "the highest point; to reach the highest point",
+    "fa": "اوج؛ به اوج رسیدن",
+    "examples": [
+      "Tourism reaches its peak in August.",
+      "Demand peaked during the holiday season."
+    ]
+  },
+  {
+    "word": "peer",
+    "pos": "n./v.",
+    "definition": "a person of the same age or status; to look closely",
+    "fa": "همسال؛ نگاه دقیق کردن",
+    "examples": [
+      "Peer pressure affects teenagers.",
+      "She peered through the window."
+    ]
+  },
+  {
+    "word": "penalty",
+    "pos": "n.",
+    "definition": "a punishment for breaking a rule",
+    "fa": "مجازات، جریمه",
+    "examples": [
+      "The penalty for speeding is a fine.",
+      "He received the maximum penalty."
+    ]
+  },
+  {
+    "word": "perceive",
+    "pos": "v.",
+    "definition": "to become aware of through the senses",
+    "fa": "درک کردن، احساس کردن",
+    "examples": [
+      "Children perceive colour differently.",
+      "I perceive a change in his attitude."
+    ]
+  },
+  {
+    "word": "period",
+    "pos": "n.",
+    "definition": "a length of time",
+    "fa": "دوره، بازه",
+    "examples": [
+      "The Victorian period lasted sixty years.",
+      "Rest during the recovery period."
+    ]
+  },
+  {
+    "word": "persist",
+    "pos": "v.",
+    "definition": "to continue firmly despite opposition",
+    "fa": "پافشاری کردن، ادامه دادن",
+    "examples": [
+      "If symptoms persist, see a doctor.",
+      "She persisted until she achieved her goal."
+    ]
+  },
+  {
+    "word": "personnel",
+    "pos": "n.",
+    "definition": "people employed in an organization",
+    "fa": "پرسنل، کارکنان",
+    "examples": [
+      "Personnel records are kept confidential.",
+      "The company has over 500 personnel."
+    ]
+  },
+  {
+    "word": "perspective",
+    "pos": "n.",
+    "definition": "a particular attitude or point of view",
+    "fa": "دیدگاه، منظر",
+    "examples": [
+      "The book offers a historical perspective.",
+      "Try to see it from my perspective."
+    ]
+  },
+  {
+    "word": "phase",
+    "pos": "n.",
+    "definition": "a distinct period in a process",
+    "fa": "فاز، مرحله",
+    "examples": [
+      "The project is in its final phase.",
+      "The moon goes through phases each month."
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "pos": "n.",
+    "definition": "a fact or situation that is observed to exist",
+    "fa": "پدیده",
+    "examples": [
+      "Global warming is a complex phenomenon.",
+      "The northern lights are a natural phenomenon."
+    ]
+  },
+  {
+    "word": "philosophy",
+    "pos": "n.",
+    "definition": "the study of fundamental nature of knowledge",
+    "fa": "فلسفه",
+    "examples": [
+      "He studied philosophy at university.",
+      "Her philosophy of life is simple: be kind."
+    ]
+  },
+  {
+    "word": "physical",
+    "pos": "adj.",
+    "definition": "relating to the body rather than the mind",
+    "fa": "جسمی، فیزیکی",
+    "examples": [
+      "Regular physical exercise improves health.",
+      "There was no physical evidence of a crime."
+    ]
+  },
+  {
+    "word": "policy",
+    "pos": "n.",
+    "definition": "a course of action adopted by an organization",
+    "fa": "سیاست، خط‌مشی",
+    "examples": [
+      "The school has a strict anti-bullying policy.",
+      "Government policy affects the economy."
+    ]
+  },
+  {
+    "word": "portion",
+    "pos": "n.",
+    "definition": "a part of a whole",
+    "fa": "بخش، قسمت",
+    "examples": [
+      "A large portion of the budget goes to education.",
+      "She ate only a small portion of food."
+    ]
+  },
+  {
+    "word": "pose",
+    "pos": "v./n.",
+    "definition": "to present a threat or problem; a position",
+    "fa": "ایجاد کردن؛ ژست",
+    "examples": [
+      "Pollution poses a threat to health.",
+      "The model held a graceful pose."
+    ]
+  },
+  {
+    "word": "positive",
+    "pos": "adj.",
+    "definition": "constructive or optimistic",
+    "fa": "مثبت",
+    "examples": [
+      "Stay positive despite setbacks.",
+      "The test result was positive."
+    ]
+  },
+  {
+    "word": "potential",
+    "pos": "adj./n.",
+    "definition": "having the capacity to develop; latent ability",
+    "fa": "بالقوه؛ پتانسیل",
+    "examples": [
+      "She is a potential leader.",
+      "The region has enormous economic potential."
+    ]
+  },
+  {
+    "word": "practitioner",
+    "pos": "n.",
+    "definition": "a person actively engaged in an profession",
+    "fa": "متخصص، practicioner",
+    "examples": [
+      "Medical practitioners must be licensed.",
+      "She is an experienced legal practitioner."
+    ]
+  },
+  {
+    "word": "precede",
+    "pos": "v.",
+    "definition": "to come before in time or order",
+    "fa": "مقدم بودن، پیش از",
+    "examples": [
+      "The ceremony was preceded by a reception.",
+      "A brief introduction preceded the lecture."
+    ]
+  },
+  {
+    "word": "precise",
+    "pos": "adj.",
+    "definition": "exact and accurate",
+    "fa": "دقیق، مشخص",
+    "examples": [
+      "Measurements must be precise.",
+      "She gave precise instructions."
+    ]
+  },
+  {
+    "word": "predict",
+    "pos": "v.",
+    "definition": "to say what will happen in the future",
+    "fa": "پیش‌بینی کردن",
+    "examples": [
+      "Experts predict economic growth next year.",
+      "It is hard to predict the weather."
+    ]
+  },
+  {
+    "word": "predominant",
+    "pos": "adj.",
+    "definition": "having the most influence or power",
+    "fa": "غالب، مسلط",
+    "examples": [
+      "English is the predominant language of business.",
+      "A predominant theme in the novel is loss."
+    ]
+  },
+  {
+    "word": "preliminary",
+    "pos": "adj.",
+    "definition": "preceding the main part; preparatory",
+    "fa": "اولیه، مقدماتی",
+    "examples": [
+      "Preliminary results look encouraging.",
+      "A preliminary hearing was held in court."
+    ]
+  },
+  {
+    "word": "presume",
+    "pos": "v.",
+    "definition": "to suppose something is true without proof",
+    "fa": "فرض کردن",
+    "examples": [
+      "I presume you have read the report.",
+      "The law presumes innocence until guilt is proven."
+    ]
+  },
+  {
+    "word": "previous",
+    "pos": "adj.",
+    "definition": "existing before in time or order",
+    "fa": "قبلی",
+    "examples": [
+      "Refer to the previous chapter for details.",
+      "She had no previous experience in sales."
+    ]
+  },
+  {
+    "word": "primary",
+    "pos": "adj.",
+    "definition": "of chief importance; earliest in time",
+    "fa": "اصلی، اولیه",
+    "examples": [
+      "The primary goal is to reduce costs.",
+      "Primary education is compulsory."
+    ]
+  },
+  {
+    "word": "prime",
+    "pos": "adj./n.",
+    "definition": "of the best quality; a prime number",
+    "fa": "برتر؛ اول",
+    "examples": [
+      "The prime minister addressed the nation.",
+      "Seven is a prime number."
+    ]
+  },
+  {
+    "word": "principal",
+    "pos": "adj./n.",
+    "definition": "first in order of importance; head of a school",
+    "fa": "اصلی؛ مدیر",
+    "examples": [
+      "The principal reason for failure was poor planning.",
+      "The principal welcomed new students."
+    ]
+  },
+  {
+    "word": "principle",
+    "pos": "n.",
+    "definition": "a fundamental truth or proposition",
+    "fa": "اصل، بنیاد",
+    "examples": [
+      "Democracy is based on the principle of equality.",
+      "She refused on principle."
+    ]
+  },
+  {
+    "word": "prior",
+    "pos": "adj.",
+    "definition": "existing before in time",
+    "fa": "قبلی، پیشین",
+    "examples": [
+      "Prior experience is preferred.",
+      "You need prior approval from management."
+    ]
+  },
+  {
+    "word": "priority",
+    "pos": "n.",
+    "definition": "something regarded as more important",
+    "fa": "اولویت",
+    "examples": [
+      "Education is a top priority.",
+      "Safety takes priority over speed."
+    ]
+  },
+  {
+    "word": "procedure",
+    "pos": "n.",
+    "definition": "an established way of doing something",
+    "fa": "روش، رویه",
+    "examples": [
+      "Follow the correct procedure.",
+      "The surgical procedure took three hours."
+    ]
+  },
+  {
+    "word": "process",
+    "pos": "n./v.",
+    "definition": "a series of actions; to perform operations on",
+    "fa": "فرایند؛ پردازش کردن",
+    "examples": [
+      "The hiring process takes several weeks.",
+      "Computers process data quickly."
+    ]
+  },
+  {
+    "word": "professional",
+    "pos": "adj./n.",
+    "definition": "relating to a profession; a qualified person",
+    "fa": "حرفه‌ای",
+    "examples": [
+      "She maintains a professional attitude.",
+      "Consult a legal professional."
+    ]
+  },
+  {
+    "word": "prohibit",
+    "pos": "v.",
+    "definition": "to formally forbid by law or rule",
+    "fa": "ممنوع کردن",
+    "examples": [
+      "Smoking is prohibited in public buildings.",
+      "The law prohibits discrimination."
+    ]
+  },
+  {
+    "word": "project",
+    "pos": "n./v.",
+    "definition": "a planned undertaking; to estimate future trends",
+    "fa": "پروژه؛ پیش‌بینی کردن",
+    "examples": [
+      "The construction project will take two years.",
+      "Sales are projected to rise next quarter."
+    ]
+  },
+  {
+    "word": "promote",
+    "pos": "v.",
+    "definition": "to support or actively encourage",
+    "fa": "ترویج دادن، ارتقا دادن",
+    "examples": [
+      "Exercise promotes good health.",
+      "She was promoted to manager."
+    ]
+  },
+  {
+    "word": "proportion",
+    "pos": "n.",
+    "definition": "a part considered in relation to the whole",
+    "fa": "نسبت، proportion",
+    "examples": [
+      "A large proportion of students pass the exam.",
+      "The proportion of women in parliament is rising."
+    ]
+  },
+  {
+    "word": "proposal",
+    "pos": "n.",
+    "definition": "a plan or suggestion put forward",
+    "fa": "پیشنهاد",
+    "examples": [
+      "The committee rejected the proposal.",
+      "She submitted a proposal for funding."
+    ]
+  },
+  {
+    "word": "prospect",
+    "pos": "n.",
+    "definition": "the possibility of future success",
+    "fa": "چشم‌انداز، prospect",
+    "examples": [
+      "Career prospects are good in this field.",
+      "The prospect of war worried everyone."
+    ]
+  },
+  {
+    "word": "protocol",
+    "pos": "n.",
+    "definition": "official procedure or system of rules",
+    "fa": "پروتکل، آیین",
+    "examples": [
+      "Diplomatic protocol must be followed.",
+      "The protocol requires two witnesses."
+    ]
+  },
+  {
+    "word": "psychology",
+    "pos": "n.",
+    "definition": "the scientific study of the mind and behaviour",
+    "fa": "روانشناسی",
+    "examples": [
+      "She has a degree in psychology.",
+      "Child psychology interests many researchers."
+    ]
+  },
+  {
+    "word": "publication",
+    "pos": "n.",
+    "definition": "the preparation and issuing of a book or journal",
+    "fa": "انتشار",
+    "examples": [
+      "The publication of the report was delayed.",
+      "The article appeared in a leading publication."
+    ]
+  },
+  {
+    "word": "publish",
+    "pos": "v.",
+    "definition": "to prepare and issue for public sale",
+    "fa": "منتشر کردن",
+    "examples": [
+      "She published her first novel at twenty-five.",
+      "The journal publishes monthly."
+    ]
+  },
+  {
+    "word": "purchase",
+    "pos": "n./v.",
+    "definition": "the act of buying; to buy",
+    "fa": "خرید؛ خرید کردن",
+    "examples": [
+      "Make your purchase before the sale ends.",
+      "They purchased a new home."
+    ]
+  },
+  {
+    "word": "pursue",
+    "pos": "v.",
+    "definition": "to follow or chase; to seek to attain",
+    "fa": "دنبال کردن، پیگیری کردن",
+    "examples": [
+      "She decided to pursue a career in law.",
+      "Police pursued the suspect through the streets."
+    ]
+  },
+  {
+    "word": "qualify",
+    "pos": "v.",
+    "definition": "to meet the necessary standard",
+    "fa": "واجد شرایط شدن",
+    "examples": [
+      "You must qualify for the scholarship.",
+      "He qualified as a doctor in 2010."
+    ]
+  },
+  {
+    "word": "quality",
+    "pos": "n.",
+    "definition": "the standard of something as measured against others",
+    "fa": "کیفیت",
+    "examples": [
+      "The quality of education varies widely.",
+      "Air quality has improved in cities."
+    ]
+  },
+  {
+    "word": "quarter",
+    "pos": "n.",
+    "definition": "one of four equal parts; a district",
+    "fa": "ربع؛ محله",
+    "examples": [
+      "Sales rose in the last quarter.",
+      "They live in the old quarter of the city."
+    ]
+  },
+  {
+    "word": "quote",
+    "pos": "v./n.",
+    "definition": "to repeat words from a text; a quotation",
+    "fa": "نقل قول کردن؛ نقل قول",
+    "examples": [
+      "She quoted from Shakespeare.",
+      "The quote inspired the team."
+    ]
+  },
+  {
+    "word": "radical",
+    "pos": "adj.",
+    "definition": "relating to fundamental change; extreme",
+    "fa": "رادیکال، اساسی",
+    "examples": [
+      "The reform was too radical for conservatives.",
+      "Radical ideas often face resistance."
+    ]
+  },
+  {
+    "word": "range",
+    "pos": "n./v.",
+    "definition": "the area of variation; to vary between limits",
+    "fa": "دامنه؛ در بر داشتن",
+    "examples": [
+      "Prices range from ten to fifty dollars.",
+      "The mountain range stretches for miles."
+    ]
+  },
+  {
+    "word": "ratio",
+    "pos": "n.",
+    "definition": "the relationship between two amounts",
+    "fa": "نسبت",
+    "examples": [
+      "The ratio of men to women is equal.",
+      "The student-teacher ratio is twenty to one."
+    ]
+  },
+  {
+    "word": "rational",
+    "pos": "adj.",
+    "definition": "based on reason or logic",
+    "fa": "منطقی",
+    "examples": [
+      "Make a rational decision based on facts.",
+      "Humans are not always rational actors."
+    ]
+  },
+  {
+    "word": "react",
+    "pos": "v.",
+    "definition": "to respond to a stimulus",
+    "fa": "واکنش نشان دادن",
+    "examples": [
+      "How did she react to the news?",
+      "Allergies cause the body to react."
+    ]
+  },
+  {
+    "word": "prototype",
+    "pos": "n.",
+    "definition": "a first model from which others are developed",
+    "fa": "نمونه اولیه",
+    "examples": [
+      "Engineers built a working prototype.",
+      "The prototype was tested in the lab."
+    ]
+  },
+  {
+    "word": "psychiatrist",
+    "pos": "n.",
+    "definition": "a medical doctor specializing in mental health",
+    "fa": "روانپزشک",
+    "examples": [
+      "She consulted a psychiatrist.",
+      "Psychiatrists can prescribe medication."
+    ]
+  },
+  {
+    "word": "publicise",
+    "pos": "v.",
+    "definition": "to make widely known to the public",
+    "fa": "اعلام عمومی کردن",
+    "examples": [
+      "The event was publicised on social media.",
+      "They publicised the findings widely."
+    ]
+  },
+  {
+    "word": "recover",
+    "pos": "v.",
+    "definition": "to return to a normal state of health or strength",
+    "fa": "بهبود یافتن، بازیابی",
+    "examples": [
+      "It took months to recover from surgery.",
+      "The economy is beginning to recover."
+    ]
+  },
+  {
+    "word": "refine",
+    "pos": "v.",
+    "definition": "to remove impurities; to improve by making small changes",
+    "fa": "پالایش کردن، بهبود دادن",
+    "examples": [
+      "Oil is refined into petrol.",
+      "She refined her technique through practice."
+    ]
+  },
+  {
+    "word": "regime",
+    "pos": "n.",
+    "definition": "a government especially an authoritarian one",
+    "fa": "رژیم، حکومت",
+    "examples": [
+      "The regime was overthrown in a revolution.",
+      "A strict exercise regime improved his health."
+    ]
+  },
+  {
+    "word": "region",
+    "pos": "n.",
+    "definition": "an area of land with common features",
+    "fa": "منطقه، ناحیه",
+    "examples": [
+      "The region is known for wine production.",
+      "Conflict erupted in the border region."
+    ]
+  },
+  {
+    "word": "register",
+    "pos": "v./n.",
+    "definition": "to record officially; an official list",
+    "fa": "ثبت کردن؛ ثبت‌نام",
+    "examples": [
+      "Register for the course online.",
+      "Check the register of voters."
+    ]
+  },
+  {
+    "word": "regulate",
+    "pos": "v.",
+    "definition": "to control by means of rules",
+    "fa": "تنظیم کردن",
+    "examples": [
+      "Laws regulate the financial industry.",
+      "The body regulates its own temperature."
+    ]
+  },
+  {
+    "word": "reinforce",
+    "pos": "v.",
+    "definition": "to strengthen or support",
+    "fa": "تقویت کردن",
+    "examples": [
+      "Positive feedback reinforces good behaviour.",
+      "Steel bars reinforce the concrete structure."
+    ]
+  },
+  {
+    "word": "reject",
+    "pos": "v.",
+    "definition": "to dismiss as inadequate or unacceptable",
+    "fa": "رد کردن",
+    "examples": [
+      "The committee rejected the application.",
+      "Her body rejected the transplanted organ."
+    ]
+  },
+  {
+    "word": "relevant",
+    "pos": "adj.",
+    "definition": "closely connected to the matter at hand",
+    "fa": "مرتبط، relevant",
+    "examples": [
+      "Include only relevant information.",
+      "The question is not relevant to the topic."
+    ]
+  },
+  {
+    "word": "rely",
+    "pos": "v.",
+    "definition": "to depend on with confidence",
+    "fa": "اتکا کردن، تکیه کردن",
+    "examples": [
+      "You can rely on her to finish on time.",
+      "Many families rely on two incomes."
+    ]
+  },
+  {
+    "word": "remove",
+    "pos": "v.",
+    "definition": "to take away from a position",
+    "fa": "حذف کردن، برداشتن",
+    "examples": [
+      "Remove the lid before heating.",
+      "Surgery removed the tumour successfully."
+    ]
+  },
+  {
+    "word": "require",
+    "pos": "v.",
+    "definition": "to need for a particular purpose",
+    "fa": "نیاز داشتن، مستلزم بودن",
+    "examples": [
+      "The job requires a university degree.",
+      "All passengers are required to wear seat belts."
+    ]
+  },
+  {
+    "word": "research",
+    "pos": "n./v.",
+    "definition": "systematic investigation; to investigate",
+    "fa": "تحقیق؛ تحقیق کردن",
+    "examples": [
+      "Medical research has saved millions of lives.",
+      "Scientists research the causes of cancer."
+    ]
+  },
+  {
+    "word": "resolve",
+    "pos": "v.",
+    "definition": "to settle or find a solution to",
+    "fa": "حل کردن، resolve کردن",
+    "examples": [
+      "We must resolve this conflict peacefully.",
+      "She resolved to study harder."
+    ]
+  },
+  {
+    "word": "revitalise",
+    "pos": "v.",
+    "definition": "to give new life or vigour to something",
+    "fa": "احیا کردن",
+    "examples": [
+      "The project revitalised the old town centre.",
+      "Fresh investment revitalised the industry."
+    ]
+  },
+  {
+    "word": "respond",
+    "pos": "v.",
+    "definition": "to react to something",
+    "fa": "پاسخ دادن، واکنش نشان دادن",
+    "examples": [
+      "How did the market respond to the news?",
+      "Please respond to the invitation promptly."
+    ]
+  },
+  {
+    "word": "restore",
+    "pos": "v.",
+    "definition": "to bring back to a former condition",
+    "fa": "بازگرداندن، احیا کردن",
+    "examples": [
+      "Workers restored the historic building.",
+      "Sleep restores energy and focus."
+    ]
+  },
+  {
+    "word": "restrict",
+    "pos": "v.",
+    "definition": "to put a limit on; to keep under control",
+    "fa": "محدود کردن",
+    "examples": [
+      "Access is restricted to authorized personnel.",
+      "The diet restricts sugar and fat."
+    ]
+  },
+  {
+    "word": "retain",
+    "pos": "v.",
+    "definition": "to continue to have; to keep in memory",
+    "fa": "حفظ کردن",
+    "examples": [
+      "The company retained its market share.",
+      "She retains vivid memories of childhood."
+    ]
+  },
+  {
+    "word": "reveal",
+    "pos": "v.",
+    "definition": "to make previously unknown information known",
+    "fa": "آشکار کردن، فاش کردن",
+    "examples": [
+      "The investigation revealed widespread fraud.",
+      "The curtain rose to reveal the stage."
+    ]
+  },
+  {
+    "word": "revenue",
+    "pos": "n.",
+    "definition": "income generated from business activities",
+    "fa": "درآمد، عایدات",
+    "examples": [
+      "Tax revenue funds public services.",
+      "Company revenue grew by fifteen percent."
+    ]
+  },
+  {
+    "word": "reverse",
+    "pos": "v./adj./n.",
+    "definition": "to move backwards; opposite in direction",
+    "fa": "معکوس کردن؛ معکوس",
+    "examples": [
+      "She reversed the car into the parking space.",
+      "The court's decision was reversed on appeal."
+    ]
+  },
+  {
+    "word": "revise",
+    "pos": "v.",
+    "definition": "to re-examine and alter; to study again",
+    "fa": "بازنگری کردن؛ مرور کردن",
+    "examples": [
+      "Revise your essay before submitting.",
+      "Students revise for exams in summer."
+    ]
+  },
+  {
+    "word": "revolution",
+    "pos": "n.",
+    "definition": "forcible overthrow of a government; a dramatic change",
+    "fa": "انقلاب",
+    "examples": [
+      "The industrial revolution transformed society.",
+      "Digital technology caused a revolution in communication."
+    ]
+  },
+  {
+    "word": "rigid",
+    "pos": "adj.",
+    "definition": "unable to bend; not flexible in attitude",
+    "fa": "سخت، انعطاف‌ناپذیر",
+    "examples": [
+      "The rules are too rigid.",
+      "A rigid schedule leaves no room for spontaneity."
+    ]
+  },
+  {
+    "word": "role",
+    "pos": "n.",
+    "definition": "the function assumed by a person",
+    "fa": "نقش",
+    "examples": [
+      "Education plays a key role in development.",
+      "She accepted the role of team leader."
+    ]
+  },
+  {
+    "word": "route",
+    "pos": "n.",
+    "definition": "a way or course taken in getting from one place to another",
+    "fa": "مسیر، راه",
+    "examples": [
+      "We took the scenic route through the hills.",
+      "The bus route was changed last month."
+    ]
+  },
+  {
+    "word": "routine",
+    "pos": "n./adj.",
+    "definition": "a regular way of doing things; ordinary",
+    "fa": "روال؛ عادی",
+    "examples": [
+      "Exercise should be part of your daily routine.",
+      "It was a routine medical check-up."
+    ]
+  },
+  {
+    "word": "scenario",
+    "pos": "n.",
+    "definition": "a postulated sequence of future events",
+    "fa": "سناریو، سناریو",
+    "examples": [
+      "Worst-case scenario planning is essential.",
+      "The scenario involves three possible outcomes."
+    ]
+  },
+  {
+    "word": "schedule",
+    "pos": "n./v.",
+    "definition": "a plan for carrying out a process",
+    "fa": "برنامه؛ زمان‌بندی کردن",
+    "examples": [
+      "The train runs on a fixed schedule.",
+      "The meeting is scheduled for Monday."
+    ]
+  },
+  {
+    "word": "scheme",
+    "pos": "n./v.",
+    "definition": "a systematic plan; to make plans",
+    "fa": "طرح؛ طرح ریختن",
+    "examples": [
+      "The government launched a new training scheme.",
+      "They schemed to overthrow the leader."
+    ]
+  },
+  {
+    "word": "scope",
+    "pos": "n.",
+    "definition": "the extent of the area covered",
+    "fa": "دامنه، حوزه",
+    "examples": [
+      "The scope of the project is very broad.",
+      "This issue is beyond the scope of the report."
+    ]
+  },
+  {
+    "word": "section",
+    "pos": "n.",
+    "definition": "a distinct part of something",
+    "fa": "بخش، قسمت",
+    "examples": [
+      "Read section three of the textbook.",
+      "The orchestra has a string section."
+    ]
+  },
+  {
+    "word": "sector",
+    "pos": "n.",
+    "definition": "an area of economic activity",
+    "fa": "بخش، sector",
+    "examples": [
+      "The service sector employs most workers.",
+      "Investment in the tech sector is rising."
+    ]
+  },
+  {
+    "word": "secure",
+    "pos": "adj./v.",
+    "definition": "fixed firmly; to protect from danger",
+    "fa": "امن؛ تأمین کردن",
+    "examples": [
+      "The door is locked and secure.",
+      "The company secured a major contract."
+    ]
+  },
+  {
+    "word": "seek",
+    "pos": "v.",
+    "definition": "to attempt to find or obtain",
+    "fa": "جستجو کردن، خواستن",
+    "examples": [
+      "They seek a peaceful resolution.",
+      "Many graduates seek employment abroad."
+    ]
+  },
+  {
+    "word": "select",
+    "pos": "v./adj.",
+    "definition": "to carefully choose; chosen for excellence",
+    "fa": "انتخاب کردن؛ برگزیده",
+    "examples": [
+      "Select the best candidates for interview.",
+      "This is a select group of scholars."
+    ]
+  },
+  {
+    "word": "sequence",
+    "pos": "n.",
+    "definition": "a particular order of events",
+    "fa": "توالی، ترتیب",
+    "examples": [
+      "Follow the sequence of steps carefully.",
+      "DNA determines the sequence of amino acids."
+    ]
+  },
+  {
+    "word": "series",
+    "pos": "n.",
+    "definition": "a number of things following one another",
+    "fa": "سری، مجموعه",
+    "examples": [
+      "A series of meetings was held.",
+      "The book is part of a popular series."
+    ]
+  },
+  {
+    "word": "shift",
+    "pos": "n./v.",
+    "definition": "a change in position; to move from one place to another",
+    "fa": "شیفت؛ تغییر دادن",
+    "examples": [
+      "There has been a shift in public opinion.",
+      "She shifted her weight to one foot."
+    ]
+  },
+  {
+    "word": "significant",
+    "pos": "adj.",
+    "definition": "sufficiently great or important to be worthy of attention",
+    "fa": "قابل توجه، مهم",
+    "examples": [
+      "There was a significant increase in sales.",
+      "The discovery has significant implications."
+    ]
+  },
+  {
+    "word": "similar",
+    "pos": "adj.",
+    "definition": "resembling without being identical",
+    "fa": "مشابه",
+    "examples": [
+      "The two cases are remarkably similar.",
+      "Their views on education are similar."
+    ]
+  },
+  {
+    "word": "simulate",
+    "pos": "v.",
+    "definition": "to imitate the appearance or character of",
+    "fa": "شبیه‌سازی کردن",
+    "examples": [
+      "Pilots simulate emergency landings in training.",
+      "Computer models simulate climate change."
+    ]
+  },
+  {
+    "word": "site",
+    "pos": "n.",
+    "definition": "a location where something is situated",
+    "fa": "محل، سایت",
+    "examples": [
+      "Construction began on the building site.",
+      "The archaeological site dates to 2000 BC."
+    ]
+  },
+  {
+    "word": "so-called",
+    "pos": "adj.",
+    "definition": "commonly designated by a name that may be misleading",
+    "fa": "به‌اصطلاح",
+    "examples": [
+      "The so-called expert had no qualifications.",
+      "The so-called reforms changed very little."
+    ]
+  },
+  {
+    "word": "sole",
+    "pos": "adj./n.",
+    "definition": "one and only; the bottom of a foot or shoe",
+    "fa": "تنها؛ کف",
+    "examples": [
+      "She is the sole owner of the business.",
+      "He wore holes in the soles of his shoes."
+    ]
+  },
+  {
+    "word": "somewhat",
+    "pos": "adv.",
+    "definition": "to a moderate extent",
+    "fa": "تا حدی",
+    "examples": [
+      "The results were somewhat disappointing.",
+      "I somewhat agree with your point."
+    ]
+  },
+  {
+    "word": "source",
+    "pos": "n.",
+    "definition": "a place from which something originates",
+    "fa": "منبع، منشأ",
+    "examples": [
+      "The river's source is in the mountains.",
+      "Reliable sources confirmed the story."
+    ]
+  },
+  {
+    "word": "specific",
+    "pos": "adj.",
+    "definition": "clearly defined or identified",
+    "fa": "مشخص، خاص",
+    "examples": [
+      "Give specific examples in your essay.",
+      "The doctor gave specific instructions."
+    ]
+  },
+  {
+    "word": "specify",
+    "pos": "v.",
+    "definition": "to identify clearly and definitely",
+    "fa": "مشخص کردن",
+    "examples": [
+      "Please specify your preferred date.",
+      "The contract specifies payment terms."
+    ]
+  },
+  {
+    "word": "sphere",
+    "pos": "n.",
+    "definition": "a round three-dimensional shape; an area of activity",
+    "fa": "کره؛ حوزه",
+    "examples": [
+      "Earth is not a perfect sphere.",
+      "Politics is outside my sphere of interest."
+    ]
+  },
+  {
+    "word": "stable",
+    "pos": "adj.",
+    "definition": "not likely to change or fail",
+    "fa": "پایدار، stable",
+    "examples": [
+      "The patient's condition is stable.",
+      "A stable government attracts investment."
+    ]
+  },
+  {
+    "word": "statistic",
+    "pos": "n.",
+    "definition": "a fact or piece of data from a study",
+    "fa": "آمار",
+    "examples": [
+      "Crime statistics show a downward trend.",
+      "The statistic surprised the researchers."
+    ]
+  },
+  {
+    "word": "status",
+    "pos": "n.",
+    "definition": "relative social or professional standing",
+    "fa": "وضعیت، status",
+    "examples": [
+      "What is your marital status?",
+      "The project has been elevated in status."
+    ]
+  },
+  {
+    "word": "strategy",
+    "pos": "n.",
+    "definition": "a plan of action designed to achieve a goal",
+    "fa": "استراتژی، راهبرد",
+    "examples": [
+      "The company developed a new marketing strategy.",
+      "Military strategy requires careful planning."
+    ]
+  },
+  {
+    "word": "stress",
+    "pos": "n./v.",
+    "definition": "pressure or tension; to emphasize",
+    "fa": "استرس؛ تأکید کردن",
+    "examples": [
+      "Work-related stress affects health.",
+      "The report stresses the need for reform."
+    ]
+  },
+  {
+    "word": "structure",
+    "pos": "n./v.",
+    "definition": "the arrangement of parts; to construct",
+    "fa": "ساختار؛ ساختار دادن",
+    "examples": [
+      "The structure of the essay is clear.",
+      "They structured the deal carefully."
+    ]
+  },
+  {
+    "word": "style",
+    "pos": "n.",
+    "definition": "a distinctive manner or way",
+    "fa": "سبک، style",
+    "examples": [
+      "Her writing style is concise and clear.",
+      "The building is built in Gothic style."
+    ]
+  },
+  {
+    "word": "submit",
+    "pos": "v.",
+    "definition": "to present for judgement or consideration",
+    "fa": "ارائه دادن، submit کردن",
+    "examples": [
+      "Submit your assignment by Friday.",
+      "She submitted her resignation."
+    ]
+  },
+  {
+    "word": "subsequent",
+    "pos": "adj.",
+    "definition": "coming after something in time",
+    "fa": "بعدی، متعاقب",
+    "examples": [
+      "Subsequent events proved him right.",
+      "The subsequent chapter covers methodology."
+    ]
+  },
+  {
+    "word": "survival",
+    "pos": "n.",
+    "definition": "the state of continuing to live or exist",
+    "fa": "بقا، survival",
+    "examples": [
+      "Survival in the desert requires preparation.",
+      "The company's survival depends on innovation."
+    ]
+  },
+  {
+    "word": "suspend",
+    "pos": "v.",
+    "definition": "to temporarily stop or delay",
+    "fa": "تعلیق کردن",
+    "examples": [
+      "The game was suspended due to rain.",
+      "She was suspended from school."
+    ]
+  },
+  {
+    "word": "sustainable",
+    "pos": "adj.",
+    "definition": "able to be maintained at a certain rate without depletion",
+    "fa": "پایدار",
+    "examples": [
+      "Sustainable farming protects the soil.",
+      "We need sustainable economic growth."
+    ]
+  },
+  {
+    "word": "symbol",
+    "pos": "n.",
+    "definition": "a mark or character representing an idea",
+    "fa": "نماد، symbol",
+    "examples": [
+      "The dove is a symbol of peace.",
+      "Mathematical symbols can be confusing."
+    ]
+  },
+  {
+    "word": "tape",
+    "pos": "n.",
+    "definition": "a long narrow strip of material",
+    "fa": "نوار",
+    "examples": [
+      "Seal the box with packing tape.",
+      "The interview was recorded on tape."
+    ]
+  },
+  {
+    "word": "target",
+    "pos": "n./v.",
+    "definition": "a goal or objective; to aim at",
+    "fa": "هدف؛ هدف قرار دادن",
+    "examples": [
+      "The target audience is young adults.",
+      "The campaign targets university students."
+    ]
+  },
+  {
+    "word": "task",
+    "pos": "n.",
+    "definition": "a piece of work to be done",
+    "fa": "وظیفه، task",
+    "examples": [
+      "Complete the task by end of day.",
+      "Each team member has a specific task."
+    ]
+  },
+  {
+    "word": "team",
+    "pos": "n.",
+    "definition": "a group working together",
+    "fa": "تیم",
+    "examples": [
+      "Teamwork is essential for success.",
+      "She joined the research team."
+    ]
+  },
+  {
+    "word": "technical",
+    "pos": "adj.",
+    "definition": "relating to a particular subject or craft",
+    "fa": "فنی",
+    "examples": [
+      "Technical skills are in high demand.",
+      "The manual contains technical details."
+    ]
+  },
+  {
+    "word": "technique",
+    "pos": "n.",
+    "definition": "a way of carrying out a particular task",
+    "fa": "تکنیک، روش",
+    "examples": [
+      "She mastered the technique quickly.",
+      "Modern farming techniques increase yield."
+    ]
+  },
+  {
+    "word": "technology",
+    "pos": "n.",
+    "definition": "application of scientific knowledge for practical purposes",
+    "fa": "فناوری",
+    "examples": [
+      "Technology transforms how we communicate.",
+      "Medical technology saves lives daily."
+    ]
+  },
+  {
+    "word": "temporary",
+    "pos": "adj.",
+    "definition": "lasting for a limited time",
+    "fa": "موقت",
+    "examples": [
+      "This is a temporary solution.",
+      "She found temporary work over the summer."
+    ]
+  },
+  {
+    "word": "tension",
+    "pos": "n.",
+    "definition": "mental or emotional strain",
+    "fa": "تنش",
+    "examples": [
+      "There was tension in the room.",
+      "Muscle tension causes headaches."
+    ]
+  },
+  {
+    "word": "terminate",
+    "pos": "v.",
+    "definition": "to bring to an end",
+    "fa": "خاتمه دادن",
+    "examples": [
+      "The contract terminates in December.",
+      "They terminated the employee for misconduct."
+    ]
+  },
+  {
+    "word": "text",
+    "pos": "n.",
+    "definition": "written or printed words",
+    "fa": "متن",
+    "examples": [
+      "Read the text carefully before answering.",
+      "The original text was in Greek."
+    ]
+  },
+  {
+    "word": "theme",
+    "pos": "n.",
+    "definition": "the subject of a talk or work of art",
+    "fa": "موضوع، theme",
+    "examples": [
+      "The theme of the novel is redemption.",
+      "Environmental themes dominate the festival."
+    ]
+  },
+  {
+    "word": "theory",
+    "pos": "n.",
+    "definition": "a system of ideas explaining phenomena",
+    "fa": "نظرية",
+    "examples": [
+      "The theory of evolution is well supported.",
+      "Einstein's theory changed physics forever."
+    ]
+  },
+  {
+    "word": "thereby",
+    "pos": "adv.",
+    "definition": "by that means; as a result of that",
+    "fa": "بدین‌ترتیب",
+    "examples": [
+      "She studied hard, thereby improving her grades.",
+      "He resigned, thereby avoiding a scandal."
+    ]
+  },
+  {
+    "word": "thesis",
+    "pos": "n.",
+    "definition": "a statement proved by arguments; a dissertation",
+    "fa": "پایان‌نامه، تز",
+    "examples": [
+      "Her thesis examines urban migration.",
+      "The central thesis of the book is compelling."
+    ]
+  },
+  {
+    "word": "topic",
+    "pos": "n.",
+    "definition": "a matter dealt with in a text or conversation",
+    "fa": "موضوع",
+    "examples": [
+      "Choose a topic for your presentation.",
+      "Climate change is a hot topic."
+    ]
+  },
+  {
+    "word": "trace",
+    "pos": "n./v.",
+    "definition": "a sign of something; to find by investigation",
+    "fa": "رد؛ ردیابی کردن",
+    "examples": [
+      "There was no trace of the missing files.",
+      "Scientists traced the outbreak to a farm."
+    ]
+  },
+  {
+    "word": "tradition",
+    "pos": "n.",
+    "definition": "the transmission of customs from generation to generation",
+    "fa": "سنت، tradition",
+    "examples": [
+      "Family tradition brings people together.",
+      "Breaking tradition can be controversial."
+    ]
+  },
+  {
+    "word": "transfer",
+    "pos": "v./n.",
+    "definition": "to move from one place to another",
+    "fa": "انتقال دادن؛ انتقال",
+    "examples": [
+      "Transfer the files to the new server.",
+      "The transfer of power was peaceful."
+    ]
+  },
+  {
+    "word": "transform",
+    "pos": "v.",
+    "definition": "to change completely in form or character",
+    "fa": "دگرگون کردن",
+    "examples": [
+      "Technology transforms the workplace.",
+      "Education can transform lives."
+    ]
+  },
+  {
+    "word": "transit",
+    "pos": "n./v.",
+    "definition": "the carrying of people or goods; to pass through",
+    "fa": "ترانزیت؛ عبور کردن",
+    "examples": [
+      "Public transit reduces traffic congestion.",
+      "The planet transits the sun every year."
+    ]
+  },
+  {
+    "word": "transition",
+    "pos": "n.",
+    "definition": "the process of changing from one state to another",
+    "fa": "گذار، transition",
+    "examples": [
+      "The transition to democracy was smooth.",
+      "Career transition can be challenging."
+    ]
+  },
+  {
+    "word": "transmit",
+    "pos": "v.",
+    "definition": "to cause to pass from one place to another",
+    "fa": "انتقال دادن، پخش کردن",
+    "examples": [
+      "Radio waves transmit signals.",
+      "The disease transmits through contact."
+    ]
+  },
+  {
+    "word": "transport",
+    "pos": "v./n.",
+    "definition": "to carry people or goods; a system of carrying",
+    "fa": "حمل کردن؛ حمل‌ونقل",
+    "examples": [
+      "Goods are transported by rail.",
+      "Public transport is affordable."
+    ]
+  },
+  {
+    "word": "trend",
+    "pos": "n.",
+    "definition": "a general direction of change",
+    "fa": "روند، trend",
+    "examples": [
+      "There is a trend toward remote work.",
+      "Fashion trends change every season."
+    ]
+  },
+  {
+    "word": "trigger",
+    "pos": "v./n.",
+    "definition": "to cause to happen; a device that releases a mechanism",
+    "fa": "تحریک کردن؛ ماشه",
+    "examples": [
+      "Stress can trigger headaches.",
+      "The speech triggered a debate."
+    ]
+  },
+  {
+    "word": "ultimate",
+    "pos": "adj.",
+    "definition": "being the best or most extreme example",
+    "fa": "نهایی، ultimate",
+    "examples": [
+      "The ultimate goal is world peace.",
+      "Speed is the ultimate priority in racing."
+    ]
+  },
+  {
+    "word": "underlie",
+    "pos": "v.",
+    "definition": "to be the cause or basis of",
+    "fa": "زمینه بودن، پایه بودن",
+    "examples": [
+      "Economic factors underlie the conflict.",
+      "Trust underlies every good relationship."
+    ]
+  },
+  {
+    "word": "undertake",
+    "pos": "v.",
+    "definition": "to commit oneself to and begin",
+    "fa": "بر عهده گرفتن",
+    "examples": [
+      "She undertook the project willingly.",
+      "The company undertook major renovations."
+    ]
+  },
+  {
+    "word": "uniform",
+    "pos": "adj./n.",
+    "definition": "not varying; distinctive clothing",
+    "fa": "یکسان؛ یونیفرم",
+    "examples": [
+      "Apply uniform standards to all applicants.",
+      "Students must wear a school uniform."
+    ]
+  },
+  {
+    "word": "unify",
+    "pos": "v.",
+    "definition": "to make or become united",
+    "fa": "متحد کردن",
+    "examples": [
+      "The leader sought to unify the nation.",
+      "Shared goals unify the team."
+    ]
+  },
+  {
+    "word": "unique",
+    "pos": "adj.",
+    "definition": "being the only one of its kind",
+    "fa": "منحصربه‌فرد",
+    "examples": [
+      "Each fingerprint is unique.",
+      "The museum has a unique collection."
+    ]
+  },
+  {
+    "word": "utilize",
+    "pos": "v.",
+    "definition": "to make practical use of",
+    "fa": "استفاده کردن",
+    "examples": [
+      "We must utilize resources efficiently.",
+      "The program utilizes advanced algorithms."
+    ]
+  },
+  {
+    "word": "valid",
+    "pos": "adj.",
+    "definition": "having a sound basis in logic or fact",
+    "fa": "معتبر",
+    "examples": [
+      "The argument is logically valid.",
+      "Your passport is valid for ten years."
+    ]
+  },
+  {
+    "word": "variable",
+    "pos": "adj./n.",
+    "definition": "not consistent; an element that may change",
+    "fa": "متغیر",
+    "examples": [
+      "Weather is highly variable in spring.",
+      "Temperature is the key variable."
+    ]
+  },
+  {
+    "word": "variant",
+    "pos": "n./adj.",
+    "definition": "a form or version differing from the standard",
+    "fa": "گونه؛ variant",
+    "examples": [
+      "A new variant of the virus emerged.",
+      "Variant spellings exist in English."
+    ]
+  },
+  {
+    "word": "vary",
+    "pos": "v.",
+    "definition": "to differ in size, amount, or degree",
+    "fa": "متفاوت بودن",
+    "examples": [
+      "Prices vary depending on the season.",
+      "Opinions vary on this issue."
+    ]
+  },
+  {
+    "word": "vehicle",
+    "pos": "n.",
+    "definition": "a thing used for transporting people or goods",
+    "fa": "وسیله نقلیه",
+    "examples": [
+      "Electric vehicles reduce emissions.",
+      "The internet is a vehicle for information."
+    ]
+  },
+  {
+    "word": "version",
+    "pos": "n.",
+    "definition": "a particular form of something differing from others",
+    "fa": "نسخه، version",
+    "examples": [
+      "The latest version fixes several bugs.",
+      "This is an updated version of the report."
+    ]
+  },
+  {
+    "word": "via",
+    "pos": "prep.",
+    "definition": "by way of; through",
+    "fa": "از طریق",
+    "examples": [
+      "We travelled to Rome via Paris.",
+      "Send the document via email."
+    ]
+  },
+  {
+    "word": "violate",
+    "pos": "v.",
+    "definition": "to break or fail to comply with a rule",
+    "fa": "نقض کردن",
+    "examples": [
+      "He violated the terms of the contract.",
+      "Speeding violates traffic laws."
+    ]
+  },
+  {
+    "word": "virtual",
+    "pos": "adj.",
+    "definition": "almost or nearly as described; computer-generated",
+    "fa": "مجازی",
+    "examples": [
+      "Virtual meetings save travel time.",
+      "Virtual reality creates immersive experiences."
+    ]
+  },
+  {
+    "word": "visible",
+    "pos": "adj.",
+    "definition": "able to be seen",
+    "fa": "قابل مشاهده",
+    "examples": [
+      "The stars are visible tonight.",
+      "There was no visible damage to the car."
+    ]
+  },
+  {
+    "word": "vision",
+    "pos": "n.",
+    "definition": "the ability to see; an idea or mental image",
+    "fa": "بینایی؛ چشم‌انداز",
+    "examples": [
+      "She has perfect vision.",
+      "The CEO shared his vision for the company."
+    ]
+  },
+  {
+    "word": "welfare",
+    "pos": "n.",
+    "definition": "health and happiness; state financial support",
+    "fa": "رفاه",
+    "examples": [
+      "Child welfare is a government priority.",
+      "Welfare payments support low-income families."
+    ]
+  },
+  {
+    "word": "widespread",
+    "pos": "adj.",
+    "definition": "found over a large area",
+    "fa": "گسترده",
+    "examples": [
+      "Widespread drought affected farming.",
+      "There is widespread agreement on the issue."
+    ]
+  },
+  {
+    "word": "withdraw",
+    "pos": "v.",
+    "definition": "to remove or pull back",
+    "fa": "پس گرفتن",
+    "examples": [
+      "Investors withdrew their funds.",
+      "Troops withdrew from the border."
+    ]
+  },
+  {
+    "word": "witness",
+    "pos": "n./v.",
+    "definition": "one who sees an event; to observe",
+    "fa": "شاهد؛ مشاهده کردن",
+    "examples": [
+      "Witnesses confirmed the account.",
+      "We witness history every day."
+    ]
+  },
+  {
+    "word": "zone",
+    "pos": "n.",
+    "definition": "an area distinguished by particular features",
+    "fa": "منطقه، zone",
+    "examples": [
+      "The city created a pedestrian zone.",
+      "The war zone was evacuated."
+    ]
+  },
+  {
+    "word": "annual",
+    "pos": "adj.",
+    "definition": "occurring once every year",
+    "fa": "سالانه",
+    "examples": [
+      "Annual reports must be filed.",
+      "The annual festival draws thousands."
+    ]
+  },
+  {
+    "word": "appeal",
+    "pos": "n./v.",
+    "definition": "a serious request; to be attractive",
+    "fa": "درخواست؛ جذاب بودن",
+    "examples": [
+      "The charity launched an appeal.",
+      "The idea appeals to young voters."
+    ]
+  },
+  {
+    "word": "approach",
+    "pos": "n./v.",
+    "definition": "a way of dealing; to come near",
+    "fa": "رویکرد؛ نزدیک شدن",
+    "examples": [
+      "A new approach is needed.",
+      "Winter is approaching fast."
+    ]
+  },
+  {
+    "word": "appropriate",
+    "pos": "adj.",
+    "definition": "suitable for a particular purpose",
+    "fa": "مناسب",
+    "examples": [
+      "Wear appropriate clothing.",
+      "That comment was not appropriate."
+    ]
+  },
+  {
+    "word": "approve",
+    "pos": "v.",
+    "definition": "to officially agree to or accept",
+    "fa": "تأیید کردن",
+    "examples": [
+      "The board approved the budget.",
+      "Parents must approve the trip."
+    ]
+  },
+  {
+    "word": "yield",
+    "pos": "v./n.",
+    "definition": "to produce; to give way; the total produced",
+    "fa": "تولید کردن؛ تسلیم شدن؛ بازده",
+    "examples": [
+      "The investment yielded high returns.",
+      "The lane yields to traffic on the right."
+    ]
+  },
+  {
+    "word": "district",
+    "pos": "n.",
+    "definition": "an area of a country or city regarded as a distinct unit",
+    "fa": "منطقه، ناحیه",
+    "examples": [
+      "The financial district is busy on weekdays.",
+      "She lives in a quiet residential district."
+    ]
+  },
+  {
+    "word": "volume",
+    "pos": "n.",
+    "definition": "amount of space occupied; a book forming part of a work",
+    "fa": "حجم؛ جلد",
+    "examples": [
+      "The volume of trade increased sharply.",
+      "Volume one covers ancient history."
+    ]
+  },
+  {
+    "word": "voluntary",
+    "pos": "adj.",
+    "definition": "done by free choice",
+    "fa": "داوطلبانه، اختیاری",
+    "examples": [
+      "Participation in the survey is voluntary.",
+      "She does voluntary work at the hospital."
+    ]
+  },
+  {
+    "word": "wellbeing",
+    "pos": "n.",
+    "definition": "the state of being comfortable, healthy, or happy",
+    "fa": "رفاه، wellbeing",
+    "examples": [
+      "Exercise improves mental wellbeing.",
+      "Policies should promote community wellbeing."
+    ]
+  },
+  {
+    "word": "whereas",
+    "pos": "conj.",
+    "definition": "in contrast or comparison with the fact that",
+    "fa": "در حالی که",
+    "examples": [
+      "She loves cities, whereas he prefers the country.",
+      "Whereas sales rose, profits fell."
+    ]
+  },
+  {
+    "word": "pervasive",
+    "pos": "adj.",
+    "definition": "spread widely throughout an area or group",
+    "fa": "فراگیر",
+    "examples": [
+      "Technology has a pervasive influence on society.",
+      "A pervasive sense of fear gripped the city."
+    ]
+  },
+  {
+    "word": "retraction",
+    "pos": "n.",
+    "definition": "the action of withdrawing a statement or offer",
+    "fa": "پس‌گیری",
+    "examples": [
+      "The newspaper published a retraction.",
+      "Retraction of the offer surprised investors."
+    ]
+  },
+  {
+    "word": "testimony",
+    "pos": "n.",
+    "definition": "a formal written or spoken statement in court",
+    "fa": "شهادت",
+    "examples": [
+      "Her testimony convinced the jury.",
+      "Witness testimony supported the prosecution."
+    ]
+  },
+  {
+    "word": "abandon",
+    "pos": "v.",
+    "definition": "to leave completely and permanently",
+    "fa": "رها کردن، ترک کردن",
+    "examples": [
+      "They abandoned the sinking ship.",
+      "The project was abandoned due to costs."
+    ]
+  },
+  {
+    "word": "abolish",
+    "pos": "v.",
+    "definition": "to formally put an end to a system or practice",
+    "fa": "لغو کردن",
+    "examples": [
+      "Slavery was abolished in the nineteenth century.",
+      "The tax was abolished last year."
+    ]
+  },
+  {
+    "word": "absorb",
+    "pos": "v.",
+    "definition": "to take in or soak up",
+    "fa": "جذب کردن",
+    "examples": [
+      "Plants absorb carbon dioxide.",
+      "She absorbed the information quickly."
+    ]
+  },
+  {
+    "word": "abstraction",
+    "pos": "n.",
+    "definition": "the quality of dealing with ideas rather than events",
+    "fa": "انتزاع",
+    "examples": [
+      "Mathematics involves a degree of abstraction.",
+      "The painting moves toward pure abstraction."
+    ]
+  },
+  {
+    "word": "abuse",
+    "pos": "n./v.",
+    "definition": "misuse; to use wrongly or harmfully",
+    "fa": "سوءاستفاده؛ سوءاستفاده کردن",
+    "examples": [
+      "Drug abuse is a serious problem.",
+      "He was accused of abusing his power."
+    ]
+  },
+  {
+    "word": "accelerate",
+    "pos": "v.",
+    "definition": "to increase in speed or rate",
+    "fa": "تسریع کردن",
+    "examples": [
+      "Inflation continues to accelerate.",
+      "The car accelerated down the highway."
+    ]
+  },
+  {
+    "word": "access",
+    "pos": "n./v.",
+    "definition": "a way of approaching; to obtain or retrieve",
+    "fa": "دسترسی؛ دسترسی داشتن",
+    "examples": [
+      "Students have access to the library.",
+      "You can access files online."
+    ]
+  },
+  {
+    "word": "accommodate",
+    "pos": "v.",
+    "definition": "to provide lodging; to fit in with",
+    "fa": "جای دادن، accomodate کردن",
+    "examples": [
+      "The hotel accommodates 200 guests.",
+      "We must accommodate different learning styles."
+    ]
+  },
+  {
+    "word": "accompany",
+    "pos": "v.",
+    "definition": "to go with as a companion",
+    "fa": "همراهی کردن",
+    "examples": [
+      "She accompanied him to the ceremony.",
+      "The wine accompanies the meal perfectly."
+    ]
+  },
+  {
+    "word": "accomplish",
+    "pos": "v.",
+    "definition": "to achieve or complete successfully",
+    "fa": "انجام دادن، accomplish کردن",
+    "examples": [
+      "She accomplished all her goals.",
+      "The team accomplished the mission."
+    ]
+  },
+  {
+    "word": "accord",
+    "pos": "n./v.",
+    "definition": "agreement; to give or grant",
+    "fa": "توافق؛ accord دادن",
+    "examples": [
+      "The two sides reached an accord.",
+      "We accord great respect to teachers."
+    ]
+  },
+  {
+    "word": "account",
+    "pos": "n./v.",
+    "definition": "a report or record; to explain",
+    "fa": "حساب؛ توضیح دادن",
+    "examples": [
+      "Open a bank account today.",
+      "How do you account for the difference?"
+    ]
+  },
+  {
+    "word": "accuse",
+    "pos": "v.",
+    "definition": "to charge with a wrongdoing",
+    "fa": "متهم کردن",
+    "examples": [
+      "He was accused of theft.",
+      "She accused the company of negligence."
+    ]
+  },
+  {
+    "word": "acknowledge",
+    "pos": "v.",
+    "definition": "to accept or admit the existence of",
+    "fa": "اقرار کردن، acknowledge کردن",
+    "examples": [
+      "He acknowledged his mistake.",
+      "We acknowledge the support of our sponsors."
+    ]
+  },
+  {
+    "word": "acquaint",
+    "pos": "v.",
+    "definition": "to make someone aware of or familiar with",
+    "fa": "آشنا کردن",
+    "examples": [
+      "Let me acquaint you with the rules.",
+      "She acquainted herself with local customs."
+    ]
+  },
+  {
+    "word": "acquire",
+    "pos": "v.",
+    "definition": "to buy or obtain for oneself",
+    "fa": "به دست آوردن",
+    "examples": [
+      "She acquired valuable skills.",
+      "The company acquired a rival firm."
+    ]
+  },
+  {
+    "word": "adapt",
+    "pos": "v.",
+    "definition": "to adjust to new conditions",
+    "fa": "سازگار شدن",
+    "examples": [
+      "Species must adapt to survive.",
+      "We adapted the plan to local needs."
+    ]
+  },
+  {
+    "word": "adequate",
+    "pos": "adj.",
+    "definition": "sufficient for a specific purpose",
+    "fa": "کافی",
+    "examples": [
+      "The salary is adequate for living costs.",
+      "Adequate sleep improves performance."
+    ]
+  },
+  {
+    "word": "adhere",
+    "pos": "v.",
+    "definition": "to stick to; to believe in and follow",
+    "fa": "پایبند بودن",
+    "examples": [
+      "Labels must adhere to bottles.",
+      "She adheres to strict principles."
+    ]
+  },
+  {
+    "word": "adjacent",
+    "pos": "adj.",
+    "definition": "next to or adjoining",
+    "fa": "مجاور",
+    "examples": [
+      "Our room is adjacent to the elevator.",
+      "The park is adjacent to the school."
+    ]
+  },
+  {
+    "word": "adjust",
+    "pos": "v.",
+    "definition": "to alter slightly to achieve fit",
+    "fa": "تنظیم کردن",
+    "examples": [
+      "Adjust the volume on the speaker.",
+      "It took time to adjust to the climate."
+    ]
+  },
+  {
+    "word": "administer",
+    "pos": "v.",
+    "definition": "to manage and be responsible for",
+    "fa": "اداره کردن",
+    "examples": [
+      "Nurses administer medication.",
+      "The program is administered by the state."
+    ]
+  },
+  {
+    "word": "admire",
+    "pos": "v.",
+    "definition": "to regard with respect or warm approval",
+    "fa": "تحسین کردن",
+    "examples": [
+      "I admire her dedication.",
+      "Visitors admire the cathedral's architecture."
+    ]
+  },
+  {
+    "word": "admit",
+    "pos": "v.",
+    "definition": "to confess; to allow entry",
+    "fa": "اقرار کردن؛ پذیرفتن",
+    "examples": [
+      "He admitted he was wrong.",
+      "The museum admits free on Sundays."
+    ]
+  },
+  {
+    "word": "adopt",
+    "pos": "v.",
+    "definition": "to choose to take up; to legally take another's child",
+    "fa": "اتخاذ کردن؛ به فرزندی پذیرفتن",
+    "examples": [
+      "The company adopted new policies.",
+      "They adopted a child from abroad."
+    ]
+  },
+  {
+    "word": "advance",
+    "pos": "v./n./adj.",
+    "definition": "to move forward; development; beforehand",
+    "fa": "پیش رفتن؛ پیشرفت؛ پیشاپیش",
+    "examples": [
+      "Technology continues to advance.",
+      "Pay in advance to secure booking."
+    ]
+  },
+  {
+    "word": "advantage",
+    "pos": "n.",
+    "definition": "a condition giving greater chance of success",
+    "fa": "مزیت",
+    "examples": [
+      "Experience gives you an advantage.",
+      "Take advantage of the opportunity."
+    ]
+  },
+  {
+    "word": "adventure",
+    "pos": "n.",
+    "definition": "an unusual and exciting experience",
+    "fa": "ماجراجویی",
+    "examples": [
+      "Travel is a great adventure.",
+      "The book recounts his Arctic adventure."
+    ]
+  },
+  {
+    "word": "adverse",
+    "pos": "adj.",
+    "definition": "preventing success; harmful",
+    "fa": "نامطلوب",
+    "examples": [
+      "Adverse weather delayed the flight.",
+      "The drug has adverse side effects."
+    ]
+  },
+  {
+    "word": "advocate",
+    "pos": "n./v.",
+    "definition": "a person who supports; to publicly recommend",
+    "fa": "مدافع؛ طرفداری کردن",
+    "examples": [
+      "She is an advocate for reform.",
+      "He advocates free education."
+    ]
+  },
+  {
+    "word": "affect",
+    "pos": "v.",
+    "definition": "to produce a change in",
+    "fa": "تأثیر گذاشتن",
+    "examples": [
+      "Pollution affects air quality.",
+      "The news affected her deeply."
+    ]
+  },
+  {
+    "word": "afford",
+    "pos": "v.",
+    "definition": "to have enough money or time for",
+    "fa": "توانایی داشتن",
+    "examples": [
+      "We cannot afford to wait.",
+      "The city affords many opportunities."
+    ]
+  },
+  {
+    "word": "agency",
+    "pos": "n.",
+    "definition": "a business providing a service; action",
+    "fa": "آژانس؛ نهاد",
+    "examples": [
+      "The travel agency booked our flights.",
+      "Human agency shapes history."
+    ]
+  },
+  {
+    "word": "agenda",
+    "pos": "n.",
+    "definition": "a list of items to be discussed",
+    "fa": "دستور کار",
+    "examples": [
+      "Education tops the political agenda.",
+      "What is on the agenda today?"
+    ]
+  },
+  {
+    "word": "agent",
+    "pos": "n.",
+    "definition": "a person who acts on behalf of another",
+    "fa": "نماینده، agent",
+    "examples": [
+      "The agent negotiated the deal.",
+      "Travel agents arrange holidays."
+    ]
+  },
+  {
+    "word": "aggregate",
+    "pos": "n./adj.",
+    "definition": "a whole formed by combining parts",
+    "fa": "مجموع",
+    "examples": [
+      "Aggregate demand drives growth.",
+      "Aggregate scores determine ranking."
+    ]
+  },
+  {
+    "word": "aggressive",
+    "pos": "adj.",
+    "definition": "ready to attack or confront",
+    "fa": "پرخاشگر، aggressive",
+    "examples": [
+      "Aggressive marketing boosted sales.",
+      "The dog became aggressive."
+    ]
+  },
+  {
+    "word": "agree",
+    "pos": "v.",
+    "definition": "to have the same opinion",
+    "fa": "موافقت کردن",
+    "examples": [
+      "We agree on most issues.",
+      "Both parties agreed to the terms."
+    ]
+  },
+  {
+    "word": "aid",
+    "pos": "n./v.",
+    "definition": "help or support",
+    "fa": "کمک؛ کمک کردن",
+    "examples": [
+      "Foreign aid reached the disaster zone.",
+      "Volunteers aid refugees daily."
+    ]
+  },
+  {
+    "word": "aim",
+    "pos": "n./v.",
+    "definition": "a purpose; to point or direct",
+    "fa": "هدف؛ هدف گرفتن",
+    "examples": [
+      "Our aim is to reduce poverty.",
+      "The policy aims to improve healthcare."
+    ]
+  },
+  {
+    "word": "alarm",
+    "pos": "n./v.",
+    "definition": "an anxious awareness of danger; to frighten",
+    "fa": "هشدار؛ نگران کردن",
+    "examples": [
+      "The fire alarm sounded.",
+      "Rising costs alarm economists."
+    ]
+  },
+  {
+    "word": "allocate",
+    "pos": "v.",
+    "definition": "to distribute for a particular purpose",
+    "fa": "اختصاص دادن",
+    "examples": [
+      "Funds were allocated to schools.",
+      "Each department allocates its budget."
+    ]
+  },
+  {
+    "word": "alter",
+    "pos": "v.",
+    "definition": "to change in character or composition",
+    "fa": "تغییر دادن",
+    "examples": [
+      "They altered the original design.",
+      "Climate change alters ecosystems."
+    ]
+  },
+  {
+    "word": "alternative",
+    "pos": "n./adj.",
+    "definition": "another option; available as another choice",
+    "fa": "جایگزین",
+    "examples": [
+      "Solar power is a clean alternative.",
+      "We need alternative solutions."
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "pos": "adj.",
+    "definition": "having more than one meaning",
+    "fa": "مبهم",
+    "examples": [
+      "The wording is ambiguous.",
+      "His reply was deliberately ambiguous."
+    ]
+  },
+  {
+    "word": "analyse",
+    "pos": "v.",
+    "definition": "to examine in detail",
+    "fa": "تحلیل کردن",
+    "examples": [
+      "Scientists analyse blood samples.",
+      "We must analyse the data carefully."
+    ]
+  },
+  {
+    "word": "ancestor",
+    "pos": "n.",
+    "definition": "a person from whom one is descended",
+    "fa": "نیا",
+    "examples": [
+      "Our ancestors migrated from Asia.",
+      "She researched her family ancestors."
+    ]
+  },
+  {
+    "word": "ancient",
+    "pos": "adj.",
+    "definition": "belonging to the very distant past",
+    "fa": "باستانی",
+    "examples": [
+      "Ancient Rome was a great empire.",
+      "Ancient traditions survive today."
+    ]
+  },
+  {
+    "word": "announce",
+    "pos": "v.",
+    "definition": "to make a public statement",
+    "fa": "اعلام کردن",
+    "examples": [
+      "The president announced new reforms.",
+      "They announced their engagement."
+    ]
+  },
+  {
+    "word": "anniversary",
+    "pos": "n.",
+    "definition": "the date on which an event took place in a previous year",
+    "fa": "سالگرد",
+    "examples": [
+      "They celebrated their tenth anniversary.",
+      "The anniversary of the treaty is in May."
+    ]
+  },
+  {
+    "word": "anticipate",
+    "pos": "v.",
+    "definition": "to expect or predict",
+    "fa": "انتظار داشتن",
+    "examples": [
+      "We anticipate strong demand.",
+      "Nobody anticipated the crisis."
+    ]
+  },
+  {
+    "word": "anxiety",
+    "pos": "n.",
+    "definition": "a feeling of worry or unease",
+    "fa": "اضطراب",
+    "examples": [
+      "Financial anxiety keeps people awake.",
+      "Anxiety disorders are treatable."
+    ]
+  },
+  {
+    "word": "apology",
+    "pos": "n.",
+    "definition": "a regretful acknowledgment of offence",
+    "fa": "عذرخواهی",
+    "examples": [
+      "He offered a sincere apology.",
+      "The company issued a public apology."
+    ]
+  },
+  {
+    "word": "unease",
+    "pos": "n.",
+    "definition": "a feeling of discomfort or worry",
+    "fa": "نگرانی، ناراحتی",
+    "examples": [
+      "There is growing unease about inflation.",
+      "She felt unease before the presentation."
+    ]
+  },
+  {
+    "word": "apologize",
+    "pos": "v.",
+    "definition": "to express regret for something done wrong",
+    "fa": "عذرخواهی کردن",
+    "examples": [
+      "He apologized for being late.",
+      "The company apologized to customers."
+    ]
+  },
+  {
+    "word": "apparent",
+    "pos": "adj.",
+    "definition": "clearly visible or understood",
+    "fa": "آشکار",
+    "examples": [
+      "It was apparent she was upset.",
+      "There is no apparent reason for delay."
+    ]
+  },
+  {
+    "word": "appetite",
+    "pos": "n.",
+    "definition": "a natural desire to satisfy a bodily need, especially for food",
+    "fa": "اشتها، تمایل",
+    "examples": [
+      "Exercise increases appetite.",
+      "There is a growing appetite for reform."
+    ]
+  },
+  {
+    "word": "appear",
+    "pos": "v.",
+    "definition": "to come into sight; to seem",
+    "fa": "ظاهر شدن",
+    "examples": [
+      "Stars appear at night.",
+      "She appears confident in interviews."
+    ]
+  },
+  {
+    "word": "apply",
+    "pos": "v.",
+    "definition": "to make a formal request; to put to use",
+    "fa": "درخواست دادن؛ به کار بردن",
+    "examples": [
+      "Apply for the scholarship online.",
+      "Apply this rule to all cases."
+    ]
+  },
+  {
+    "word": "appoint",
+    "pos": "v.",
+    "definition": "to assign a job or role to someone",
+    "fa": "منصوب کردن",
+    "examples": [
+      "They appointed a new director.",
+      "She was appointed chair of the committee."
+    ]
+  },
+  {
+    "word": "appreciate",
+    "pos": "v.",
+    "definition": "to recognize the value of; to be grateful",
+    "fa": "قدردانی کردن",
+    "examples": [
+      "I appreciate your help.",
+      "Property values appreciate over time."
+    ]
+  },
+  {
+    "word": "proximity",
+    "pos": "n.",
+    "definition": "nearness in space, time, or relationship",
+    "fa": "نزدیکی",
+    "examples": [
+      "The hotel's proximity to the beach is ideal.",
+      "Proximity to power brings influence."
+    ]
+  },
+  {
+    "word": "suitable",
+    "pos": "adj.",
+    "definition": "right or appropriate for a particular purpose",
+    "fa": "مناسب",
+    "examples": [
+      "This course is suitable for beginners.",
+      "Find a suitable time for the meeting."
+    ]
+  },
+  {
+    "word": "endorse",
+    "pos": "v.",
+    "definition": "to declare one's public approval or support of",
+    "fa": "تأیید کردن، حمایت کردن",
+    "examples": [
+      "Celebrities endorse products in advertisements.",
+      "The committee endorsed the proposal."
+    ]
+  },
+  {
+    "word": "approximate",
+    "pos": "adj./v.",
+    "definition": "close to the actual; to come close to",
+    "fa": "تقریبی",
+    "examples": [
+      "The approximate cost is $500.",
+      "Results approximate our predictions."
+    ]
+  },
+  {
+    "word": "architect",
+    "pos": "n.",
+    "definition": "a person who designs buildings",
+    "fa": "معمار",
+    "examples": [
+      "The architect won an award.",
+      "She works as a landscape architect."
+    ]
+  },
+  {
+    "word": "architecture",
+    "pos": "n.",
+    "definition": "the art of designing buildings",
+    "fa": "معماری",
+    "examples": [
+      "Roman architecture influenced Europe.",
+      "Modern architecture uses glass and steel."
+    ]
+  },
+  {
+    "word": "argue",
+    "pos": "v.",
+    "definition": "to give reasons for or against",
+    "fa": "بحث کردن",
+    "examples": [
+      "They argue about politics often.",
+      "Lawyers argue cases in court."
+    ]
+  },
+  {
+    "word": "arise",
+    "pos": "v.",
+    "definition": "to emerge or become apparent",
+    "fa": "پدید آمدن",
+    "examples": [
+      "Problems arise when communication fails.",
+      "A dispute arose over the contract."
+    ]
+  },
+  {
+    "word": "arouse",
+    "pos": "v.",
+    "definition": "to evoke or awaken a feeling",
+    "fa": "برانگیختن",
+    "examples": [
+      "The speech aroused public anger.",
+      "The film aroused strong emotions."
+    ]
+  },
+  {
+    "word": "artificial",
+    "pos": "adj.",
+    "definition": "made by humans rather than occurring naturally",
+    "fa": "مصنوعی",
+    "examples": [
+      "Artificial sweeteners replace sugar.",
+      "The lake is artificial."
+    ]
+  },
+  {
+    "word": "aspect",
+    "pos": "n.",
+    "definition": "a particular part or feature",
+    "fa": "جنبه",
+    "examples": [
+      "Consider every aspect of the plan.",
+      "The cultural aspect fascinated her."
+    ]
+  },
+  {
+    "word": "assault",
+    "pos": "n./v.",
+    "definition": "a physical attack; to attack",
+    "fa": "حمله؛ حمله کردن",
+    "examples": [
+      "The assault was reported to police.",
+      "He was assaulted outside the bar."
+    ]
+  },
+  {
+    "word": "assemble",
+    "pos": "v.",
+    "definition": "to gather together",
+    "fa": "جمع کردن",
+    "examples": [
+      "Workers assemble cars on the line.",
+      "Protesters assembled in the square."
+    ]
+  },
+  {
+    "word": "assert",
+    "pos": "v.",
+    "definition": "to state a fact confidently",
+    "fa": "ادعا کردن",
+    "examples": [
+      "She asserted her innocence.",
+      "The report asserts that costs will rise."
+    ]
+  },
+  {
+    "word": "assess",
+    "pos": "v.",
+    "definition": "to evaluate or estimate",
+    "fa": "ارزیابی کردن",
+    "examples": [
+      "Teachers assess student progress.",
+      "Experts assessed the earthquake damage."
+    ]
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "definition": "a useful or valuable thing or person",
+    "fa": "دارایی",
+    "examples": [
+      "Education is a valuable asset.",
+      "The company's assets exceed liabilities."
+    ]
+  },
+  {
+    "word": "assign",
+    "pos": "v.",
+    "definition": "to allocate a task or responsibility",
+    "fa": "واگذار کردن",
+    "examples": [
+      "The manager assigned roles.",
+      "Students were assigned group projects."
+    ]
+  },
+  {
+    "word": "assist",
+    "pos": "v.",
+    "definition": "to help someone",
+    "fa": "کمک کردن",
+    "examples": [
+      "Volunteers assist the elderly.",
+      "Can I assist you with directions?"
+    ]
+  },
+  {
+    "word": "associate",
+    "pos": "v./n./adj.",
+    "definition": "to connect in the mind; a partner",
+    "fa": "مرتبط کردن؛ شریک",
+    "examples": [
+      "People associate red with danger.",
+      "She is a business associate."
+    ]
+  },
+  {
+    "word": "assume",
+    "pos": "v.",
+    "definition": "to suppose to be the case",
+    "fa": "فرض کردن",
+    "examples": [
+      "Do not assume everyone agrees.",
+      "She assumed control of the company."
+    ]
+  },
+  {
+    "word": "assure",
+    "pos": "v.",
+    "definition": "to tell someone confidently",
+    "fa": "اطمینان دادن",
+    "examples": [
+      "I assure you it is safe.",
+      "The doctor assured her recovery would be quick."
+    ]
+  },
+  {
+    "word": "ambient",
+    "pos": "adj.",
+    "definition": "relating to the immediate surroundings of something",
+    "fa": "محیطی",
+    "examples": [
+      "Ambient music played softly in the café.",
+      "Ambient temperature affects device performance."
+    ]
+  },
+  {
+    "word": "attach",
+    "pos": "v.",
+    "definition": "to fasten or join",
+    "fa": "پیوست کردن",
+    "examples": [
+      "Attach the file to your email.",
+      "Strong bonds attach families together."
+    ]
+  },
+  {
+    "word": "attack",
+    "pos": "n./v.",
+    "definition": "an aggressive action; to act aggressively",
+    "fa": "حمله؛ حمله کردن",
+    "examples": [
+      "The attack caused widespread panic.",
+      "Critics attacked the policy fiercely."
+    ]
+  },
+  {
+    "word": "attain",
+    "pos": "v.",
+    "definition": "to succeed in achieving",
+    "fa": "رسیدن به",
+    "examples": [
+      "She attained her career goals.",
+      "The team attained record sales."
+    ]
+  },
+  {
+    "word": "attempt",
+    "pos": "n./v.",
+    "definition": "an effort to achieve; to try",
+    "fa": "تلاش؛ تلاش کردن",
+    "examples": [
+      "His attempt failed.",
+      "She attempted to climb the peak."
+    ]
+  },
+  {
+    "word": "attend",
+    "pos": "v.",
+    "definition": "to be present at; to pay attention",
+    "fa": "حضور داشتن",
+    "examples": [
+      "Over 200 people attended the lecture.",
+      "Please attend to the instructions."
+    ]
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "definition": "a settled way of thinking or feeling",
+    "fa": "نگرش، attitude",
+    "examples": [
+      "A positive attitude helps success.",
+      "Public attitude toward smoking has changed."
+    ]
+  },
+  {
+    "word": "attract",
+    "pos": "v.",
+    "definition": "to draw interest or attention",
+    "fa": "جذب کردن",
+    "examples": [
+      "The museum attracts tourists.",
+      "Bright colours attract insects."
+    ]
+  },
+  {
+    "word": "attribution",
+    "pos": "n.",
+    "definition": "the action of regarding something as being caused by a person or thing",
+    "fa": "نسبت‌دهی",
+    "examples": [
+      "Proper attribution is required in academic writing.",
+      "The attribution of the quote was incorrect."
+    ]
+  },
+  {
+    "word": "auction",
+    "pos": "n./v.",
+    "definition": "a public sale to the highest bidder",
+    "fa": "مزایده",
+    "examples": [
+      "The painting sold at auction.",
+      "They auctioned the estate."
+    ]
+  },
+  {
+    "word": "audience",
+    "pos": "n.",
+    "definition": "the assembled spectators or listeners",
+    "fa": "مخاطب، audience",
+    "examples": [
+      "The audience applauded loudly.",
+      "The show draws a young audience."
+    ]
+  },
+  {
+    "word": "author",
+    "pos": "n.",
+    "definition": "a writer of a book or article",
+    "fa": "نویسنده",
+    "examples": [
+      "The author signed copies of her novel.",
+      "He is the author of ten books."
+    ]
+  },
+  {
+    "word": "authority",
+    "pos": "n.",
+    "definition": "the power to give orders; an expert",
+    "fa": "مرجع، اختیار",
+    "examples": [
+      "Local authority approved the plans.",
+      "She is an authority on linguistics."
+    ]
+  },
+  {
+    "word": "automatic",
+    "pos": "adj.",
+    "definition": "working by itself with minimal human control",
+    "fa": "خودکار",
+    "examples": [
+      "The door has an automatic opener.",
+      "Breathing is automatic."
+    ]
+  },
+  {
+    "word": "available",
+    "pos": "adj.",
+    "definition": "able to be used or obtained",
+    "fa": "در دسترس",
+    "examples": [
+      "Tickets are available online.",
+      "The doctor is available tomorrow."
+    ]
+  },
+  {
+    "word": "average",
+    "pos": "adj./n./v.",
+    "definition": "typical; the result of adding quantities and dividing",
+    "fa": "متوسط",
+    "examples": [
+      "The average age is thirty-five.",
+      "Temperatures average 20°C in July."
+    ]
+  },
+  {
+    "word": "avoid",
+    "pos": "v.",
+    "definition": "to keep away from",
+    "fa": "اجتناب کردن",
+    "examples": [
+      "Avoid fatty foods for better health.",
+      "She avoided answering the question."
+    ]
+  },
+  {
+    "word": "award",
+    "pos": "n./v.",
+    "definition": "a prize; to give a prize",
+    "fa": "جایزه؛ اعطا کردن",
+    "examples": [
+      "She won an award for excellence.",
+      "The jury awarded damages to the plaintiff."
+    ]
+  },
+  {
+    "word": "aware",
+    "pos": "adj.",
+    "definition": "having knowledge or perception",
+    "fa": "آگاه",
+    "examples": [
+      "Be aware of the risks.",
+      "I was not aware of the change."
+    ]
+  },
+  {
+    "word": "behalf",
+    "pos": "n.",
+    "definition": "in the interest of a person or group",
+    "fa": "از طرف",
+    "examples": [
+      "She spoke on behalf of the team.",
+      "I accept the award on his behalf."
+    ]
+  },
+  {
+    "word": "behaviour",
+    "pos": "n.",
+    "definition": "the way a person acts",
+    "fa": "رفتار",
+    "examples": [
+      "Good behaviour is expected.",
+      "Animal behaviour fascinates biologists."
+    ]
+  },
+  {
+    "word": "belief",
+    "pos": "n.",
+    "definition": "an acceptance that something is true",
+    "fa": "باور، اعتقاد",
+    "examples": [
+      "Religious belief varies worldwide.",
+      "It is my belief that education transforms lives."
+    ]
+  },
+  {
+    "word": "benefit",
+    "pos": "n./v.",
+    "definition": "an advantage; to be helpful to",
+    "fa": "فایده؛ سود بردن",
+    "examples": [
+      "Exercise has many health benefits.",
+      "The policy benefits small businesses."
+    ]
+  },
+  {
+    "word": "prejudice",
+    "pos": "n.",
+    "definition": "preconceived opinion not based on reason",
+    "fa": "تعصب، prejudice",
+    "examples": [
+      "We must fight racial prejudice.",
+      "Prejudice against immigrants persists."
+    ]
+  },
+  {
+    "word": "bond",
+    "pos": "n.",
+    "definition": "a connection; a financial certificate",
+    "fa": "پیوند؛ اوراق قرضه",
+    "examples": [
+      "Shared goals create strong bonds.",
+      "Government bonds are low-risk investments."
+    ]
+  },
+  {
+    "word": "brief",
+    "pos": "adj./n.",
+    "definition": "short in duration; a summary",
+    "fa": "کوتاه؛ خلاصه",
+    "examples": [
+      "The meeting was brief.",
+      "The lawyer submitted a legal brief."
+    ]
+  },
+  {
+    "word": "confer",
+    "pos": "v.",
+    "definition": "to grant a title or benefit; to discuss",
+    "fa": "اعطا کردن؛ مشورت کردن",
+    "examples": [
+      "The university conferred an honorary degree.",
+      "Experts conferred on the best approach."
+    ]
+  },
+  {
+    "word": "conflict",
+    "pos": "n./v.",
+    "definition": "a serious disagreement; to clash",
+    "fa": "درگیری؛ در تضاد بودن",
+    "examples": [
+      "The conflict lasted three years.",
+      "Their schedules conflict on Tuesdays."
+    ]
+  },
+  {
+    "word": "confuse",
+    "pos": "v.",
+    "definition": "to make unable to think clearly",
+    "fa": "گیج کردن",
+    "examples": [
+      "Similar names confuse customers.",
+      "Do not confuse correlation with causation."
+    ]
+  },
+  {
+    "word": "congress",
+    "pos": "n.",
+    "definition": "a formal meeting; a national legislature",
+    "fa": "کنگره؛ مجلس",
+    "examples": [
+      "The congress meets annually.",
+      "Congress passed the new law."
+    ]
+  },
+  {
+    "word": "conjunction",
+    "pos": "n.",
+    "definition": "a word connecting clauses; the action of joining",
+    "fa": "حرف ربط؛ ترکیب",
+    "examples": [
+      "Use a conjunction to link sentences.",
+      "The event occurred in conjunction with the festival."
+    ]
+  },
+  {
+    "word": "budget",
+    "pos": "n./v.",
+    "definition": "an estimate of income and expenditure",
+    "fa": "بودجه",
+    "examples": [
+      "The government announced the budget.",
+      "We budget carefully each month."
+    ]
+  },
+  {
+    "word": "bulk",
+    "pos": "n.",
+    "definition": "the mass or main part of something",
+    "fa": "حجم، عمده",
+    "examples": [
+      "Buy rice in bulk to save money.",
+      "The bulk of the work is done."
+    ]
+  },
+  {
+    "word": "capable",
+    "pos": "adj.",
+    "definition": "having the ability to do something",
+    "fa": "توانا",
+    "examples": [
+      "She is capable of leading the team.",
+      "The software is capable of complex analysis."
+    ]
+  },
+  {
+    "word": "capacity",
+    "pos": "n.",
+    "definition": "the maximum amount something can contain",
+    "fa": "ظرفیت",
+    "examples": [
+      "The stadium capacity is 40,000.",
+      "She works at full capacity."
+    ]
+  },
+  {
+    "word": "capital",
+    "pos": "n./adj.",
+    "definition": "wealth; a city serving as seat of government",
+    "fa": "سرمایه؛ پایتخت",
+    "examples": [
+      "Startups need venture capital.",
+      "London is the capital of England."
+    ]
+  },
+  {
+    "word": "capture",
+    "pos": "v./n.",
+    "definition": "to take by force; the act of capturing",
+    "fa": "به دست آوردن؛ اسیر",
+    "examples": [
+      "The photo captures the moment perfectly.",
+      "Police captured the suspect."
+    ]
+  },
+  {
+    "word": "category",
+    "pos": "n.",
+    "definition": "a class or division of things",
+    "fa": "دسته‌بندی",
+    "examples": [
+      "Books are sorted by category.",
+      "Which category does this fall into?"
+    ]
+  },
+  {
+    "word": "cease",
+    "pos": "v.",
+    "definition": "to come to an end",
+    "fa": "متوقف شدن",
+    "examples": [
+      "Hostilities ceased at midnight.",
+      "The factory ceased production."
+    ]
+  },
+  {
+    "word": "challenge",
+    "pos": "n./v.",
+    "definition": "a difficult task; to question",
+    "fa": "چالش؛ به چallenging",
+    "examples": [
+      "The role presents a real challenge.",
+      "She challenged the decision in court."
+    ]
+  },
+  {
+    "word": "channel",
+    "pos": "n.",
+    "definition": "a means of communication or passage",
+    "fa": "کانال",
+    "examples": [
+      "Use the proper channel for complaints.",
+      "The channel connects two lakes."
+    ]
+  },
+  {
+    "word": "character",
+    "pos": "n.",
+    "definition": "the mental qualities of a person; a symbol",
+    "fa": "شخصیت؛ کاراکتر",
+    "examples": [
+      "Honesty is part of his character.",
+      "Chinese characters are complex."
+    ]
+  },
+  {
+    "word": "charge",
+    "pos": "n./v.",
+    "definition": "a price; to ask payment; to accuse",
+    "fa": "هزینه؛ شارژ کردن؛ متهم کردن",
+    "examples": [
+      "There is no charge for delivery.",
+      "Police charged him with fraud."
+    ]
+  },
+  {
+    "word": "chart",
+    "pos": "n./v.",
+    "definition": "a graphical representation; to map",
+    "fa": "نمودار؛ ترسیم کردن",
+    "examples": [
+      "The chart shows sales trends.",
+      "We charted a course to the island."
+    ]
+  },
+  {
+    "word": "chemist",
+    "pos": "n.",
+    "definition": "a person trained in chemistry; a pharmacist",
+    "fa": "شیمیدان؛ داروساز",
+    "examples": [
+      "The chemist analysed the sample.",
+      "Buy aspirin at the chemist."
+    ]
+  },
+  {
+    "word": "circumstance",
+    "pos": "n.",
+    "definition": "a fact or condition connected with an event",
+    "fa": "شرایط",
+    "examples": [
+      "Under the circumstances, we cancelled.",
+      "Financial circumstances forced a sale."
+    ]
+  },
+  {
+    "word": "cite",
+    "pos": "v.",
+    "definition": "to quote as evidence",
+    "fa": "استناد کردن",
+    "examples": [
+      "She cited three studies in her paper.",
+      "The judge cited previous rulings."
+    ]
+  },
+  {
+    "word": "civil",
+    "pos": "adj.",
+    "definition": "relating to ordinary citizens; polite",
+    "fa": "مدنی؛ مودبانه",
+    "examples": [
+      "Civil rights must be protected.",
+      "They maintained a civil discussion."
+    ]
+  },
+  {
+    "word": "claim",
+    "pos": "v./n.",
+    "definition": "to state as a fact; an assertion",
+    "fa": "ادعا کردن؛ ادعا",
+    "examples": [
+      "He claims innocence.",
+      "Insurance claims rose this year."
+    ]
+  },
+  {
+    "word": "clarify",
+    "pos": "v.",
+    "definition": "to make clear or understandable",
+    "fa": "روشن کردن",
+    "examples": [
+      "Could you clarify your position?",
+      "The update clarified the rules."
+    ]
+  },
+  {
+    "word": "classic",
+    "pos": "adj./n.",
+    "definition": "judged over time to be of highest quality",
+    "fa": "کلاسیک",
+    "examples": [
+      "It is a classic example of irony.",
+      "Shakespeare wrote many classics."
+    ]
+  },
+  {
+    "word": "clause",
+    "pos": "n.",
+    "definition": "a distinct section of a legal document",
+    "fa": "بند، clause",
+    "examples": [
+      "Read every clause in the contract.",
+      "A relative clause adds information."
+    ]
+  },
+  {
+    "word": "client",
+    "pos": "n.",
+    "definition": "a person using professional services",
+    "fa": "مشتری",
+    "examples": [
+      "The lawyer met with her client.",
+      "The firm has many corporate clients."
+    ]
+  },
+  {
+    "word": "climatic",
+    "pos": "adj.",
+    "definition": "relating to climate",
+    "fa": "اقلیمی",
+    "examples": [
+      "Climatic conditions vary by latitude.",
+      "Climatic change affects crop yields."
+    ]
+  },
+  {
+    "word": "clinic",
+    "pos": "n.",
+    "definition": "a place giving medical treatment",
+    "fa": "کلینیک",
+    "examples": [
+      "She visited a dental clinic.",
+      "The clinic offers free vaccinations."
+    ]
+  },
+  {
+    "word": "code",
+    "pos": "n.",
+    "definition": "a system of rules or symbols",
+    "fa": "کد، قانون",
+    "examples": [
+      "Follow the dress code.",
+      "Programmers write computer code."
+    ]
+  },
+  {
+    "word": "coherent",
+    "pos": "adj.",
+    "definition": "logical and consistent",
+    "fa": "منسجم",
+    "examples": [
+      "She gave a coherent explanation.",
+      "The essay lacks a coherent structure."
+    ]
+  },
+  {
+    "word": "coincide",
+    "pos": "v.",
+    "definition": "to occur at the same time",
+    "fa": "همزمان شدن",
+    "examples": [
+      "The events coincided exactly.",
+      "Our views coincide on this issue."
+    ]
+  },
+  {
+    "word": "collapse",
+    "pos": "v./n.",
+    "definition": "to fall down suddenly; a sudden failure",
+    "fa": "فرو ریختن؛ سقوط",
+    "examples": [
+      "The bridge collapsed in the storm.",
+      "The company faced financial collapse."
+    ]
+  },
+  {
+    "word": "colleague",
+    "pos": "n.",
+    "definition": "a person with whom one works",
+    "fa": "همکار",
+    "examples": [
+      "My colleague helped with the report.",
+      "She discussed it with senior colleagues."
+    ]
+  },
+  {
+    "word": "collect",
+    "pos": "v.",
+    "definition": "to gather or accumulate",
+    "fa": "جمع‌آوری کردن",
+    "examples": [
+      "Collect data from all sources.",
+      "She collects rare stamps."
+    ]
+  },
+  {
+    "word": "colony",
+    "pos": "n.",
+    "definition": "a country under foreign control; a group of settlers",
+    "fa": "مستعمره؛ colony",
+    "examples": [
+      "India was once a British colony.",
+      "Ant colonies have complex structures."
+    ]
+  },
+  {
+    "word": "combine",
+    "pos": "v.",
+    "definition": "to join or merge",
+    "fa": "ترکیب کردن",
+    "examples": [
+      "Combine the ingredients in a bowl.",
+      "The firms combined to form one company."
+    ]
+  },
+  {
+    "word": "comfort",
+    "pos": "n./v.",
+    "definition": "a state of physical ease; to soothe",
+    "fa": "آسایش؛ دلداری دادن",
+    "examples": [
+      "Live in comfort and safety.",
+      "She comforted the crying child."
+    ]
+  },
+  {
+    "word": "command",
+    "pos": "n./v.",
+    "definition": "an order; to give orders",
+    "fa": "دستور؛ فرمان دادن",
+    "examples": [
+      "He gave a clear command.",
+      "She commands a unit of soldiers."
+    ]
+  },
+  {
+    "word": "comment",
+    "pos": "n./v.",
+    "definition": "a remark; to express an opinion",
+    "fa": "نظر؛ نظر دادن",
+    "examples": [
+      "Comments are welcome.",
+      "Critics commented favourably on the film."
+    ]
+  },
+  {
+    "word": "commerce",
+    "pos": "n.",
+    "definition": "the activity of buying and selling",
+    "fa": "تجارت",
+    "examples": [
+      "E-commerce transformed retail.",
+      "International commerce drives growth."
+    ]
+  },
+  {
+    "word": "commission",
+    "pos": "n./v.",
+    "definition": "a group appointed to investigate; to order work",
+    "fa": "کمیسیون؛ سفارش دادن",
+    "examples": [
+      "A commission was set up to review policy.",
+      "An artist was commissioned for the mural."
+    ]
+  },
+  {
+    "word": "commit",
+    "pos": "v.",
+    "definition": "to carry out or pledge to do",
+    "fa": "متعهد شدن",
+    "examples": [
+      "Nations committed to reduce emissions.",
+      "He committed a serious error."
+    ]
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "definition": "a group appointed for a specific function",
+    "fa": "کمیته",
+    "examples": [
+      "The committee meets every month.",
+      "She chairs the finance committee."
+    ]
+  },
+  {
+    "word": "commodity",
+    "pos": "n.",
+    "definition": "a raw material or primary product",
+    "fa": "کالا",
+    "examples": [
+      "Oil is a valuable commodity.",
+      "Commodity prices fluctuate daily."
+    ]
+  },
+  {
+    "word": "communicate",
+    "pos": "v.",
+    "definition": "to share or exchange information",
+    "fa": "ارتباط برقرار کردن",
+    "examples": [
+      "We communicate via email.",
+      "Dolphins communicate through sounds."
+    ]
+  },
+  {
+    "word": "community",
+    "pos": "n.",
+    "definition": "a group living in one place",
+    "fa": "جامعه",
+    "examples": [
+      "The community rallied after the flood.",
+      "Online communities connect people globally."
+    ]
+  },
+  {
+    "word": "compare",
+    "pos": "v.",
+    "definition": "to estimate similarities and differences",
+    "fa": "مقایسه کردن",
+    "examples": [
+      "Compare prices before buying.",
+      "The study compares two methods."
+    ]
+  },
+  {
+    "word": "compensate",
+    "pos": "v.",
+    "definition": "to make up for loss or suffering",
+    "fa": "جبران کردن",
+    "examples": [
+      "Insurance will compensate victims.",
+      "Nothing can compensate for the loss."
+    ]
+  },
+  {
+    "word": "compete",
+    "pos": "v.",
+    "definition": "to strive against others",
+    "fa": "رقابت کردن",
+    "examples": [
+      "Firms compete for market share.",
+      "Athletes compete in the Olympics."
+    ]
+  },
+  {
+    "word": "compile",
+    "pos": "v.",
+    "definition": "to collect information into a list or book",
+    "fa": "گردآوری کردن",
+    "examples": [
+      "She compiled a list of references.",
+      "The data was compiled from surveys."
+    ]
+  },
+  {
+    "word": "complement",
+    "pos": "n./v.",
+    "definition": "something that completes; to enhance",
+    "fa": "مکمل؛ تکمیل کردن",
+    "examples": [
+      "The wine complements the meal.",
+      "Skills complement each other well."
+    ]
+  },
+  {
+    "word": "complex",
+    "pos": "adj./n.",
+    "definition": "consisting of many parts; a group of buildings",
+    "fa": "پیچیده؛ مجتمع",
+    "examples": [
+      "The issue is highly complex.",
+      "They live in a housing complex."
+    ]
+  },
+  {
+    "word": "component",
+    "pos": "n.",
+    "definition": "a part of a larger whole",
+    "fa": "جزء، component",
+    "examples": [
+      "Each component was tested separately.",
+      "Trust is a key component of teamwork."
+    ]
+  },
+  {
+    "word": "compose",
+    "pos": "v.",
+    "definition": "to write or create; to constitute",
+    "fa": "نوشتن؛ تشکیل دادن",
+    "examples": [
+      "Beethoven composed nine symphonies.",
+      "Water is composed of hydrogen and oxygen."
+    ]
+  },
+  {
+    "word": "compress",
+    "pos": "v.",
+    "definition": "to flatten by pressure; to reduce in size",
+    "fa": "فشرده کردن",
+    "examples": [
+      "Compress the file before sending.",
+      "The machine compresses waste into blocks."
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "pos": "adj.",
+    "definition": "complete and including everything",
+    "fa": "جامع",
+    "examples": [
+      "The report provides comprehensive coverage.",
+      "She has comprehensive insurance."
+    ]
+  },
+  {
+    "word": "comprise",
+    "pos": "v.",
+    "definition": "to consist of; to make up",
+    "fa": "شامل بودن",
+    "examples": [
+      "The course comprises ten modules.",
+      "Women comprise half the workforce."
+    ]
+  },
+  {
+    "word": "compute",
+    "pos": "v.",
+    "definition": "to calculate using a machine",
+    "fa": "محاسبه کردن",
+    "examples": [
+      "Computers compute vast amounts of data.",
+      "We computed the total cost."
+    ]
+  },
+  {
+    "word": "conceive",
+    "pos": "v.",
+    "definition": "to form an idea; to become pregnant",
+    "fa": "تصور کردن؛ باردار شدن",
+    "examples": [
+      "It is hard to conceive of life without internet.",
+      "She conceived her first child at thirty."
+    ]
+  },
+  {
+    "word": "concentrate",
+    "pos": "v.",
+    "definition": "to focus attention; to gather in one place",
+    "fa": "تمرکز کردن",
+    "examples": [
+      "Concentrate on the main points.",
+      "Industry concentrates in urban areas."
+    ]
+  },
+  {
+    "word": "conception",
+    "pos": "n.",
+    "definition": "the action of forming an idea; the start of pregnancy",
+    "fa": "تصور؛ بارداری",
+    "examples": [
+      "The conception of the plan took months.",
+      "From conception to birth takes nine months."
+    ]
+  },
+  {
+    "word": "concern",
+    "pos": "n./v.",
+    "definition": "worry; a matter of interest; to worry",
+    "fa": "نگرانی؛ موضوع؛ نگران بودن",
+    "examples": [
+      "Safety is our main concern.",
+      "The issue concerns all citizens."
+    ]
+  },
+  {
+    "word": "conclude",
+    "pos": "v.",
+    "definition": "to bring to an end; to reach a decision",
+    "fa": "نتیجه‌گیری کردن",
+    "examples": [
+      "The study concluded that exercise helps.",
+      "We conclude the meeting at five."
+    ]
+  },
+  {
+    "word": "concrete",
+    "pos": "adj./n.",
+    "definition": "solid and real; building material",
+    "fa": "ملموس؛ بتن",
+    "examples": [
+      "Give concrete examples in your essay.",
+      "The building is made of reinforced concrete."
+    ]
+  }
+]

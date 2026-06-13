@@ -1,0 +1,60 @@
+budget|n./v.|an estimate of income and expenditure|بودجه|The government announced the budget.|We budget carefully each month.
+bulk|n.|the mass or main part of something|حجم، عمده|Buy rice in bulk to save money.|The bulk of the work is done.
+capable|adj.|having the ability to do something|توانا|She is capable of leading the team.|The software is capable of complex analysis.
+capacity|n.|the maximum amount something can contain|ظرفیت|The stadium capacity is 40,000.|She works at full capacity.
+capital|n./adj.|wealth; a city serving as seat of government|سرمایه؛ پایتخت|Startups need venture capital.|London is the capital of England.
+capture|v./n.|to take by force; the act of capturing|به دست آوردن؛ اسیر|The photo captures the moment perfectly.|Police captured the suspect.
+category|n.|a class or division of things|دسته‌بندی|Books are sorted by category.|Which category does this fall into?
+cease|v.|to come to an end|متوقف شدن|Hostilities ceased at midnight.|The factory ceased production.
+challenge|n./v.|a difficult task; to question|چالش؛ به چallenging|The role presents a real challenge.|She challenged the decision in court.
+channel|n.|a means of communication or passage|کانال|Use the proper channel for complaints.|The channel connects two lakes.
+character|n.|the mental qualities of a person; a symbol|شخصیت؛ کاراکتر|Honesty is part of his character.|Chinese characters are complex.
+charge|n./v.|a price; to ask payment; to accuse|هزینه؛ شارژ کردن؛ متهم کردن|There is no charge for delivery.|Police charged him with fraud.
+chart|n./v.|a graphical representation; to map|نمودار؛ ترسیم کردن|The chart shows sales trends.|We charted a course to the island.
+chemist|n.|a person trained in chemistry; a pharmacist|شیمیدان؛ داروساز|The chemist analysed the sample.|Buy aspirin at the chemist.
+circumstance|n.|a fact or condition connected with an event|شرایط|Under the circumstances, we cancelled.|Financial circumstances forced a sale.
+cite|v.|to quote as evidence|استناد کردن|She cited three studies in her paper.|The judge cited previous rulings.
+civil|adj.|relating to ordinary citizens; polite|مدنی؛ مودبانه|Civil rights must be protected.|They maintained a civil discussion.
+claim|v./n.|to state as a fact; an assertion|ادعا کردن؛ ادعا|He claims innocence.|Insurance claims rose this year.
+clarify|v.|to make clear or understandable|روشن کردن|Could you clarify your position?|The update clarified the rules.
+classic|adj./n.|judged over time to be of highest quality|کلاسیک|It is a classic example of irony.|Shakespeare wrote many classics.
+clause|n.|a distinct section of a legal document|بند، clause|Read every clause in the contract.|A relative clause adds information.
+client|n.|a person using professional services|مشتری|The lawyer met with her client.|The firm has many corporate clients.
+climatic|adj.|relating to climate|اقلیمی|Climatic conditions vary by latitude.|Climatic change affects crop yields.
+clinic|n.|a place giving medical treatment|کلینیک|She visited a dental clinic.|The clinic offers free vaccinations.
+code|n.|a system of rules or symbols|کد، قانون|Follow the dress code.|Programmers write computer code.
+coherent|adj.|logical and consistent|منسجم|She gave a coherent explanation.|The essay lacks a coherent structure.
+coincide|v.|to occur at the same time|همزمان شدن|The events coincided exactly.|Our views coincide on this issue.
+collapse|v./n.|to fall down suddenly; a sudden failure|فرو ریختن؛ سقوط|The bridge collapsed in the storm.|The company faced financial collapse.
+colleague|n.|a person with whom one works|همکار|My colleague helped with the report.|She discussed it with senior colleagues.
+collect|v.|to gather or accumulate|جمع‌آوری کردن|Collect data from all sources.|She collects rare stamps.
+colony|n.|a country under foreign control; a group of settlers|مستعمره؛ colony|India was once a British colony.|Ant colonies have complex structures.
+combine|v.|to join or merge|ترکیب کردن|Combine the ingredients in a bowl.|The firms combined to form one company.
+comfort|n./v.|a state of physical ease; to soothe|آسایش؛ دلداری دادن|Live in comfort and safety.|She comforted the crying child.
+command|n./v.|an order; to give orders|دستور؛ فرمان دادن|He gave a clear command.|She commands a unit of soldiers.
+comment|n./v.|a remark; to express an opinion|نظر؛ نظر دادن|Comments are welcome.|Critics commented favourably on the film.
+commerce|n.|the activity of buying and selling|تجارت|E-commerce transformed retail.|International commerce drives growth.
+commission|n./v.|a group appointed to investigate; to order work|کمیسیون؛ سفارش دادن|A commission was set up to review policy.|An artist was commissioned for the mural.
+commit|v.|to carry out or pledge to do|متعهد شدن|Nations committed to reduce emissions.|He committed a serious error.
+committee|n.|a group appointed for a specific function|کمیته|The committee meets every month.|She chairs the finance committee.
+commodity|n.|a raw material or primary product|کالا|Oil is a valuable commodity.|Commodity prices fluctuate daily.
+communicate|v.|to share or exchange information|ارتباط برقرار کردن|We communicate via email.|Dolphins communicate through sounds.
+community|n.|a group living in one place|جامعه|The community rallied after the flood.|Online communities connect people globally.
+compare|v.|to estimate similarities and differences|مقایسه کردن|Compare prices before buying.|The study compares two methods.
+compensate|v.|to make up for loss or suffering|جبران کردن|Insurance will compensate victims.|Nothing can compensate for the loss.
+compete|v.|to strive against others|رقابت کردن|Firms compete for market share.|Athletes compete in the Olympics.
+compile|v.|to collect information into a list or book|گردآوری کردن|She compiled a list of references.|The data was compiled from surveys.
+complement|n./v.|something that completes; to enhance|مکمل؛ تکمیل کردن|The wine complements the meal.|Skills complement each other well.
+complex|adj./n.|consisting of many parts; a group of buildings|پیچیده؛ مجتمع|The issue is highly complex.|They live in a housing complex.
+component|n.|a part of a larger whole|جزء، component|Each component was tested separately.|Trust is a key component of teamwork.
+compose|v.|to write or create; to constitute|نوشتن؛ تشکیل دادن|Beethoven composed nine symphonies.|Water is composed of hydrogen and oxygen.
+compress|v.|to flatten by pressure; to reduce in size|فشرده کردن|Compress the file before sending.|The machine compresses waste into blocks.
+comprehensive|adj.|complete and including everything|جامع|The report provides comprehensive coverage.|She has comprehensive insurance.
+comprise|v.|to consist of; to make up|شامل بودن|The course comprises ten modules.|Women comprise half the workforce.
+compute|v.|to calculate using a machine|محاسبه کردن|Computers compute vast amounts of data.|We computed the total cost.
+conceive|v.|to form an idea; to become pregnant|تصور کردن؛ باردار شدن|It is hard to conceive of life without internet.|She conceived her first child at thirty.
+concentrate|v.|to focus attention; to gather in one place|تمرکز کردن|Concentrate on the main points.|Industry concentrates in urban areas.
+conception|n.|the action of forming an idea; the start of pregnancy|تصور؛ بارداری|The conception of the plan took months.|From conception to birth takes nine months.
+concern|n./v.|worry; a matter of interest; to worry|نگرانی؛ موضوع؛ نگران بودن|Safety is our main concern.|The issue concerns all citizens.
+conclude|v.|to bring to an end; to reach a decision|نتیجه‌گیری کردن|The study concluded that exercise helps.|We conclude the meeting at five.
+concrete|adj./n.|solid and real; building material|ملموس؛ بتن|Give concrete examples in your essay.|The building is made of reinforced concrete.

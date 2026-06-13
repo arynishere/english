@@ -1,0 +1,60 @@
+volume|n.|amount of space occupied; a book forming part of a work|حجم؛ جلد|The volume of trade increased sharply.|Volume one covers ancient history.
+voluntary|adj.|done by free choice|داوطلبانه، اختیاری|Participation in the survey is voluntary.|She does voluntary work at the hospital.
+wellbeing|n.|the state of being comfortable, healthy, or happy|رفاه، wellbeing|Exercise improves mental wellbeing.|Policies should promote community wellbeing.
+whereas|conj.|in contrast or comparison with the fact that|در حالی که|She loves cities, whereas he prefers the country.|Whereas sales rose, profits fell.
+pervasive|adj.|spread widely throughout an area or group|فراگیر|Technology has a pervasive influence on society.|A pervasive sense of fear gripped the city.
+retraction|n.|the action of withdrawing a statement or offer|پس‌گیری|The newspaper published a retraction.|Retraction of the offer surprised investors.
+testimony|n.|a formal written or spoken statement in court|شهادت|Her testimony convinced the jury.|Witness testimony supported the prosecution.
+abandon|v.|to leave completely and permanently|رها کردن، ترک کردن|They abandoned the sinking ship.|The project was abandoned due to costs.
+abolish|v.|to formally put an end to a system or practice|لغو کردن|Slavery was abolished in the nineteenth century.|The tax was abolished last year.
+absorb|v.|to take in or soak up|جذب کردن|Plants absorb carbon dioxide.|She absorbed the information quickly.
+abstraction|n.|the quality of dealing with ideas rather than events|انتزاع|Mathematics involves a degree of abstraction.|The painting moves toward pure abstraction.
+abuse|n./v.|misuse; to use wrongly or harmfully|سوءاستفاده؛ سوءاستفاده کردن|Drug abuse is a serious problem.|He was accused of abusing his power.
+accelerate|v.|to increase in speed or rate|تسریع کردن|Inflation continues to accelerate.|The car accelerated down the highway.
+access|n./v.|a way of approaching; to obtain or retrieve|دسترسی؛ دسترسی داشتن|Students have access to the library.|You can access files online.
+accommodate|v.|to provide lodging; to fit in with|جای دادن، accomodate کردن|The hotel accommodates 200 guests.|We must accommodate different learning styles.
+accompany|v.|to go with as a companion|همراهی کردن|She accompanied him to the ceremony.|The wine accompanies the meal perfectly.
+accomplish|v.|to achieve or complete successfully|انجام دادن، accomplish کردن|She accomplished all her goals.|The team accomplished the mission.
+accord|n./v.|agreement; to give or grant|توافق؛ accord دادن|The two sides reached an accord.|We accord great respect to teachers.
+account|n./v.|a report or record; to explain|حساب؛ توضیح دادن|Open a bank account today.|How do you account for the difference?
+accuse|v.|to charge with a wrongdoing|متهم کردن|He was accused of theft.|She accused the company of negligence.
+acknowledge|v.|to accept or admit the existence of|اقرار کردن، acknowledge کردن|He acknowledged his mistake.|We acknowledge the support of our sponsors.
+acquaint|v.|to make someone aware of or familiar with|آشنا کردن|Let me acquaint you with the rules.|She acquainted herself with local customs.
+acquire|v.|to buy or obtain for oneself|به دست آوردن|She acquired valuable skills.|The company acquired a rival firm.
+adapt|v.|to adjust to new conditions|سازگار شدن|Species must adapt to survive.|We adapted the plan to local needs.
+adequate|adj.|sufficient for a specific purpose|کافی|The salary is adequate for living costs.|Adequate sleep improves performance.
+adhere|v.|to stick to; to believe in and follow|پایبند بودن|Labels must adhere to bottles.|She adheres to strict principles.
+adjacent|adj.|next to or adjoining|مجاور|Our room is adjacent to the elevator.|The park is adjacent to the school.
+adjust|v.|to alter slightly to achieve fit|تنظیم کردن|Adjust the volume on the speaker.|It took time to adjust to the climate.
+administer|v.|to manage and be responsible for|اداره کردن|Nurses administer medication.|The program is administered by the state.
+admire|v.|to regard with respect or warm approval|تحسین کردن|I admire her dedication.|Visitors admire the cathedral's architecture.
+admit|v.|to confess; to allow entry|اقرار کردن؛ پذیرفتن|He admitted he was wrong.|The museum admits free on Sundays.
+adopt|v.|to choose to take up; to legally take another's child|اتخاذ کردن؛ به فرزندی پذیرفتن|The company adopted new policies.|They adopted a child from abroad.
+advance|v./n./adj.|to move forward; development; beforehand|پیش رفتن؛ پیشرفت؛ پیشاپیش|Technology continues to advance.|Pay in advance to secure booking.
+advantage|n.|a condition giving greater chance of success|مزیت|Experience gives you an advantage.|Take advantage of the opportunity.
+adventure|n.|an unusual and exciting experience|ماجراجویی|Travel is a great adventure.|The book recounts his Arctic adventure.
+adverse|adj.|preventing success; harmful|نامطلوب|Adverse weather delayed the flight.|The drug has adverse side effects.
+advocate|n./v.|a person who supports; to publicly recommend|مدافع؛ طرفداری کردن|She is an advocate for reform.|He advocates free education.
+affect|v.|to produce a change in|تأثیر گذاشتن|Pollution affects air quality.|The news affected her deeply.
+afford|v.|to have enough money or time for|توانایی داشتن|We cannot afford to wait.|The city affords many opportunities.
+agency|n.|a business providing a service; action|آژانس؛ نهاد|The travel agency booked our flights.|Human agency shapes history.
+agenda|n.|a list of items to be discussed|دستور کار|Education tops the political agenda.|What is on the agenda today?
+agent|n.|a person who acts on behalf of another|نماینده، agent|The agent negotiated the deal.|Travel agents arrange holidays.
+aggregate|n./adj.|a whole formed by combining parts|مجموع|Aggregate demand drives growth.|Aggregate scores determine ranking.
+aggressive|adj.|ready to attack or confront|پرخاشگر، aggressive|Aggressive marketing boosted sales.|The dog became aggressive.
+agree|v.|to have the same opinion|موافقت کردن|We agree on most issues.|Both parties agreed to the terms.
+aid|n./v.|help or support|کمک؛ کمک کردن|Foreign aid reached the disaster zone.|Volunteers aid refugees daily.
+aim|n./v.|a purpose; to point or direct|هدف؛ هدف گرفتن|Our aim is to reduce poverty.|The policy aims to improve healthcare.
+alarm|n./v.|an anxious awareness of danger; to frighten|هشدار؛ نگران کردن|The fire alarm sounded.|Rising costs alarm economists.
+allocate|v.|to distribute for a particular purpose|اختصاص دادن|Funds were allocated to schools.|Each department allocates its budget.
+alter|v.|to change in character or composition|تغییر دادن|They altered the original design.|Climate change alters ecosystems.
+alternative|n./adj.|another option; available as another choice|جایگزین|Solar power is a clean alternative.|We need alternative solutions.
+ambiguous|adj.|having more than one meaning|مبهم|The wording is ambiguous.|His reply was deliberately ambiguous.
+analyse|v.|to examine in detail|تحلیل کردن|Scientists analyse blood samples.|We must analyse the data carefully.
+ancestor|n.|a person from whom one is descended|نیا|Our ancestors migrated from Asia.|She researched her family ancestors.
+ancient|adj.|belonging to the very distant past|باستانی|Ancient Rome was a great empire.|Ancient traditions survive today.
+announce|v.|to make a public statement|اعلام کردن|The president announced new reforms.|They announced their engagement.
+anniversary|n.|the date on which an event took place in a previous year|سالگرد|They celebrated their tenth anniversary.|The anniversary of the treaty is in May.
+anticipate|v.|to expect or predict|انتظار داشتن|We anticipate strong demand.|Nobody anticipated the crisis.
+anxiety|n.|a feeling of worry or unease|اضطراب|Financial anxiety keeps people awake.|Anxiety disorders are treatable.
+apology|n.|a regretful acknowledgment of offence|عذرخواهی|He offered a sincere apology.|The company issued a public apology.

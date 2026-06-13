@@ -1,0 +1,60 @@
+recover|v.|to return to a normal state of health or strength|بهبود یافتن، بازیابی|It took months to recover from surgery.|The economy is beginning to recover.
+refine|v.|to remove impurities; to improve by making small changes|پالایش کردن، بهبود دادن|Oil is refined into petrol.|She refined her technique through practice.
+regime|n.|a government especially an authoritarian one|رژیم، حکومت|The regime was overthrown in a revolution.|A strict exercise regime improved his health.
+region|n.|an area of land with common features|منطقه، ناحیه|The region is known for wine production.|Conflict erupted in the border region.
+register|v./n.|to record officially; an official list|ثبت کردن؛ ثبت‌نام|Register for the course online.|Check the register of voters.
+regulate|v.|to control by means of rules|تنظیم کردن|Laws regulate the financial industry.|The body regulates its own temperature.
+reinforce|v.|to strengthen or support|تقویت کردن|Positive feedback reinforces good behaviour.|Steel bars reinforce the concrete structure.
+reject|v.|to dismiss as inadequate or unacceptable|رد کردن|The committee rejected the application.|Her body rejected the transplanted organ.
+relevant|adj.|closely connected to the matter at hand|مرتبط، relevant|Include only relevant information.|The question is not relevant to the topic.
+rely|v.|to depend on with confidence|اتکا کردن، تکیه کردن|You can rely on her to finish on time.|Many families rely on two incomes.
+remove|v.|to take away from a position|حذف کردن، برداشتن|Remove the lid before heating.|Surgery removed the tumour successfully.
+require|v.|to need for a particular purpose|نیاز داشتن، مستلزم بودن|The job requires a university degree.|All passengers are required to wear seat belts.
+research|n./v.|systematic investigation; to investigate|تحقیق؛ تحقیق کردن|Medical research has saved millions of lives.|Scientists research the causes of cancer.
+resolve|v.|to settle or find a solution to|حل کردن، resolve کردن|We must resolve this conflict peacefully.|She resolved to study harder.
+revitalise|v.|to give new life or vigour to something|احیا کردن|The project revitalised the old town centre.|Fresh investment revitalised the industry.
+respond|v.|to react to something|پاسخ دادن، واکنش نشان دادن|How did the market respond to the news?|Please respond to the invitation promptly.
+restore|v.|to bring back to a former condition|بازگرداندن، احیا کردن|Workers restored the historic building.|Sleep restores energy and focus.
+restrict|v.|to put a limit on; to keep under control|محدود کردن|Access is restricted to authorized personnel.|The diet restricts sugar and fat.
+retain|v.|to continue to have; to keep in memory|حفظ کردن|The company retained its market share.|She retains vivid memories of childhood.
+reveal|v.|to make previously unknown information known|آشکار کردن، فاش کردن|The investigation revealed widespread fraud.|The curtain rose to reveal the stage.
+revenue|n.|income generated from business activities|درآمد، عایدات|Tax revenue funds public services.|Company revenue grew by fifteen percent.
+reverse|v./adj./n.|to move backwards; opposite in direction|معکوس کردن؛ معکوس|She reversed the car into the parking space.|The court's decision was reversed on appeal.
+revise|v.|to re-examine and alter; to study again|بازنگری کردن؛ مرور کردن|Revise your essay before submitting.|Students revise for exams in summer.
+revolution|n.|forcible overthrow of a government; a dramatic change|انقلاب|The industrial revolution transformed society.|Digital technology caused a revolution in communication.
+rigid|adj.|unable to bend; not flexible in attitude|سخت، انعطاف‌ناپذیر|The rules are too rigid.|A rigid schedule leaves no room for spontaneity.
+role|n.|the function assumed by a person|نقش|Education plays a key role in development.|She accepted the role of team leader.
+route|n.|a way or course taken in getting from one place to another|مسیر، راه|We took the scenic route through the hills.|The bus route was changed last month.
+routine|n./adj.|a regular way of doing things; ordinary|روال؛ عادی|Exercise should be part of your daily routine.|It was a routine medical check-up.
+scenario|n.|a postulated sequence of future events|سناریو، سناریو|Worst-case scenario planning is essential.|The scenario involves three possible outcomes.
+schedule|n./v.|a plan for carrying out a process|برنامه؛ زمان‌بندی کردن|The train runs on a fixed schedule.|The meeting is scheduled for Monday.
+scheme|n./v.|a systematic plan; to make plans|طرح؛ طرح ریختن|The government launched a new training scheme.|They schemed to overthrow the leader.
+scope|n.|the extent of the area covered|دامنه، حوزه|The scope of the project is very broad.|This issue is beyond the scope of the report.
+section|n.|a distinct part of something|بخش، قسمت|Read section three of the textbook.|The orchestra has a string section.
+sector|n.|an area of economic activity|بخش، sector|The service sector employs most workers.|Investment in the tech sector is rising.
+secure|adj./v.|fixed firmly; to protect from danger|امن؛ تأمین کردن|The door is locked and secure.|The company secured a major contract.
+seek|v.|to attempt to find or obtain|جستجو کردن، خواستن|They seek a peaceful resolution.|Many graduates seek employment abroad.
+select|v./adj.|to carefully choose; chosen for excellence|انتخاب کردن؛ برگزیده|Select the best candidates for interview.|This is a select group of scholars.
+sequence|n.|a particular order of events|توالی، ترتیب|Follow the sequence of steps carefully.|DNA determines the sequence of amino acids.
+series|n.|a number of things following one another|سری، مجموعه|A series of meetings was held.|The book is part of a popular series.
+shift|n./v.|a change in position; to move from one place to another|شیفت؛ تغییر دادن|There has been a shift in public opinion.|She shifted her weight to one foot.
+significant|adj.|sufficiently great or important to be worthy of attention|قابل توجه، مهم|There was a significant increase in sales.|The discovery has significant implications.
+similar|adj.|resembling without being identical|مشابه|The two cases are remarkably similar.|Their views on education are similar.
+simulate|v.|to imitate the appearance or character of|شبیه‌سازی کردن|Pilots simulate emergency landings in training.|Computer models simulate climate change.
+site|n.|a location where something is situated|محل، سایت|Construction began on the building site.|The archaeological site dates to 2000 BC.
+so-called|adj.|commonly designated by a name that may be misleading|به‌اصطلاح|The so-called expert had no qualifications.|The so-called reforms changed very little.
+sole|adj./n.|one and only; the bottom of a foot or shoe|تنها؛ کف|She is the sole owner of the business.|He wore holes in the soles of his shoes.
+somewhat|adv.|to a moderate extent|تا حدی|The results were somewhat disappointing.|I somewhat agree with your point.
+source|n.|a place from which something originates|منبع، منشأ|The river's source is in the mountains.|Reliable sources confirmed the story.
+specific|adj.|clearly defined or identified|مشخص، خاص|Give specific examples in your essay.|The doctor gave specific instructions.
+specify|v.|to identify clearly and definitely|مشخص کردن|Please specify your preferred date.|The contract specifies payment terms.
+sphere|n.|a round three-dimensional shape; an area of activity|کره؛ حوزه|Earth is not a perfect sphere.|Politics is outside my sphere of interest.
+stable|adj.|not likely to change or fail|پایدار، stable|The patient's condition is stable.|A stable government attracts investment.
+statistic|n.|a fact or piece of data from a study|آمار|Crime statistics show a downward trend.|The statistic surprised the researchers.
+status|n.|relative social or professional standing|وضعیت، status|What is your marital status?|The project has been elevated in status.
+strategy|n.|a plan of action designed to achieve a goal|استراتژی، راهبرد|The company developed a new marketing strategy.|Military strategy requires careful planning.
+stress|n./v.|pressure or tension; to emphasize|استرس؛ تأکید کردن|Work-related stress affects health.|The report stresses the need for reform.
+structure|n./v.|the arrangement of parts; to construct|ساختار؛ ساختار دادن|The structure of the essay is clear.|They structured the deal carefully.
+style|n.|a distinctive manner or way|سبک، style|Her writing style is concise and clear.|The building is built in Gothic style.
+submit|v.|to present for judgement or consideration|ارائه دادن، submit کردن|Submit your assignment by Friday.|She submitted her resignation.
+subsequent|adj.|coming after something in time|بعدی، متعاقب|Subsequent events proved him right.|The subsequent chapter covers methodology.

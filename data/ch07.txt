@@ -1,0 +1,60 @@
+survival|n.|the state of continuing to live or exist|بقا، survival|Survival in the desert requires preparation.|The company's survival depends on innovation.
+suspend|v.|to temporarily stop or delay|تعلیق کردن|The game was suspended due to rain.|She was suspended from school.
+sustainable|adj.|able to be maintained at a certain rate without depletion|پایدار|Sustainable farming protects the soil.|We need sustainable economic growth.
+symbol|n.|a mark or character representing an idea|نماد، symbol|The dove is a symbol of peace.|Mathematical symbols can be confusing.
+tape|n.|a long narrow strip of material|نوار|Seal the box with packing tape.|The interview was recorded on tape.
+target|n./v.|a goal or objective; to aim at|هدف؛ هدف قرار دادن|The target audience is young adults.|The campaign targets university students.
+task|n.|a piece of work to be done|وظیفه، task|Complete the task by end of day.|Each team member has a specific task.
+team|n.|a group working together|تیم|Teamwork is essential for success.|She joined the research team.
+technical|adj.|relating to a particular subject or craft|فنی|Technical skills are in high demand.|The manual contains technical details.
+technique|n.|a way of carrying out a particular task|تکنیک، روش|She mastered the technique quickly.|Modern farming techniques increase yield.
+technology|n.|application of scientific knowledge for practical purposes|فناوری|Technology transforms how we communicate.|Medical technology saves lives daily.
+temporary|adj.|lasting for a limited time|موقت|This is a temporary solution.|She found temporary work over the summer.
+tension|n.|mental or emotional strain|تنش|There was tension in the room.|Muscle tension causes headaches.
+terminate|v.|to bring to an end|خاتمه دادن|The contract terminates in December.|They terminated the employee for misconduct.
+text|n.|written or printed words|متن|Read the text carefully before answering.|The original text was in Greek.
+theme|n.|the subject of a talk or work of art|موضوع، theme|The theme of the novel is redemption.|Environmental themes dominate the festival.
+theory|n.|a system of ideas explaining phenomena|نظرية|The theory of evolution is well supported.|Einstein's theory changed physics forever.
+thereby|adv.|by that means; as a result of that|بدین‌ترتیب|She studied hard, thereby improving her grades.|He resigned, thereby avoiding a scandal.
+thesis|n.|a statement proved by arguments; a dissertation|پایان‌نامه، تز|Her thesis examines urban migration.|The central thesis of the book is compelling.
+topic|n.|a matter dealt with in a text or conversation|موضوع|Choose a topic for your presentation.|Climate change is a hot topic.
+trace|n./v.|a sign of something; to find by investigation|رد؛ ردیابی کردن|There was no trace of the missing files.|Scientists traced the outbreak to a farm.
+tradition|n.|the transmission of customs from generation to generation|سنت، tradition|Family tradition brings people together.|Breaking tradition can be controversial.
+transfer|v./n.|to move from one place to another|انتقال دادن؛ انتقال|Transfer the files to the new server.|The transfer of power was peaceful.
+transform|v.|to change completely in form or character|دگرگون کردن|Technology transforms the workplace.|Education can transform lives.
+transit|n./v.|the carrying of people or goods; to pass through|ترانزیت؛ عبور کردن|Public transit reduces traffic congestion.|The planet transits the sun every year.
+transition|n.|the process of changing from one state to another|گذار، transition|The transition to democracy was smooth.|Career transition can be challenging.
+transmit|v.|to cause to pass from one place to another|انتقال دادن، پخش کردن|Radio waves transmit signals.|The disease transmits through contact.
+transport|v./n.|to carry people or goods; a system of carrying|حمل کردن؛ حمل‌ونقل|Goods are transported by rail.|Public transport is affordable.
+trend|n.|a general direction of change|روند، trend|There is a trend toward remote work.|Fashion trends change every season.
+trigger|v./n.|to cause to happen; a device that releases a mechanism|تحریک کردن؛ ماشه|Stress can trigger headaches.|The speech triggered a debate.
+ultimate|adj.|being the best or most extreme example|نهایی، ultimate|The ultimate goal is world peace.|Speed is the ultimate priority in racing.
+underlie|v.|to be the cause or basis of|زمینه بودن، پایه بودن|Economic factors underlie the conflict.|Trust underlies every good relationship.
+undertake|v.|to commit oneself to and begin|بر عهده گرفتن|She undertook the project willingly.|The company undertook major renovations.
+uniform|adj./n.|not varying; distinctive clothing|یکسان؛ یونیفرم|Apply uniform standards to all applicants.|Students must wear a school uniform.
+unify|v.|to make or become united|متحد کردن|The leader sought to unify the nation.|Shared goals unify the team.
+unique|adj.|being the only one of its kind|منحصربه‌فرد|Each fingerprint is unique.|The museum has a unique collection.
+utilize|v.|to make practical use of|استفاده کردن|We must utilize resources efficiently.|The program utilizes advanced algorithms.
+valid|adj.|having a sound basis in logic or fact|معتبر|The argument is logically valid.|Your passport is valid for ten years.
+variable|adj./n.|not consistent; an element that may change|متغیر|Weather is highly variable in spring.|Temperature is the key variable.
+variant|n./adj.|a form or version differing from the standard|گونه؛ variant|A new variant of the virus emerged.|Variant spellings exist in English.
+vary|v.|to differ in size, amount, or degree|متفاوت بودن|Prices vary depending on the season.|Opinions vary on this issue.
+vehicle|n.|a thing used for transporting people or goods|وسیله نقلیه|Electric vehicles reduce emissions.|The internet is a vehicle for information.
+version|n.|a particular form of something differing from others|نسخه، version|The latest version fixes several bugs.|This is an updated version of the report.
+via|prep.|by way of; through|از طریق|We travelled to Rome via Paris.|Send the document via email.
+violate|v.|to break or fail to comply with a rule|نقض کردن|He violated the terms of the contract.|Speeding violates traffic laws.
+virtual|adj.|almost or nearly as described; computer-generated|مجازی|Virtual meetings save travel time.|Virtual reality creates immersive experiences.
+visible|adj.|able to be seen|قابل مشاهده|The stars are visible tonight.|There was no visible damage to the car.
+vision|n.|the ability to see; an idea or mental image|بینایی؛ چشم‌انداز|She has perfect vision.|The CEO shared his vision for the company.
+welfare|n.|health and happiness; state financial support|رفاه|Child welfare is a government priority.|Welfare payments support low-income families.
+widespread|adj.|found over a large area|گسترده|Widespread drought affected farming.|There is widespread agreement on the issue.
+withdraw|v.|to remove or pull back|پس گرفتن|Investors withdrew their funds.|Troops withdrew from the border.
+witness|n./v.|one who sees an event; to observe|شاهد؛ مشاهده کردن|Witnesses confirmed the account.|We witness history every day.
+zone|n.|an area distinguished by particular features|منطقه، zone|The city created a pedestrian zone.|The war zone was evacuated.
+annual|adj.|occurring once every year|سالانه|Annual reports must be filed.|The annual festival draws thousands.
+appeal|n./v.|a serious request; to be attractive|درخواست؛ جذاب بودن|The charity launched an appeal.|The idea appeals to young voters.
+approach|n./v.|a way of dealing; to come near|رویکرد؛ نزدیک شدن|A new approach is needed.|Winter is approaching fast.
+appropriate|adj.|suitable for a particular purpose|مناسب|Wear appropriate clothing.|That comment was not appropriate.
+approve|v.|to officially agree to or accept|تأیید کردن|The board approved the budget.|Parents must approve the trip.
+yield|v./n.|to produce; to give way; the total produced|تولید کردن؛ تسلیم شدن؛ بازده|The investment yielded high returns.|The lane yields to traffic on the right.
+district|n.|an area of a country or city regarded as a distinct unit|منطقه، ناحیه|The financial district is busy on weekdays.|She lives in a quiet residential district.

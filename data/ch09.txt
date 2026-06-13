@@ -1,0 +1,60 @@
+unease|n.|a feeling of discomfort or worry|نگرانی، ناراحتی|There is growing unease about inflation.|She felt unease before the presentation.
+apologize|v.|to express regret for something done wrong|عذرخواهی کردن|He apologized for being late.|The company apologized to customers.
+apparent|adj.|clearly visible or understood|آشکار|It was apparent she was upset.|There is no apparent reason for delay.
+appetite|n.|a natural desire to satisfy a bodily need, especially for food|اشتها، تمایل|Exercise increases appetite.|There is a growing appetite for reform.
+appear|v.|to come into sight; to seem|ظاهر شدن|Stars appear at night.|She appears confident in interviews.
+apply|v.|to make a formal request; to put to use|درخواست دادن؛ به کار بردن|Apply for the scholarship online.|Apply this rule to all cases.
+appoint|v.|to assign a job or role to someone|منصوب کردن|They appointed a new director.|She was appointed chair of the committee.
+appreciate|v.|to recognize the value of; to be grateful|قدردانی کردن|I appreciate your help.|Property values appreciate over time.
+proximity|n.|nearness in space, time, or relationship|نزدیکی|The hotel's proximity to the beach is ideal.|Proximity to power brings influence.
+suitable|adj.|right or appropriate for a particular purpose|مناسب|This course is suitable for beginners.|Find a suitable time for the meeting.
+endorse|v.|to declare one's public approval or support of|تأیید کردن، حمایت کردن|Celebrities endorse products in advertisements.|The committee endorsed the proposal.
+approximate|adj./v.|close to the actual; to come close to|تقریبی|The approximate cost is $500.|Results approximate our predictions.
+architect|n.|a person who designs buildings|معمار|The architect won an award.|She works as a landscape architect.
+architecture|n.|the art of designing buildings|معماری|Roman architecture influenced Europe.|Modern architecture uses glass and steel.
+argue|v.|to give reasons for or against|بحث کردن|They argue about politics often.|Lawyers argue cases in court.
+arise|v.|to emerge or become apparent|پدید آمدن|Problems arise when communication fails.|A dispute arose over the contract.
+arouse|v.|to evoke or awaken a feeling|برانگیختن|The speech aroused public anger.|The film aroused strong emotions.
+artificial|adj.|made by humans rather than occurring naturally|مصنوعی|Artificial sweeteners replace sugar.|The lake is artificial.
+aspect|n.|a particular part or feature|جنبه|Consider every aspect of the plan.|The cultural aspect fascinated her.
+assault|n./v.|a physical attack; to attack|حمله؛ حمله کردن|The assault was reported to police.|He was assaulted outside the bar.
+assemble|v.|to gather together|جمع کردن|Workers assemble cars on the line.|Protesters assembled in the square.
+assert|v.|to state a fact confidently|ادعا کردن|She asserted her innocence.|The report asserts that costs will rise.
+assess|v.|to evaluate or estimate|ارزیابی کردن|Teachers assess student progress.|Experts assessed the earthquake damage.
+asset|n.|a useful or valuable thing or person|دارایی|Education is a valuable asset.|The company's assets exceed liabilities.
+assign|v.|to allocate a task or responsibility|واگذار کردن|The manager assigned roles.|Students were assigned group projects.
+assist|v.|to help someone|کمک کردن|Volunteers assist the elderly.|Can I assist you with directions?
+associate|v./n./adj.|to connect in the mind; a partner|مرتبط کردن؛ شریک|People associate red with danger.|She is a business associate.
+assume|v.|to suppose to be the case|فرض کردن|Do not assume everyone agrees.|She assumed control of the company.
+assure|v.|to tell someone confidently|اطمینان دادن|I assure you it is safe.|The doctor assured her recovery would be quick.
+ambient|adj.|relating to the immediate surroundings of something|محیطی|Ambient music played softly in the café.|Ambient temperature affects device performance.
+attach|v.|to fasten or join|پیوست کردن|Attach the file to your email.|Strong bonds attach families together.
+attack|n./v.|an aggressive action; to act aggressively|حمله؛ حمله کردن|The attack caused widespread panic.|Critics attacked the policy fiercely.
+attain|v.|to succeed in achieving|رسیدن به|She attained her career goals.|The team attained record sales.
+attempt|n./v.|an effort to achieve; to try|تلاش؛ تلاش کردن|His attempt failed.|She attempted to climb the peak.
+attend|v.|to be present at; to pay attention|حضور داشتن|Over 200 people attended the lecture.|Please attend to the instructions.
+attitude|n.|a settled way of thinking or feeling|نگرش، attitude|A positive attitude helps success.|Public attitude toward smoking has changed.
+attract|v.|to draw interest or attention|جذب کردن|The museum attracts tourists.|Bright colours attract insects.
+attribution|n.|the action of regarding something as being caused by a person or thing|نسبت‌دهی|Proper attribution is required in academic writing.|The attribution of the quote was incorrect.
+auction|n./v.|a public sale to the highest bidder|مزایده|The painting sold at auction.|They auctioned the estate.
+audience|n.|the assembled spectators or listeners|مخاطب، audience|The audience applauded loudly.|The show draws a young audience.
+author|n.|a writer of a book or article|نویسنده|The author signed copies of her novel.|He is the author of ten books.
+authority|n.|the power to give orders; an expert|مرجع، اختیار|Local authority approved the plans.|She is an authority on linguistics.
+automatic|adj.|working by itself with minimal human control|خودکار|The door has an automatic opener.|Breathing is automatic.
+available|adj.|able to be used or obtained|در دسترس|Tickets are available online.|The doctor is available tomorrow.
+average|adj./n./v.|typical; the result of adding quantities and dividing|متوسط|The average age is thirty-five.|Temperatures average 20°C in July.
+avoid|v.|to keep away from|اجتناب کردن|Avoid fatty foods for better health.|She avoided answering the question.
+award|n./v.|a prize; to give a prize|جایزه؛ اعطا کردن|She won an award for excellence.|The jury awarded damages to the plaintiff.
+aware|adj.|having knowledge or perception|آگاه|Be aware of the risks.|I was not aware of the change.
+behalf|n.|in the interest of a person or group|از طرف|She spoke on behalf of the team.|I accept the award on his behalf.
+behaviour|n.|the way a person acts|رفتار|Good behaviour is expected.|Animal behaviour fascinates biologists.
+belief|n.|an acceptance that something is true|باور، اعتقاد|Religious belief varies worldwide.|It is my belief that education transforms lives.
+benefit|n./v.|an advantage; to be helpful to|فایده؛ سود بردن|Exercise has many health benefits.|The policy benefits small businesses.
+prejudice|n.|preconceived opinion not based on reason|تعصب، prejudice|We must fight racial prejudice.|Prejudice against immigrants persists.
+bond|n.|a connection; a financial certificate|پیوند؛ اوراق قرضه|Shared goals create strong bonds.|Government bonds are low-risk investments.
+brief|adj./n.|short in duration; a summary|کوتاه؛ خلاصه|The meeting was brief.|The lawyer submitted a legal brief.
+confer|v.|to grant a title or benefit; to discuss|اعطا کردن؛ مشورت کردن|The university conferred an honorary degree.|Experts conferred on the best approach.
+conflict|n./v.|a serious disagreement; to clash|درگیری؛ در تضاد بودن|The conflict lasted three years.|Their schedules conflict on Tuesdays.
+confuse|v.|to make unable to think clearly|گیج کردن|Similar names confuse customers.|Do not confuse correlation with causation.
+congress|n.|a formal meeting; a national legislature|کنگره؛ مجلس|The congress meets annually.|Congress passed the new law.
+conjunction|n.|a word connecting clauses; the action of joining|حرف ربط؛ ترکیب|Use a conjunction to link sentences.|The event occurred in conjunction with the festival.

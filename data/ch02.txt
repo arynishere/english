@@ -1,0 +1,60 @@
+oxygen|n.|a gas essential for breathing|اکسیژن|Plants produce oxygen through photosynthesis.|Divers carry tanks of compressed oxygen.
+ozone|n.|a form of oxygen that protects Earth from UV rays|ازن|The ozone layer shields us from harmful radiation.|Chemicals have damaged the ozone layer.
+peninsula|n.|a piece of land almost surrounded by water|شبه‌جزیره|Korea is located on a peninsula.|The peninsula juts out into the Mediterranean.
+photosynthesis|n.|the process by which plants make food using sunlight|فتوسنتز، سنتز نوری|Photosynthesis converts carbon dioxide into oxygen.|Without photosynthesis, life on Earth would not exist.
+plateau|n.|a flat elevated area of land|فلات، تپه‌زار|The Tibetan Plateau is called the roof of the world.|The city sits on a high plateau.
+pollute|v.|to make air, water, or land dirty and harmful|آلوده کردن|Factories pollute rivers with chemical waste.|Car exhaust pollutes the air in cities.
+precipitation|n.|rain, snow, or other water falling from the sky|بارش|Annual precipitation in this region exceeds 100 cm.|Heavy precipitation caused flooding in the valley.
+preserve|v.|to keep something in its original state|حفظ کردن، نگهداری|National parks preserve wilderness areas.|We must preserve biodiversity for future generations.
+rainforest|n.|a dense forest with heavy rainfall|جنگل بارانی|The Amazon rainforest produces much of the world's oxygen.|Rainforest destruction threatens countless species.
+renewable|adj.|able to be replaced naturally and not depleted|تجدیدپذیر|Solar and wind are renewable energy sources.|Renewable resources include timber and freshwater.
+reservoir|n.|a large natural or artificial lake for storing water|مخزن، سد|A reservoir supplies water to the entire city.|The reservoir was built to prevent flooding.
+resource|n.|a supply of something useful|منبع، ذخیره|Water is our most precious natural resource.|The country exports mineral resources abroad.
+rural|adj.|relating to the countryside rather than the city|روستایی، برون‌شهری|Rural communities depend on agriculture.|Many young people leave rural areas for cities.
+savanna|n.|a grassy plain in tropical regions|سavana، دشت|Lions hunt on the African savanna.|The savanna has a wet and dry season.
+season|n.|one of the four divisions of the year|فصل|Spring is my favourite season.|Each season brings different weather patterns.
+sediment|n.|matter that settles at the bottom of liquid|رسوب، لای|Rivers carry sediment to the ocean.|Geologists study sediment to learn about past climates.
+seismic|adj.|relating to earthquakes or earth vibrations|لرزه‌ای، زلزله‌ای|Seismic activity increased before the eruption.|Engineers design buildings to withstand seismic forces.
+solar|adj.|relating to the sun|خورشیدی|Solar panels convert sunlight into electricity.|Solar energy is clean and abundant.
+species|n.|a group of similar organisms that can reproduce|گونه|Over a thousand species live in this forest.|Many species face extinction due to habitat loss.
+storm|n.|violent weather with strong wind and rain|طوفان، ابرطوفان|A powerful storm knocked down trees.|The storm caused widespread power outages.
+substance|n.|a particular type of material with uniform properties|ماده، substance|Water is the most common substance on Earth.|The chemist identified an unknown substance.
+survive|v.|to continue to live despite difficult conditions|زنده ماندن، دوام آوردن|Only the hardiest plants survive in the desert.|Few businesses survived the economic crisis.
+sustain|v.|to keep something going over time|حفظ کردن، تأمین|We need policies that sustain economic growth.|Forests sustain countless species of wildlife.
+swamp|n.|wetland permanently saturated with water|باتلاق، مرداب|Alligators live in the Florida swamp.|The swamp teems with insects and birds.
+temperature|n.|the degree of heat or cold|دما|Temperatures drop sharply at night.|Global temperatures have risen over the past century.
+terrain|n.|a stretch of land with particular physical features|زمین، عوارض جغرافیایی|The terrain was too rugged for vehicles.|Soldiers trained on mountainous terrain.
+thaw|v.|to melt ice or frozen food; to become less cold|ذوب شدن، گرم شدن|The sun thawed the frozen ground.|Relations between the countries began to thaw.
+tide|n.|the regular rise and fall of sea level|جزر و مد|The tide comes in twice a day.|Fishermen check the tide before going out.
+tornado|n.|a violently rotating column of air|گردباد|A tornado destroyed several homes.|Tornado warnings were issued across the state.
+toxic|adj.|poisonous or harmful to living things|سمی، زهرآگین|Toxic chemicals leaked from the factory.|Some mushrooms are toxic if eaten.
+tropical|adj.|relating to the hot humid regions near the equator|استوایی|Tropical rainforests are rich in biodiversity.|The island has a tropical climate year-round.
+tsunami|n.|an enormous ocean wave caused by an earthquake|سونامی|A tsunami struck the coast after the earthquake.|Early warning systems help detect tsunamis.
+tundra|n.|a vast treeless Arctic region|توندرا|Reindeer graze on the Arctic tundra.|The tundra remains frozen for most of the year.
+typhoon|n.|a tropical cyclone in the northwest Pacific|توفند|A typhoon battered the Philippines.|Residents boarded up windows before the typhoon.
+valley|n.|a low area between hills or mountains|دره|The valley was filled with wildflowers.|A river runs through the fertile valley.
+vegetation|n.|plants in a particular area|پوشش گیاهی|Dense vegetation covers the hillside.|Fire destroyed miles of vegetation.
+volcano|n.|a mountain that erupts lava and ash|آتشفشان|The volcano erupted after decades of dormancy.|Ancient civilizations built cities near volcanoes.
+waterfall|n.|a cascade of water falling from a height|آبشار|We hiked to a spectacular waterfall.|The waterfall plunges over 100 metres.
+watershed|n.|an area of land that drains into a river|حوضه آبریز|The entire watershed was protected as a reserve.|Pollution upstream affects the whole watershed.
+wilderness|n.|an uncultivated uninhabited region|بیابان، طبیعت بکر|They camped deep in the wilderness.|The law protects wilderness areas from development.
+wildlife|n.|wild animals and plants|حیات وحش|Wildlife populations have declined sharply.|The reserve is home to diverse wildlife.
+wind|n.|moving air, especially outdoors|باد|Strong wind knocked over the fence.|Wind turbines generate electricity from wind.
+abstract|adj.|existing in thought rather than physical form|انتزاعی، غیرملموس|Justice is an abstract concept.|The painting features abstract shapes and colours.
+analysis|n.|detailed examination of elements or structure|تحلیل، آنالیز|Statistical analysis revealed a clear trend.|The report includes a thorough analysis of the data.
+anomaly|n.|something that deviates from what is standard|ناهنجاری، استثنا|The temperature reading was an anomaly.|Scientists investigated the anomaly in the results.
+apparatus|n.|equipment designed for a particular purpose|دستگاه، وسیله|The laboratory has modern scientific apparatus.|Firefighters use breathing apparatus in smoke.
+assumption|n.|something accepted as true without proof|فرض، گمان|His argument is based on a false assumption.|We should question our basic assumptions.
+atom|n.|the smallest unit of a chemical element|اتم|Everything is made up of atoms.|Scientists split the atom in the twentieth century.
+attribute|n./v.|a quality or characteristic; to regard as caused by|ویژگی؛ نسبت دادن|Curiosity is an important attribute in research.|She attributed the error to faulty equipment.
+bias|n.|an unfair preference for or against something|تعصب، جانبداری|Confirmation bias affects scientific judgement.|The study was designed to reduce researcher bias.
+calculation|n.|a mathematical determination of an amount|محاسبه|A simple calculation shows the answer is wrong.|Complex calculations require powerful computers.
+carbon|n.|a chemical element found in all living things|کربن|Carbon dioxide is a greenhouse gas.|Diamonds are made of pure carbon.
+catalyst|n.|a substance that speeds up a chemical reaction|کatalizور، محرک|The enzyme acts as a catalyst in digestion.|Her speech was a catalyst for social change.
+cell|n.|the smallest structural unit of a living organism|سلول|Every cell contains genetic material.|Red blood cells carry oxygen through the body.
+chamber|n.|an enclosed space or room|اتاق، محفظه|The combustion chamber ignites the fuel.|The heart has four chambers.
+chemical|adj./n.|relating to chemistry; a substance produced by a chemical process|شیمیایی؛ ماده شیمیایی|Chemical reactions release energy.|Household chemicals should be stored safely.
+compound|n.|a substance formed from two or more elements|ترکیب، compound|Water is a compound of hydrogen and oxygen.|The scientist synthesised a new compound.
+concept|n.|an abstract idea or general notion|مفهوم، ایده|The concept of gravity was revolutionary.|She explained the concept clearly to students.
+conclusion|n.|a judgement reached after consideration|نتیجه‌گیری|The study's conclusion supports our hypothesis.|We drew the conclusion that the method works.
+conduct|v./n.|to carry out; to allow heat or electricity to pass through|انجام دادن؛ هدایت کردن|Scientists conduct experiments to test theories.|Metals conduct electricity efficiently.

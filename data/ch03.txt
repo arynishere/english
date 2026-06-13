@@ -1,0 +1,60 @@
+conventional|adj.|based on what is generally accepted|متعارف، سنتی|Conventional medicine treats symptoms with drugs.|They chose a conventional wedding ceremony.
+criteria|n.|standards used to judge or decide something|معیارها|The criteria for admission include test scores.|Candidates must meet strict selection criteria.
+crucial|adj.|extremely important or essential|حیاتی، بسیار مهم|Timing is crucial to the success of the experiment.|Good communication is crucial in teamwork.
+data|n.|facts and statistics collected for analysis|داده، اطلاعات|Researchers analysed the data carefully.|The data supports our original hypothesis.
+deduce|v.|to reach a conclusion by reasoning|استنتاج کردن|From the evidence, we can deduce the cause.|Detectives deduced the suspect's motive.
+demonstrate|v.|to show clearly; to prove by evidence|نشان دادن، اثبات کردن|The experiment demonstrates how heat transfers.|She demonstrated the technique to the class.
+derive|v.|to obtain from a source; to come from|استخراج کردن؛ ناشی شدن|The word derives from Latin.|Many medicines derive from plants.
+detect|v.|to discover or notice something|کشف کردن، تشخیص دادن|Sensors detect movement in the room.|The test can detect the virus early.
+devise|v.|to plan or invent by careful thought|طراحی کردن، اختراع کردن|Engineers devised a new filtration system.|She devised a strategy to win the contract.
+dimension|n.|a measurable extent such as length or width|بُعد، اندازه|The problem has a social as well as economic dimension.|The sculpture has three dimensions.
+discriminate|v.|to recognize a difference; to treat unfairly|تمایز قائل شدن؛ تبعیض|The device can discriminate between signals.|It is illegal to discriminate on grounds of race.
+displace|v.|to move from the usual place; to replace|جابجا کردن، جایگزین کردن|Flooding displaced thousands of residents.|New technology displaces older methods.
+distinct|adj.|clearly different or separate|متمایز، جدا|The two species are genetically distinct.|There is a distinct smell of smoke.
+distort|v.|to pull or twist out of shape; to misrepresent|تحریف کردن، وارونه کردن|The mirror distorts your reflection.|Media can distort the facts of an event.
+distribution|n.|the way something is spread over an area|توزیع، پخش|The distribution of rainfall varies by region.|We studied the distribution of income in society.
+diverse|adj.|showing a great deal of variety|متنوع، گوناگون|The city has a diverse population.|Students from diverse backgrounds attend the university.
+domain|n.|an area of knowledge or activity|حوزه، دامنه|Genetics falls within the domain of biology.|The dispute is outside the court's domain.
+dynamic|adj.|characterized by constant change and activity|پویا، فعال|The market is highly dynamic.|She has a dynamic personality.
+eliminate|v.|to completely remove or get rid of|حذف کردن|The filter eliminates harmful bacteria.|We must eliminate errors from the report.
+empirical|adj.|based on observation or experiment rather than theory|تجربی، empiric|Empirical evidence supports the theory.|The study provides empirical data on learning.
+energy|n.|power derived from physical or chemical resources|انرژی|Solar energy is renewable and clean.|The athlete conserved her energy for the final lap.
+enhance|v.|to improve the quality or value of something|بهبود بخشیدن|Technology enhances productivity in the workplace.|Good lighting enhances the appearance of a room.
+entity|n.|something that exists as a single unit|نهاد، موجودیت|The company is a separate legal entity.|Each department operates as an independent entity.
+equivalent|n./adj.|equal in value or function|معادل|The two amounts are equivalent.|One kilometre is equivalent to 0.62 miles.
+establish|v.|to set up on a permanent basis; to prove|تأسیس کردن؛ اثبات کردن|The university was established in 1890.|Research established a link between diet and health.
+estimate|v./n.|to roughly calculate; an approximate calculation|تخمین زدن؛ برآورد|Experts estimate the cost at two million dollars.|The estimate proved to be accurate.
+evident|adj.|clearly seen or understood; obvious|آشکار، واضح|It was evident that she was tired.|The benefits of exercise are evident.
+evolve|v.|to develop gradually over time|تکامل یافتن|Languages evolve over centuries.|The company evolved from a small startup.
+exceed|v.|to be greater than a particular amount|فراتر رفتن، بیشتر بودن|Sales exceeded expectations this quarter.|Do not exceed the recommended dosage.
+exclude|v.|to deliberately leave out|مستثنی کردن، حذف کردن|The price excludes tax and shipping.|Women were excluded from the club for decades.
+explicit|adj.|stated clearly and in detail|صریح، آشکار|The contract contains explicit terms.|She gave explicit instructions to the team.
+exploit|v./n.|to use for benefit; a bold act|بهره بردن؛ سوءاستفاده|Companies exploit natural resources for profit.|The discovery was quickly exploited commercially.
+extract|v./n.|to remove or take out; a short passage|استخراج کردن؛ گزیده|Oil is extracted from underground deposits.|The book includes extracts from her diary.
+factor|n.|a circumstance that contributes to a result|عامل، فاکتور|Age is an important factor in recovery.|Several factors influenced the decision.
+finite|adj.|having limits or bounds|محدود، متناهی|Earth's resources are finite.|We have a finite amount of time to act.
+formula|n.|a mathematical rule or method|فرمول، دستور|The formula calculates compound interest.|There is no simple formula for success.
+foundation|n.|the basis on which something is built|بنیاد، پایه|Trust is the foundation of any relationship.|The foundation of the building cracked during the quake.
+framework|n.|a basic structure underlying a system|چارچوب، ساختار|The report provides a framework for reform.|We need a legal framework for data protection.
+function|n./v.|the purpose of something; to work properly|عملکرد؛ کار کردن|The main function of the heart is to pump blood.|The machine functions perfectly after repair.
+fundamental|adj.|forming a necessary base or core|اساسی، بنیادی|Freedom of speech is a fundamental right.|There is a fundamental difference between the two theories.
+generate|v.|to produce or create something|تولید کردن|The turbine generates electricity.|The discussion generated many new ideas.
+hypothesis|n.|a proposed explanation to be tested|فرضیه|The hypothesis was confirmed by the experiment.|Scientists form a hypothesis before testing.
+identify|v.|to recognize or establish what something is|شناسایی کردن|Researchers identified the gene responsible.|Can you identify the person in this photo?
+immense|adj.|extremely large or great|عظیم، بسیار بزرگ|The project required immense effort.|She felt immense relief after the exam.
+impact|n./v.|a strong effect; to have a strong effect on|تأثیر|The policy had a major impact on employment.|Technology impacts every aspect of daily life.
+implicit|adj.|implied though not directly expressed|ضمنی، نهفته|There was an implicit agreement between them.|The rules contain an implicit warning.
+imply|v.|to suggest something without stating it directly|مفهوم دادن، اشاره کردن|His tone implied that he was unhappy.|Are you implying that I am wrong?
+indicate|v.|to point out or show|نشان دادن، دلالت کردن|Symptoms indicate a possible infection.|The arrow indicates the direction of flow.
+individual|n./adj.|a single person; separate and distinct|فرد؛ فردی|Each individual has unique talents.|Individual rights must be protected.
+induce|v.|to bring about or give rise to|موجب شدن، القا کردن|Stress can induce headaches.|The drug induces sleep within minutes.
+infer|v.|to deduce from evidence and reasoning|استنباط کردن|From her smile, I inferred she was pleased.|We cannot infer causation from correlation alone.
+inhibit|v.|to hinder or restrain an action or process|مهار کردن، بازداشتن|Fear can inhibit creative thinking.|The drug inhibits the growth of bacteria.
+initial|adj./n.|existing at the beginning; the first letter|اولیه؛ حرف اول|The initial results look promising.|Her initials are J.K.
+innovation|n.|a new method, idea, or product|نوآوری|Innovation drives economic growth.|The smartphone was a major innovation.
+insight|n.|an accurate deep understanding|بینش، درک عمیق|The book offers insight into human behaviour.|Her research provided new insight into the disease.
+integrate|v.|to combine parts into a whole|ادغام کردن، یکپارچه کردن|Schools integrate technology into teaching.|Immigrants integrate into the local community.
+interact|v.|to act in a way that affects another|تعامل داشتن|Children learn by interacting with others.|The two chemicals interact to produce heat.
+intermediate|adj.|coming between two stages or levels|میانی، واسط|This course is for intermediate learners.|An intermediate step is required before completion.
+interpret|v.|to explain the meaning of something|تفسیر کردن|How do you interpret these results?|The poem can be interpreted in many ways.
+infrastructure|n.|the basic physical systems of a country or organization|زیرساخت|Roads and bridges are essential infrastructure.|The city invested in digital infrastructure.

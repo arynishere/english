@@ -52,6 +52,8 @@ init_db()
 STATIC_ROUTES = {
     "/manifest.json": STATIC / "manifest.json",
     "/sw.js": STATIC / "sw.js",
+    "/icons/logo.svg": STATIC / "icons" / "logo.svg",
+    "/icons/icon-180.png": STATIC / "icons" / "icon-180.png",
     "/icons/icon-192.png": STATIC / "icons" / "icon-192.png",
     "/icons/icon-512.png": STATIC / "icons" / "icon-512.png",
 }

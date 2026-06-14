@@ -1,4 +1,4 @@
-const CACHE = 'ielts-daily-v1';
+const CACHE = 'ielts-daily-v2';
 const ASSETS = ['/', '/manifest.json', '/icons/icon-192.png', '/icons/icon-512.png'];
 
 self.addEventListener('install', (e) => {

@@ -36,6 +36,10 @@ CSS = """
   --font-display: 'DM Serif Display', Georgia, serif;
   --radius: 16px;
   --shadow: 0 8px 32px rgba(0,0,0,.35);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 html { scroll-behavior: smooth; }
@@ -58,24 +62,35 @@ body::before {
 a { color: var(--accent2); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.app-shell { max-width: 760px; margin: 0 auto; padding: 0 1rem 5rem; }
+.app-shell {
+  max-width: 760px; margin: 0 auto;
+  padding: 0 max(1rem, var(--safe-left)) calc(5rem + var(--safe-bottom)) max(1rem, var(--safe-right));
+}
 
 /* ── Top bar ── */
 .topbar {
   position: sticky; top: 0; z-index: 100;
   background: rgba(8,12,16,.85);
   backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
-  padding: .85rem 0 .75rem;
+  padding: calc(.85rem + var(--safe-top)) max(1rem, var(--safe-right)) .75rem max(1rem, var(--safe-left));
   margin-bottom: 1.5rem;
 }
-.topbar-inner { max-width: 760px; margin: 0 auto; padding: 0 1rem; }
-.brand { display: flex; align-items: center; gap: .65rem; margin-bottom: .85rem; }
+.topbar::before {
+  content: '';
+  position: absolute;
+  left: 0; right: 0; top: calc(-1 * var(--safe-top));
+  height: var(--safe-top);
+  background: rgba(8,12,16,.92);
+  pointer-events: none;
+}
+.topbar-inner { max-width: 760px; margin: 0 auto; padding: 0; }
+.brand { display: flex; align-items: center; gap: .75rem; margin-bottom: .85rem; }
 .brand-icon {
-  width: 36px; height: 36px; border-radius: 10px;
-  background: linear-gradient(135deg, var(--accent), var(--purple));
-  display: flex; align-items: center; justify-content: center;
-  font-size: 1.1rem; flex-shrink: 0;
+  width: 42px; height: 42px; border-radius: 11px;
+  flex-shrink: 0; object-fit: cover;
+  box-shadow: 0 4px 14px rgba(79,140,255,.35);
 }
 .brand-text h1 {
   font-family: var(--font-fa);
@@ -404,6 +419,7 @@ a:hover { text-decoration: underline; }
   .page-title { font-size: 1.25rem; }
   .tab { font-size: .65rem; padding: .5rem .25rem; }
   .resource-card { flex-direction: column; gap: .65rem; }
+  .brand-icon { width: 38px; height: 38px; }
 }
 """
 
@@ -531,10 +547,11 @@ def render_shell(active: str, content: str, offset: int = 0, extra_js: str = "",
 <meta name="description" content="IELTS Daily Words — 4 words a day, books, and dictionaries">
 <meta name="theme-color" content="#4f8cff">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="IELTS Daily">
 <link rel="manifest" href="/manifest.json">
-<link rel="apple-touch-icon" href="/icons/icon-192.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
+<link rel="apple-touch-icon" href="/icons/icon-180.png">
 <title>IELTS Daily · english.v4vendetta.sbs</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -545,7 +562,7 @@ def render_shell(active: str, content: str, offset: int = 0, extra_js: str = "",
 <div class="topbar">
   <div class="topbar-inner">
     <div class="brand">
-      <div class="brand-icon">✦</div>
+      <img class="brand-icon" src="/icons/icon-192.png" width="42" height="42" alt="IELTS Daily logo">
       <div class="brand-text">
         <h1>IELTS Daily</h1>
         <p>english.v4vendetta.sbs · یادگیری هر روز</p>

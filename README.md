@@ -7,15 +7,18 @@ A minimal daily vocabulary app that teaches one **IELTS Essential Word** per day
 ## Features
 
 - **600 words** from the IELTS Essential Words list
-- **One word per day** — deterministic rotation based on the calendar date
+- **4 words per day** — deterministic rotation based on the calendar date
 - **Live definitions & examples** fetched daily from online dictionaries:
   - [Cambridge Dictionary](https://dictionary.cambridge.org/)
   - [Wiktionary](https://en.wiktionary.org/)
   - [Free Dictionary API](https://dictionaryapi.dev/) (when available)
 - **Source attribution** — each example and the page footer show where data came from
+- **Pronunciation buttons** — hear each word in **American** and **British** English (Cambridge / Wiktionary audio, with browser speech fallback)
 - Persian translation kept from the local IELTS word list
-- Automatic daily refresh via systemd timer (00:05 UTC)
-- Browse previous / next words with `/?offset=-1` and `/?offset=1`
+- Automatic daily refresh via systemd timer (00:05 Tehran time)
+- **User accounts** — register/login with email; mark words as read (never shown again)
+- **3 tabs:** Daily Words · Books · Dictionaries
+- Browse previous / next word sets with `/?tab=words&offset=-1`
 - Lightweight Python server (stdlib only, no dependencies)
 - Nginx reverse proxy + Let's Encrypt SSL
 
@@ -24,7 +27,8 @@ A minimal daily vocabulary app that teaches one **IELTS Essential Word** per day
 ```
 english/
 ├── app.py              # Web server
-├── fetcher.py          # Fetch from Cambridge, Wiktionary, Free Dictionary API
+├── views.py            # UI templates (tabs, cards, CSS)
+├── resources.json      # Books & dictionary links
 ├── update_daily.py     # Daily fetch + cache script
 ├── words.json          # 600-word vocabulary (generated)
 ├── build_words.py      # Rebuild words.json from data/ch*.txt
@@ -95,7 +99,7 @@ Cached data is stored in `cache/YYYY-MM-DD.json` and includes source URLs.
 systemctl enable --now english-daily-update.timer
 ```
 
-Runs daily at **00:05 UTC** with a small random delay.
+Runs daily at **00:05 Asia/Tehran** with a small random delay.
 
 ## Deploy (nginx + systemd)
 
@@ -118,12 +122,14 @@ location / {
 
 ## How "word of the day" works
 
-Words are selected by day index modulo 600, starting from `2026-01-01`:
+Words are selected in groups of **4 per day** by day index, starting from `2026-01-01`:
 
 ```python
-idx = (today - start_date).days % 600
-word = words[idx]
+base = (today - start_date).days * 4
+words = [word_list[(base + i) % 600] for i in range(4)]
 ```
+
+Full cycle: **150 days** (600 ÷ 4).
 
 Definitions and examples are then fetched live from online dictionaries and cached for that day. If the network is unavailable, the app falls back to the local `words.json` entry.
 

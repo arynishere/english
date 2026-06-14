@@ -11,7 +11,9 @@ import urllib.request
 from dataclasses import dataclass, field
 
 USER_AGENT = "Mozilla/5.0 (compatible; IELTSDailyWord/1.0; +https://english.v4vendetta.sbs)"
+API_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 TIMEOUT = 15
+CAMBRIDGE_BASE = "https://dictionary.cambridge.org"
 
 
 @dataclass
@@ -22,6 +24,7 @@ class SourceResult:
     pos: str = ""
     examples: list[str] = field(default_factory=list)
     phonetic: str = ""
+    pronunciations: dict = field(default_factory=dict)
     ok: bool = False
 
 
@@ -39,13 +42,83 @@ def _get(url: str, accept: str = "text/html") -> str | None:
 
 
 def _get_json(url: str) -> object | None:
-    body = _get(url, accept="application/json")
-    if not body:
-        return None
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": API_UA, "Accept": "application/json"},
+    )
     try:
-        return json.loads(body)
-    except json.JSONDecodeError:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            return json.loads(resp.read().decode("utf-8", errors="replace"))
+    except (urllib.error.URLError, TimeoutError, OSError, json.JSONDecodeError) as exc:
+        print(f"[fetcher] {url}: {exc}")
         return None
+
+
+def _head_ok(url: str) -> bool:
+    req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": API_UA})
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            return resp.status < 400
+    except (urllib.error.URLError, TimeoutError, OSError):
+        return False
+
+
+def _fetch_wiktionary_pronunciations(word: str) -> dict:
+    pron: dict[str, dict] = {}
+    w = word.lower()
+    for accent, tag in (("us", "en-us"), ("uk", "en-uk")):
+        url = f"https://en.wiktionary.org/wiki/Special:FilePath/{tag}-{w}.ogg"
+        if _head_ok(url):
+            pron[accent] = {
+                "audio": url,
+                "source": "Wiktionary",
+            }
+    return pron
+
+
+def _parse_cambridge_pronunciations(page: str, word: str) -> dict:
+    pron: dict[str, dict] = {}
+    w = word.lower()
+    body = re.search(r'class="di-body"[\s\S]{0,12000}', page)
+    chunk = body.group() if body else page
+
+    for accent, tag in (("uk", "uk_pron"), ("us", "us_pron")):
+        specific = re.search(rf'{tag}/[^"\']+/{re.escape(w)}\.mp3', chunk)
+        if specific:
+            pron[accent] = {
+                "audio": f"{CAMBRIDGE_BASE}/{specific.group()}",
+                "source": "Cambridge Dictionary",
+            }
+
+    for accent, cls in (("uk", "uk dpron"), ("us", "us dpron")):
+        block = re.search(rf'class="{cls}">.*?class="ipa dipa[^"]*">([^<]+)', chunk, re.DOTALL)
+        if block:
+            pron.setdefault(accent, {})["ipa"] = htmlmod.unescape(block.group(1).strip())
+
+    return pron
+
+
+def _parse_free_dict_pronunciations(data: list) -> dict:
+    pron: dict[str, dict] = {}
+    if not data:
+        return pron
+    entry = data[0]
+    for item in entry.get("phonetics", []):
+        audio = item.get("audio") or ""
+        if not audio:
+            continue
+        if "-uk" in audio or audio.endswith("-uk.mp3"):
+            accent = "uk"
+        elif "-us" in audio or audio.endswith("-us.mp3"):
+            accent = "us"
+        else:
+            continue
+        pron[accent] = {
+            "ipa": item.get("text", ""),
+            "audio": audio,
+            "source": "Free Dictionary API",
+        }
+    return pron
 
 
 def fetch_cambridge(word: str) -> SourceResult:
@@ -77,6 +150,7 @@ def fetch_cambridge(word: str) -> SourceResult:
     if phon:
         result.phonetic = htmlmod.unescape(phon.group(1).strip())
 
+    result.pronunciations = _parse_cambridge_pronunciations(page, word)
     result.ok = bool(result.definition or result.examples)
     return result
 
@@ -87,6 +161,8 @@ def fetch_wiktionary(word: str) -> SourceResult:
     result = SourceResult(name="Wiktionary", url=url)
     data = _get_json(api_url)
     if not isinstance(data, dict) or "en" not in data:
+        result.pronunciations = _fetch_wiktionary_pronunciations(word)
+        result.ok = bool(result.pronunciations)
         return result
 
     entry = data["en"][0]
@@ -106,7 +182,8 @@ def fetch_wiktionary(word: str) -> SourceResult:
                 result.examples.append(ex)
 
     result.examples = list(dict.fromkeys(result.examples))[:4]
-    result.ok = bool(result.definition or result.examples)
+    result.pronunciations = _fetch_wiktionary_pronunciations(word)
+    result.ok = bool(result.definition or result.examples or result.pronunciations)
     return result
 
 
@@ -119,6 +196,7 @@ def fetch_free_dictionary(word: str) -> SourceResult:
 
     entry = data[0]
     result.phonetic = entry.get("phonetic", "")
+    result.pronunciations = _parse_free_dict_pronunciations(data)
 
     for meaning in entry.get("meanings", []):
         if not result.pos:
@@ -138,6 +216,19 @@ def fetch_free_dictionary(word: str) -> SourceResult:
     result.examples = list(dict.fromkeys(result.examples))[:4]
     result.ok = bool(result.definition or result.examples)
     return result
+
+
+def _merge_pronunciations(active: list[SourceResult]) -> dict:
+    merged: dict[str, dict] = {}
+    for src in active:
+        for accent, info in src.pronunciations.items():
+            if accent not in merged:
+                merged[accent] = dict(info)
+                continue
+            for key, val in info.items():
+                if val and not merged[accent].get(key):
+                    merged[accent][key] = val
+    return merged
 
 
 def merge_results(word: str, local: dict, results: list[SourceResult]) -> dict:
@@ -171,12 +262,15 @@ def merge_results(word: str, local: dict, results: list[SourceResult]) -> dict:
     if not sources:
         sources = [{"name": "IELTS Essential Words (local)", "url": "https://github.com/arynishere/english"}]
 
+    pronunciations = _merge_pronunciations(active)
+
     return {
         "word": word,
         "pos": pos,
         "definition": definition,
         "fa": local.get("fa", ""),
         "phonetic": phonetic,
+        "pronunciations": pronunciations,
         "examples": examples[:4],
         "sources": sources,
         "online": bool(active),

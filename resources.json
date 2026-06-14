@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "title": "Official IELTS Practice Materials",
+      "author": "IELTS / Cambridge",
+      "desc": "Sample test questions and official preparation from ielts.org",
+      "type": "Free PDF",
+      "url": "https://www.ielts.org/for-test-takers/sample-test-questions",
+      "tags": ["Official", "Free"]
+    },
+    {
+      "title": "British Council — IELTS Preparation",
+      "author": "British Council",
+      "desc": "Free online lessons, videos, and practice activities",
+      "type": "Free",
+      "url": "https://takeielts.britishcouncil.org/prepare",
+      "tags": ["Official", "Free"]
+    },
+    {
+      "title": "Cambridge IELTS Series (Books 1–19)",
+      "author": "Cambridge University Press",
+      "desc": "Authentic past papers — the gold standard for IELTS practice",
+      "type": "Purchase",
+      "url": "https://www.cambridge.org/cambridgeenglish/exams-and-tests/ielts/preparation",
+      "tags": ["Past Papers", "Essential"]
+    },
+    {
+      "title": "Barron's IELTS Essential Words",
+      "author": "Lin Lougheed",
+      "desc": "600+ vocabulary words with exercises — basis of this app",
+      "type": "Purchase / PDF",
+      "url": "https://www.barronseduc.com/ielts-essential-words-9781438077412.html",
+      "tags": ["Vocabulary", "Essential"]
+    },
+    {
+      "title": "English Vocabulary in Use (Upper-Intermediate)",
+      "author": "Cambridge",
+      "desc": "Topic-based vocabulary with explanations and exercises",
+      "type": "Purchase",
+      "url": "https://www.cambridge.org/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-vocabulary-use-upper-intermediate",
+      "tags": ["Vocabulary", "Cambridge"]
+    },
+    {
+      "title": "English Grammar in Use",
+      "author": "Raymond Murphy / Cambridge",
+      "desc": "The most popular English grammar book worldwide",
+      "type": "Purchase",
+      "url": "https://www.cambridge.org/cambridgeenglish/catalog/grammar-vocabulary-and-pronunciation/english-grammar-use-fifth-edition",
+      "tags": ["Grammar", "Cambridge"]
+    },
+    {
+      "title": "Collins Writing for IELTS",
+      "author": "Anneli Williams",
+      "desc": "Step-by-step guide to IELTS Writing Task 1 & 2",
+      "type": "Purchase",
+      "url": "https://collins.co.uk/products/9780007456836",
+      "tags": ["Writing"]
+    },
+    {
+      "title": "The Official Cambridge Guide to IELTS",
+      "author": "Cambridge",
+      "desc": "Complete guide with strategies and 8 practice tests",
+      "type": "Purchase",
+      "url": "https://www.cambridge.org/cambridgeenglish/catalog/cambridge-english-exams-ielts/official-cambridge-guide-ielts",
+      "tags": ["All Skills", "Official"]
+    },
+    {
+      "title": "IELTS Trainer",
+      "author": "Cambridge",
+      "desc": "Six full practice tests with training and tips",
+      "type": "Purchase",
+      "url": "https://www.cambridge.org/cambridgeenglish/catalog/cambridge-english-exams-ielts/ielts-trainer-second-edition",
+      "tags": ["Practice Tests"]
+    },
+    {
+      "title": "Target Band 7 (Free Resources)",
+      "author": "IELTS-Blog",
+      "desc": "Free tips, sample essays, and band 7+ strategies",
+      "type": "Free",
+      "url": "https://www.ielts-blog.com/",
+      "tags": ["Free", "Tips"]
+    }
+  ],
+  "dictionaries_en_en": [
+    {
+      "name": "Cambridge Dictionary",
+      "desc": "Clear definitions, British & American pronunciation, learner-friendly",
+      "url": "https://dictionary.cambridge.org/",
+      "badge": "#1 for IELTS"
+    },
+    {
+      "name": "Oxford Learner's Dictionaries",
+      "desc": "Simple definitions written for learners, with word lists",
+      "url": "https://www.oxfordlearnersdictionaries.com/",
+      "badge": "Top"
+    },
+    {
+      "name": "Merriam-Webster",
+      "desc": "American English — authoritative definitions and thesaurus",
+      "url": "https://www.merriam-webster.com/",
+      "badge": "US English"
+    },
+    {
+      "name": "Collins Dictionary",
+      "desc": "British English with COBUILD definitions for learners",
+      "url": "https://www.collinsdictionary.com/",
+      "badge": "Top"
+    },
+    {
+      "name": "Longman (LDOCE)",
+      "desc": "Longman Dictionary of Contemporary English — 2000-word defining vocabulary",
+      "url": "https://www.ldoceonline.com/",
+      "badge": "Learner"
+    },
+    {
+      "name": "Macmillan Dictionary",
+      "desc": "Clear definitions with red words (most frequent 7500)",
+      "url": "https://www.macmillandictionary.com/",
+      "badge": "Learner"
+    },
+    {
+      "name": "WordReference",
+      "desc": "English definitions plus forums with real usage examples",
+      "url": "https://www.wordreference.com/definition/",
+      "badge": "Examples"
+    },
+    {
+      "name": "Vocabulary.com",
+      "desc": "Rich definitions with usage examples and word learning tools",
+      "url": "https://www.vocabulary.com/dictionary/",
+      "badge": "Learning"
+    }
+  ],
+  "dictionaries_en_fa": [
+    {
+      "name": "Vajehyab (واژه‌یاب)",
+      "desc": "جستجو در چند دیکشنری فارسی — پرکاربردترین برای فارسی‌زبان‌ها",
+      "url": "https://www.vajehyab.com/",
+      "badge": "محبوب‌ترین"
+    },
+    {
+      "name": "Aryanpour Dictionary",
+      "desc": "دیکشنری دو زبانه انگلیسی–فارسی آنلاین",
+      "url": "https://www.aryanpour.com/",
+      "badge": "En–Fa"
+    },
+    {
+      "name": "Glosbe (English–Persian)",
+      "desc": "ترجمه + جملات واقعی از corpus",
+      "url": "https://glosbe.com/en/fa",
+      "badge": "Examples"
+    },
+    {
+      "name": "Linguee (English–Persian)",
+      "desc": "ترجمه در متن — عالی برای دیدن کلمه در جمله",
+      "url": "https://www.linguee.com/english-persian",
+      "badge": "Context"
+    },
+    {
+      "name": "Google Translate",
+      "desc": "ترجمه سریع + تلفظ — برای واژگان روزمره",
+      "url": "https://translate.google.com/?sl=en&tl=fa",
+      "badge": "Quick"
+    },
+    {
+      "name": "Farsi123 Dictionary",
+      "desc": "دیکشنری آنلاین انگلیسی به فارسی",
+      "url": "https://dictionary.farsi123.com/",
+      "badge": "En–Fa"
+    },
+    {
+      "name": "Reverso Context (En–Fa)",
+      "desc": "ترجمه در بافت جمله — مثل Linguee",
+      "url": "https://context.reverso.net/translation/english-persian/",
+      "badge": "Context"
+    },
+    {
+      "name": "Dehkhoda Dictionary",
+      "desc": "لغتنامه دهخدا — مرجع فارسی برای فهم دقیق معانی",
+      "url": "https://www.dehkhodadictionary.com/",
+      "badge": "فارسی"
+    }
+  ]
+}

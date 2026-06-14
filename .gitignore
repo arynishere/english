@@ -5,3 +5,7 @@ __pycache__/
 .venv/
 venv/
 cache/
+venv/
+data/vapid/
+data/app.db
+data/.secret

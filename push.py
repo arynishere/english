@@ -19,14 +19,13 @@ def ensure_vapid() -> "object":
     VAPID_DIR.mkdir(parents=True, exist_ok=True)
     priv = VAPID_DIR / "private.pem"
     pub = VAPID_DIR / "public.pem"
+    if priv.exists():
+        return Vapid02.from_file(str(priv))
     vapid = Vapid02()
-    if priv.exists() and pub.exists():
-        vapid.from_file(str(priv))
-    else:
-        vapid.generate_keys()
-        priv.write_bytes(vapid.private_pem())
-        pub.write_bytes(vapid.public_pem())
-        priv.chmod(0o600)
+    vapid.generate_keys()
+    priv.write_bytes(vapid.private_pem())
+    pub.write_bytes(vapid.public_pem())
+    priv.chmod(0o600)
     return vapid
 
 
